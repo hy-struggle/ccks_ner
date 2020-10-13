@@ -1,0 +1,29 @@
+{
+	"originalText": "美国雷声公司与美国陆军“阿帕奇”项目管理办公室?美国特种作战司令部于当日在白沙导弹靶场联合进行AH-64A “阿帕奇”武装直升机机载高能激光系统试验?此次试验是首次在旋转翼飞机上应用全面集成的激光系统?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 88
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"originalText": "近日,澳大利亚国防部授予elbit系统公司一份为期三年的合同,即建立一个网络培训靶场,为澳大利亚国防部49名人员提供网络安全培训,以增强本国的网络安全能力?根据该合同,elbit系统公司将提供临时网络靶场?网络设计和建设?网络靶场训练和教学?国防部人员将使用网络训练靶场开展网络地形和相关系统的训练,保护国防和其他关键政府系统免受恶意网络入侵和破坏,增强本国的网络能力?澳大利亚国防军(ADF)加速防御网络训练项目毕业的49名网络战专家,将使用新的网络训练靶场来发展和保持自身技能?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 42
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 102
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 110
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 120
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 77
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 126
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 146
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 163
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 186,
+			"end_pos": 197
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 214,
+			"end_pos": 218
+		}
+	]
+}

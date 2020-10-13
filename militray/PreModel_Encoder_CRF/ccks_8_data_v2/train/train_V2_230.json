@@ -1,0 +1,23 @@
+{
+	"originalText": "美国海军于2月28日在诺福克海岸,从“底特律”号近海战斗舰上进行了“面面导弹任务模块”(SSMM)的试射?这是首次从近海战斗舰上试射SSMM导弹,也是近海战斗舰首次使用机械能垂直导弹发射装置发射导弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 49
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 95
+		}
+	]
+}

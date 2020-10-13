@@ -1,0 +1,83 @@
+{
+	"originalText": "洲际弹道导弹采用卫星辅助制导可极大提高制导精度?导弹可采用末制导传感器提高再入弹头的制导精度?使用改进的制导技术和弹头机动技术可使弹道导弹具备打击移动目标的能力?随着现代制导技术的发展,各国致力于提高导弹的精度和杀伤力?但装备大规模杀伤性弹头的弹道导弹不需要很大精度也可对一座城市造成巨大伤亡?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 14
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 63
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 23
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 105
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 109
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 35
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 41
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 121
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 146
+		}
+	]
+}

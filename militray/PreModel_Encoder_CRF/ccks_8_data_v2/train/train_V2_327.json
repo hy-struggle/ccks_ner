@@ -1,0 +1,65 @@
+{
+	"originalText": "6月20日,俄罗斯动力机械公司首次通过激光系统,在化学自动化设计局的试验场内成功点燃了液体火箭发动机中的氧气—氢气推进剂,测试了氧—氢火箭发动机的激光点火系统。在发射台上,试验系统被激活三次,激光器直接在燃烧室内点燃推进剂。借助此项工作,俄罗斯距离开发可靠的运载火箭发动机更近了一步。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 79
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 60
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 99
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 105
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 111
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 122
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 136
+		}
+	]
+}

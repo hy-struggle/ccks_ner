@@ -1,0 +1,35 @@
+{
+	"originalText": "近日,由洛克希德--马丁公司研制的首枚现代化升级改造的“战术导弹系统”在新墨西哥州白沙导弹靶场成功完成首次飞行试验?该导弹从一台“高机动火箭炮系统”发射,精确命中了130千米之外的目标,并完成了所有试验目标?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 92
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 79
+		}
+	]
+}

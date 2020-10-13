@@ -1,0 +1,101 @@
+{
+	"originalText": "印度当地时间6月5日11时58分,印度用“地球同步卫星运载火箭”GSLV-MarkⅢ从斯里赫里戈达岛发射通信卫星GSAT-19,卫星的目标轨道是近地点170千米?远地点35975千米?倾角21.5°的地球同步转移轨道?本次任务是GSLV-MarkⅢ火箭的第二次飞行,但却是首次轨道飞行,标志着印度已进入能将重达4吨卫星送入太空的“重型运载火箭俱乐部”,具备这种能力的国家还有美国?俄罗斯?欧洲?中国和日本?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 108
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 142
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 75
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 94
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 154
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 175
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 188,
+			"end_pos": 189
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 191,
+			"end_pos": 193
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 195,
+			"end_pos": 196
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 198,
+			"end_pos": 199
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 201,
+			"end_pos": 202
+		}
+	]
+}

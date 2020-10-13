@@ -1,0 +1,47 @@
+{
+	"originalText": "陆军装甲战备的最新成员“阿贾克斯”装甲战斗车在威尔士拉德纳靶场完成了首次实弹射击试验?此次试验内容包括40毫米机关炮和并列机枪的遥控射击,即通过遥控方式在静止的步兵战车上进行火炮?机枪射击试验?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 76
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 96
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 58
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 63
+		}
+	]
+}

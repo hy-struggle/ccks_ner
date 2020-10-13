@@ -1,0 +1,41 @@
+{
+	"originalText": "以色列于近期完成新型海基“铁穹”系统拦截试验,进一步检验了其防护海上战略资产的能力?5月初,以色列海军利用安装在“萨尔”-5型“艾拉特”级护卫舰上的海基“铁穹”系统,拦截了数枚岸基发射的近程火箭弹靶弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 82
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 38
+		}
+	]
+}

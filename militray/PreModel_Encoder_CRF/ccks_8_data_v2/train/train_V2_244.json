@@ -1,0 +1,23 @@
+{
+	"originalText": "3月14日,就在全世界聚焦美国在首次实战中向阿富汗东部“伊斯兰国”投下“炸弹之母” (GBU-43\/B大型空爆炸弹)这一重磅消息之时,美国国家核安全局宣布成功完成B61核弹现代化版本B61-12重力核弹的首次飞行试验?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 58
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 101
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 108
+		}
+	]
+}

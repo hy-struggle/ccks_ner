@@ -1,0 +1,47 @@
+{
+	"originalText": "印度于5月15日在东海岸对其自主设计的多层弹道导弹防御系统成功进行了试验?印度弹道导弹防御系统由“阿什温”先进防空导弹和“大地”防空拦截弹组成,可分别在大气层内20~40千米的高度和大气层外超过85千米的高度与目标进行交战?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 29
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 59
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 69
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 80
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 95
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 107
+		}
+	]
+}

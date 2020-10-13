@@ -1,0 +1,35 @@
+{
+	"originalText": "目前,美国陆军正在位于欧文堡的国家训练中心对一种新型小型无人机进行评估?该小型无人机旨在收集战场上的敌人信息,供网络作战人员和军事情报人员分析使用?在最近于国家训练中心开展的试验中,该小型无人机为第1步兵师的第1装甲旅战斗队提供了支持?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 31
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 48
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 54
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 62
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 69
+		}
+	]
+}

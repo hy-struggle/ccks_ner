@@ -1,0 +1,77 @@
+{
+	"originalText": " “瓦格纳克”是一型重450千克的防区外精确滑翔弹药,采用流线型轻型碳纤维复合弹体,发射高度为12千米时射程为154千米,最大打击速度马赫数0.8,由惯性系统和GPS系统导航,装有多频段主动射频导引头和长波红外(IR)传感器,采用重225千克的串联战斗部?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 2,
+			"end_pos": 7
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 26
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 11
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 54
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 67
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 41
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 85
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 100
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 112
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 127
+		}
+	]
+}

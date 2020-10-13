@@ -1,0 +1,59 @@
+{
+	"originalText": "巴基斯坦通过试射和演习提升陆军战略力量司令部和导弹部队的能力?自2004年来,巴基斯坦7次成功试射“沙欣-2”导弹?2015年,巴基斯坦开始试射射程更远的“沙欣-3”导弹?2017年1月,开始试射可携带分导式多弹头的“阿巴比”导弹?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 8
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 11
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 115
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 107
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 22
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 27
+		}
+	]
+}

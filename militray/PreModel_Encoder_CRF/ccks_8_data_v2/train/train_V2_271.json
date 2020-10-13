@@ -1,0 +1,71 @@
+{
+	"originalText": "根据政府新闻局的一份声明, 印度于7 月16 日成功试射了1 枚“布拉莫斯” (PJ -10) 超声速巡航导弹, 以验证其“寿命延长” 的能力并确认武器系统在“极端天气条件下” 的作战效能?导弹由位于印度东海岸巴拉索尔综合测试场的移动发射器发射, 关键部件正常运行?声明称,“布拉莫斯” 巡航导弹再次证明了在海况7 级?海浪高度9 米情况下的全天候能力?该试验还证实了武器在“最恶劣天气条件下” 的远射程能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 120
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 86
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 156
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 164
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 172,
+			"end_pos": 176
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 189,
+			"end_pos": 195
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 200,
+			"end_pos": 204
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 128
+		}
+	]
+}

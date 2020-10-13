@@ -1,0 +1,53 @@
+{
+	"originalText": "根据美国导弹防御局(MDA)发布的新闻,日本 “爱宕 ”级 “宙斯盾 ”驱逐舰在9月11日与美国海军开展的联合试验中,成功利用 “标准 ”-3Block1B导弹拦截了一枚近程弹道导弹?此次试验在夏威夷的太平洋导弹靶场举行,旨在试验 “爱宕 ”级驱逐舰战斗系统的装备能力?此次试验是一次重大的里程碑事件,验证了日本驱逐舰 “宙斯盾 ”弹道导弹防御系统升级后的作战能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 80
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 91
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 174
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 134
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 182
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 129
+		}
+	]
+}

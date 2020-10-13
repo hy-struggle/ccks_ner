@@ -1,0 +1,41 @@
+{
+	"originalText": "美国雷声公司与美国海军和日本签订了3670万美元的合同,提供RIM-116旋转弹体导弹(RAM)制导导弹发射系统(GMLS)的原料采购?零件制造?组装?测试和交付RAM MK 49 Mod 3 GMLS,该合同中,有91%是美国海军的购买合同,9%是日本的购买合同?旋转弹体导弹是一种旨在为多种舰船平台提供反舰导弹防御的系统,是美国和德国合作研制的导弹?制导导弹发射系统预计在2021年6月完成研制?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 101
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 178,
+			"end_pos": 185
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 151
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 159
+		}
+	]
+}

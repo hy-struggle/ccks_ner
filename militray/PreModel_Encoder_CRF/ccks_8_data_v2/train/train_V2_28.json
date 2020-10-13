@@ -1,0 +1,65 @@
+{
+	"originalText": "美国海军于近日在海军水面作战中心卡德洛克分部,试验了AN\/AQS-20A可变深度声纳系统在多种水面艇和半潜艇拖曳下的流体力学活动?此次试验旨在改进声纳系统搜索水雷的能力,由海军无人海上系统项目办公室联合海军水面作战中心卡德洛克分部共同开展?该声纳系统主要用于海军近海战斗舰,利用成像声纳定位?信号处理和计算机运算来探测水雷,并进行分类?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 145
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 150
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 156
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 136
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 161
+		}
+	]
+}

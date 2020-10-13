@@ -1,0 +1,29 @@
+{
+	"originalText": "伊朗海军在波斯湾举行的军事演习中试射了一枚新型潜射巡航导弹“纳斯尔”,并命中目标?前一日,伊朗海军还试射了一枚激光制导导弹“Dehlaviyeh”?但关于这两枚国产导弹的射程却并未透露?本次演习代号为“Velayat” -95,演习区域设在霍尔木兹海峡?阿曼海和印度洋北部?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 87
+		}
+	]
+}

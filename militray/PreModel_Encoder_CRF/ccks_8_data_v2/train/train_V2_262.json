@@ -1,0 +1,65 @@
+{
+	"originalText": "俄罗斯海军第二艘“戈尔什科夫海军上将”级护卫舰(即22350型隐身护卫舰)“卡萨托诺夫海军上将”号将于今年6月底完成机舱测试,11月开展海试?该级护卫舰由俄罗斯北方设计局设计,主要用于在远洋和近海水域执行作战任务,舰长130米,续航能力超过4000海里,排水量5000吨,将装备反潜和反舰导弹,一门130毫米舰炮和一架直升机?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 62
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 109
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 118
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 130
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 146
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 156
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 162
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 100
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 106
+		}
+	]
+}

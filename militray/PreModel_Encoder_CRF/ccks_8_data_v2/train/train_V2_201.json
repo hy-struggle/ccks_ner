@@ -1,0 +1,71 @@
+{
+	"originalText": "法 11 月14 日, 法英联合研制的“海毒液” 反舰导弹进行了第三次飞行试验, 试验取得成功?法国武器装备总署?欧洲导弹集团在地中海试验场进行了导弹发射试验, 直升机从岛上起飞, 按照中距离发射条件, 发射了“ 海毒液” 反舰导弹, 导弹在飞行过程中进行目标识别并锁定目标, 并进行了人在回路的测试, 最终击中了安装有集装箱和柜子的试验船?预计该型导弹将于2019 年完成研制试验并开始试生产?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 125
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 132
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 163
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 166
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 170
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 147
+		}
+	]
+}

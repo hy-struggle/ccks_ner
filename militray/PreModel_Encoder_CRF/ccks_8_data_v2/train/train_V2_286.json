@@ -1,0 +1,53 @@
+{
+	"originalText": "美国国防部宣布“微型空射诱饵平台” ( MALD - X) 项目分别于8月20日和22日成功完成了战略能力办公室(SCO)?空军MALD项目办公室和海军空战中心的一系列自由飞行演示?MALD - X 是MALD - J的升级版本?这一项目基于成熟的MALD平台, 旨在展示协作和平台所提供的运营效率和战术优势, 并通过完成先进的电子战术自由飞行演示来突出其性能?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 90
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 109
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 114
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 130
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 149
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 154
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 174
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"originalText": "美国海军陆战队于2019年5月授出合同,用于引入“海军打击导弹”(NSM),该导弹由挪威康斯伯格公司研制,射程200千米,具备隐身作战能力?美国海军曾在2018年5月选择该导弹作为濒海战斗舰的采购型号,并于2019年10月进行了导弹试射?美国海军陆战队选择与美国海军相同的反舰导弹将增强联合互操作性,同时降低成本和后勤负担?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 140
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 55
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 69
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 149
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 161
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 95
+		}
+	]
+}

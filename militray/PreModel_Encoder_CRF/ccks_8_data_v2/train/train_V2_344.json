@@ -1,0 +1,53 @@
+{
+	"originalText": "俄罗斯建有强大的携带潜射弹道导弹的核潜艇力量?俄罗斯推动“德尔塔”级潜艇上“轻舟”SS-N-23导弹的升级?俄罗斯还在进行“布拉瓦”(SS-N-32)潜射弹道导弹研制?“布拉瓦”导弹可装载在俄罗斯新一代“北风之神”潜艇上?俄罗斯潜射导弹可水上或水下发射?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 16
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 109
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 121
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 124
+		}
+	]
+}

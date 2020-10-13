@@ -1,0 +1,35 @@
+{
+	"originalText": "经过一系列昼夜全天候试验,欧洲导弹集团德国公司离部署新型激光武器系统更近了一步?此次试验在位于波罗的海普特罗斯的联邦德国国防军的部队训练基地进行,试验时间为10月4日至14日,在一系列模拟拦截空中靶标的想定下,测试了新型激光武器系统演示验证机的光束制导和跟踪系统,并没有发射高能激光?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 6,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 121
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 131
+		}
+	]
+}

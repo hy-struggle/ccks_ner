@@ -1,0 +1,59 @@
+{
+	"originalText": "俄罗斯最新型非制导空地火箭弹“装甲战士”已通过国家试验,近期将投入军事应用? “装甲战士”射程6千米,可装备苏-25和米-8直升机,主要用于打击单一目标和群体目标,包括有生力量,无装甲的和具备轻型装甲的军事车辆,以及全天候?任何水文条件下的水面舰船?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 20
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 47
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 58
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 65
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 76
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 81
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 88
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 105
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		}
+	]
+}

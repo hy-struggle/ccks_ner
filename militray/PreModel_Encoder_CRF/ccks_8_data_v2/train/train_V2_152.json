@@ -1,0 +1,77 @@
+{
+	"originalText": "美国海军在水面作战中心达尔格伦分部控制实验室对航空母舰战斗群的作战系统与水上和空中设备的互操作能力进行了验证?试验中,模拟的“约翰·C·斯坦尼斯”号(CVN?74)航空母舰战斗群和代表作战系统的硬件首次在陆地环境下相互协调配合?试验首次模拟了与机动目标的交战,验证了海军使用载人和无人平台对超视距目标的探测和追踪能力,以及与未来无人水面艇的交战能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 89
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 49
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 106
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 144
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 150
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 158
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 169
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 171,
+			"end_pos": 174
+		}
+	]
+}

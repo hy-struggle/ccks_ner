@@ -1,0 +1,65 @@
+{
+	"originalText": "6月18日至6月22日,以色列导弹防御组织联合美国导弹防御局和欧洲司令部开展了为期5天的“综合地面试验”?此次试验代号为IGT-16,试验中以色列参与的防空反导系统包括“箭”-2和“箭”-3拦截弹及“大卫投石索”武器系统等,美国参与的防空反导系统包括“指挥\/控制\/通信系统”“宙斯盾”舰和“标准”-3拦截弹?“末段高空区域防御”系统和“爱国者”导弹防御系统等?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 82
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 89
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 98
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 137
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 143
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 153
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 166
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 178
+		}
+	]
+}

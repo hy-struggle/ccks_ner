@@ -1,0 +1,29 @@
+{
+	"originalText": "俄 俄罗斯宣布激光武器投入服役, 这也是世界上首次有国家宣布激光武器投入现役?俄罗斯359媒体报道称, 该激光武器的机制采用了新的物理原理, 在部队中进行试验服役?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 11
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 69
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 81
+		}
+	]
+}

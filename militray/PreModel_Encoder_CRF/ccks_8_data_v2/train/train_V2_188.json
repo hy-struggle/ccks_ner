@@ -1,0 +1,53 @@
+{
+	"originalText": "美 雷声公司2017 年9 月29 日正式向美国空军交付了新型GPS 地面运行控制系统?随后在今年的4 月份进行了第一轮网络安全试验, 在5 月进行了第二轮网络安全试验, 最近完成了第三轮网络安全试验, 整体网络安全易损性试验完成?试验进行了内部和外部压力测试,其网络安全防御思想是分层防御, 进行了广泛的降低导航和时间数据的事件试验, 为下个月第一次GPS3 卫星的发射和在轨测试和运行做好了准备?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 113
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 167
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 162
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 140
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 145
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 177,
+			"end_pos": 183
+		}
+	]
+}

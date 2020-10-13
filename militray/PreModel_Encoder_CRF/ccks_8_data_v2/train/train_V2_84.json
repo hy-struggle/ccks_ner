@@ -1,0 +1,35 @@
+{
+	"originalText": "美国与澳大利亚合作项目“高超声速国际飞行研究试验”(HIFiRE)在伍默拉试验靶场进行飞行试验?试验性火箭达到278千米的最大高度,实现马赫数7.5的目标速度?本次飞行试验是HIFiRE项目的一部分?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 53
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 65
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "印度空军“老虎”中队近期成功试射“米卡”远程空空导弹?试验中,“幻影”-2000升级版战斗机向机动目标发射导弹,并直接命中低空飞行的目标,该目标体积远远小于实际飞机?印度国防部称,随着导弹发射包线的成功验证,印度空军成为世界上少数几个拥有超视距空空远程导弹的空军之一?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 51
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 63
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 98
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 108
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 128
+		}
+	]
+}

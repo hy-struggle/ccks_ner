@@ -1,0 +1,53 @@
+{
+	"originalText": "美国陆军新近举行的实弹射击试验表明,MQ-1C“灰鹰”无人机利用“联合空地导弹”打击移动目标的表现优于AGM-114“地狱火”导弹?联合战术弹药项目经理罗梅罗介绍称,通用原子航空系统公司生产的这架无人机在达格威试验基地成功利用“联合空地导弹”的双模导引头追踪并击中一辆移动时速为32千米的卡车?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 15
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 146
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 127
+		}
+	]
+}

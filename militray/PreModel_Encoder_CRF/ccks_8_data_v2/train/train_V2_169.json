@@ -1,0 +1,59 @@
+{
+	"originalText": "美国海军和美国国防部战略办公室(StrategicCapabilitiesOffice,SCO)在加利福尼亚的中国湖进行100多架无人机的飞行试验,验证了自主无人机蜂群技术?试验期间,波音F\/A-18E\/F“超级大黄蜂”发射103架“灰山鹑”(Perdix)无人机,验证集体决策?自适应编队飞行和自我修复等蜂群行为?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 68
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 132
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 157
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 139
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 147
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 152
+		}
+	]
+}

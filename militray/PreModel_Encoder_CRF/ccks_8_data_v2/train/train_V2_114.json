@@ -1,0 +1,41 @@
+{
+	"originalText": "用作两栖作战的主要后勤运输机V-22“鱼鹰”垂直起降倾转旋翼机已在“卡尔·文森”号核动力航空母舰开始试验?预计该型飞机将成为未来在航空母舰上执行舰载交付作战任务的唯一后勤平台?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 48
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 6
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 14
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 80
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		}
+	]
+}

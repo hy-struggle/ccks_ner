@@ -1,0 +1,47 @@
+{
+	"originalText": "意大利海军在一次实弹射击演习中从“贝尔加米尼”级护卫舰上发射了1枚“紫菀”30导弹?此次试验是意大利海军面空增程自防御系统项目的一部分,该系统旨在增强意大利海军舰艇的防御能力?此外,此次试验还标志着位于意大利撒丁岛的Salto?di?Quirra三军联合试验靶场重新服役?该靶场已关闭4年,期间进行了设施设备的升级改造,以满足现有的环境与安全需要?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 154
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 173
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 82
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		}
+	]
+}

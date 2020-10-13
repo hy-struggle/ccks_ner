@@ -1,0 +1,41 @@
+{
+	"originalText": "5月23日上午9时30分,印度国产“可重复使用运载器—技术验证机”(RLV-TD)搭载HS9固体运载火箭从萨迪什·达万航天中心成功发射,最终降落在距斯里哈里科塔岛450千米的指定海域?整个飞行过程持续770秒,位于斯里哈里科塔岛的多个地面站以及1艘测量船对飞行过程进行了跟踪?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 91
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 98
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 127
+		}
+	]
+}

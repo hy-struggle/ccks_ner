@@ -1,0 +1,41 @@
+{
+	"originalText": "1月26日,美国海军未来远征快速运输舰“尤马”号在墨西哥湾经过2天的鉴定,圆满完成验收试验并返回奥斯塔美国船厂?试验期间,美国海军检查和调查委员会通过对“尤马”号进行大量试验(包括在码头和海上),验证了其设备的准备情况和系统操作情况,评估确定了“尤马”号符合最终验收的所有标准?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 109
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 116
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 104
+		}
+	]
+}

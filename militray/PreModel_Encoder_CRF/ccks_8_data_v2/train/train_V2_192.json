@@ -1,0 +1,107 @@
+{
+	"originalText": "美 11 月19 日, 美国空军F -35 战斗机在犹他州希尔空军基地进行了首次“大象漫步” 演习, 数十架F -35A 战斗机在极短时间内升空, 这标志着该战机已经具备了批量化?规模化的战斗力, 证明美国空军有能力在接到通知后, 立即升空任意数量的战斗机执行任务?空军称, 演习证实了他们有能力对空中和地面目标使用大量的喷气式飞机, 展示了F - 35 战斗机的战备性和杀伤力?此次演习是第一次涉及F - 35 联合攻击战斗机的此类演习?该武力展示正值美国军方继续努力提高其在世界各地的空军准备状态?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 201,
+			"end_pos": 214
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 69
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 93
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 97
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 185
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 187,
+			"end_pos": 189
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 128
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 156
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 162,
+			"end_pos": 166
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 228,
+			"end_pos": 231
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 240,
+			"end_pos": 243
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 245,
+			"end_pos": 250
+		}
+	]
+}

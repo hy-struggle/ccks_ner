@@ -1,0 +1,53 @@
+{
+	"originalText": "美国陆军尤马试验场(YPG)长期致力于系统性能的测试。目前,AN\/TPS-80地面\/空中任务定向雷达(G\/ATOR)系统正在进行适用性试验。G\/ATORBlock2初始性能试验内容是探测陆基武器发射，正在进行测试的G\/ATOR雷达,其发射\/接收模块的半导体使用的是砷化镓(GaAs)技术,今年晚些时候在尤马试验场即将测试的雷达将采用更为高效的氮化镓(GaN)技术。这次适用性试验目的是对4个使用砷化镓(GaAs)技术的系统进行实地考察。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 88
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 97
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 124
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 128
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 143
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 172,
+			"end_pos": 181
+		}
+	]
+}

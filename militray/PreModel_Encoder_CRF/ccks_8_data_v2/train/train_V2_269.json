@@ -1,0 +1,59 @@
+{
+	"originalText": "美国海军无人与小型战斗舰项目执行办公室( PEO USC) 公共事务部最近宣布成功完成了两次反潜战( ASW) 任务包试验里程碑?第一项试验是关于双模阵列发射(DART) 任务系统拖体和相关布放与回收组件的1 号码头试验(Dockside -1 test); 第二项试验是有源阵列的全功率水下试验, 是首次有机会在一个开放水域的测试环境中演示这项新技术, 该试验对双模阵列发射系统和反潜战任务模块来说是一个巨大的进步?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 102
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 128
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 140
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 148
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 163
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 168
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 192,
+			"end_pos": 198
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 144
+		}
+	]
+}

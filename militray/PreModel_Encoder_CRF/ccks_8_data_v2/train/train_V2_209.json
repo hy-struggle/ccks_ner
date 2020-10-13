@@ -1,0 +1,89 @@
+{
+	"originalText": "俄罗斯国防部副部长尤里·鲍里索夫称,俄罗斯第五代战斗机T-50(PAKFA)正在开展导弹和炸弹武器的集成试验?该试验是对飞机系统进行鉴定,包括空空?空面导弹和炸弹等航空武器集成,是重要的试验阶段,目的是验证T-50战机所有的战斗能力?T-50战机是第五代隐身战斗机,是单座双引擎多用途喷气式战斗机,主要用于制空权争夺和空中攻击?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 86
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 116
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 129
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 148
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 158
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 163
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "美国导弹防御局联合美国空军第30航天联队?一体化导弹防御联合职能司令部和北方司令部,共同开展了一次“地基中段防御系统”的非拦截飞行试验,进一步验证了重新设计后的“能力增强2”型大气层外杀伤拦截器的助推器性能?“能力增强2”型地基拦截弹在2010年的2次飞行拦截试验中,由于EKV的质量配比和惯性测量单元出现问题,试验均失败?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 97
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 117
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 101
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 139
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 144
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 151
+		}
+	]
+}

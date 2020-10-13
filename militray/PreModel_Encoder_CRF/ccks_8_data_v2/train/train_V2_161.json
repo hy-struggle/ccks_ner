@@ -1,0 +1,89 @@
+{
+	"originalText": "美国陆军利用多任务发射器试射了小型碰撞杀伤导弹——1枚AIM-9X “响尾蛇”导弹和一枚AGM-114“地狱火”导弹?试射拦截导弹的目的是试验其摧毁来袭敌方炮弹?火箭弹?巡航导弹?无人机以及飞机的能力,给地面部队提供保护?这款多任务发射器可发射多种不同类型的武器,通常这类发射器是按空射这些导弹设计的?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 58
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 80
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 93
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 97
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 106
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 128
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 131
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 143
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 147
+		}
+	]
+}

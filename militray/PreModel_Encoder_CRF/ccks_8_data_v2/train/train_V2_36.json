@@ -1,0 +1,53 @@
+{
+	"originalText": "当日印度标准时间10时25分,印度极轨卫星运载火箭从萨迪什·达万航天中心一号发射塔架起飞,将重1235千克的Resourcesat?2A卫星送入高度823千米的极地太阳同步轨道?这是印度空间研究组织极轨卫星运载火箭的第38次发射?本次发射的极轨卫星运载火箭采用了“XL”版构型,携带了6个固体捆绑式助推器?\r\n\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 47
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 152
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "根据韩国国防部消息,韩国成功测试发射新型“玄武”-2B弹道导弹,射程500~800千米,可覆盖整个朝鲜?韩国此前因遵守《导弹技术控制制度》(MTCR)的限制条例,而研发“玄武”-2短程弹道导弹,现在更加先进的版本可能会突破这些限制?导弹的精度约为30米(CEP),配置集束弹药弹头?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 34
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 121
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 140
+		}
+	]
+}

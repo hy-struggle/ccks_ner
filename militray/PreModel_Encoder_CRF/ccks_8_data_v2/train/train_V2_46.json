@@ -1,0 +1,53 @@
+{
+	"originalText": "俄罗斯联合飞机制造公司一款更加先进的“伊尔”Ⅱ-76军用运输机已在俄罗斯茹科夫斯基进行了首次飞行试验,试验进展顺利?俄罗斯联合飞机制造公司表示,该型4引擎运输机在飞行?导航?无线电通信和照明系统方面都进行了改进,并且更换了老旧部件,因此可使飞机继续使用40年?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 80
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 83
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 86
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 92
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 95
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 97
+		}
+	]
+}

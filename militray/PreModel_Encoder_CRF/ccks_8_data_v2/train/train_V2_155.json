@@ -1,0 +1,53 @@
+{
+	"originalText": "该公司的“军团”吊舱挂载F-15C飞机,在佛罗里达州的杰克逊维尔空军国民警卫队基地,完成首次飞行试验,验证了其远程侦察和跟踪空中威胁的能力?该吊舱采用通用接口,无需改装便可与F-15C飞机快速集成?洛克希德·马丁公司相关负责人表示,此次试验类似去年的F-16挂载飞行试验,吊舱能够在典型的想定中跟踪多个空中目标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 10
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 135
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 155
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 59
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 66
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "俄罗斯已开始试验新型陆基电子战系统,可保护部队和民用设施免遭来自空中和太空的攻击?俄罗斯国家工业和科技集团公司Rostec旗下子公司无线电电子科技公司的消息人士向塔斯社透露,该公司已经启动了陆基电子战系统部件的工厂试验工作,试验将于2016年完成?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 23
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 28
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 37
+		}
+	]
+}

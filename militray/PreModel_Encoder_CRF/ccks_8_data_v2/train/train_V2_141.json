@@ -1,0 +1,65 @@
+{
+	"originalText": "美国空军完成升级版B-52轰炸机的首次飞行试验?升级后的发射器使B-52轰炸机首次在弹舱内搭载GPS制导的“智能”炸弹?此次试验是第775试验中队在加利福尼亚爱德华兹空军基地将要完成三个试验阶段的首轮试验,旨在收集联合空对面防区外导弹和新型发射器的协作作战数据,其第二轮试验将会使用实弹,第三轮试验将会验证常规旋转发射器的全部功能?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 16
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 117
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 130
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 143
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 31
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 44
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 123
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 160
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "中近程反舰导弹方面,美国海军2月宣布计划在2020-2025年间,每年为5-7艘“洛杉矶”级攻击型核潜艇装备“捕鲸叉”导弹系统,以弥补“海上打击战斧”导弹服役前的能力差距?目前美国海军主要装备的“捕鲸叉”Block 1C型射程124千米,正在研制的Block 2+ER型射程达到248千米?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 7
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 134
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 113
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 77
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		}
+	]
+}

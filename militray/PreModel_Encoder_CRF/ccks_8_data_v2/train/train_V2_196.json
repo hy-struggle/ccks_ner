@@ -1,0 +1,47 @@
+{
+	"originalText": "俄 俄罗斯国防部发布了一段显示新型反弹道导弹威力的视频?在视频中, 一辆运输车在导弹发射前将导弹的发射容器运到位于哈萨克斯坦北部卡拉干达地区的萨雷沙甘反弹道导弹试验场附近的一个荒凉区域?俄罗斯国防部表示, 此次导弹试射是完全成功的?该弹道导弹拦截装置是53T6 反弹道导弹系统的替代品, 也是保护首都莫斯科的高科技导弹防御系统的一部分?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 125
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 138
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 153
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 163
+		}
+	]
+}

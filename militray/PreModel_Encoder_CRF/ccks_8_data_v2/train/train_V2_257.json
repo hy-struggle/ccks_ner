@@ -1,0 +1,41 @@
+{
+	"originalText": "6月26日俄罗斯海军“北风之神”级核潜艇(955型) “尤里·多尔戈鲁基”号近日在挪威附近的巴伦支海成功试射“布拉瓦”洲际弹道导弹,导弹命中位于堪察加半岛库拉导弹试验靶场的目标?俄罗斯国防部称根据作战训练计划,导弹是从水下发射?监控数据显示,导弹完成了整个飞行周期,并成功命中指定目标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 104
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 132
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 142
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 111
+		}
+	]
+}

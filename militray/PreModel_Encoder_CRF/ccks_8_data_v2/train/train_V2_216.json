@@ -1,0 +1,35 @@
+{
+	"originalText": "印度于当地时间上午7:25从阿卜杜勒·卡拉姆岛成功地试射一枚导弹,名为PDV拦截弹?拦截弹拦截的目标从一只位于孟加拉湾的舰船上发射,该舰船距离阿卜杜勒·卡拉姆岛超过2000千米?此次试射是印度发展其新型弹道导弹防御系统的一个重要组成部分?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 109
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 71
+		}
+	]
+}

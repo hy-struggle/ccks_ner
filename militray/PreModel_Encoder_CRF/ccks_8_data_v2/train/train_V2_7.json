@@ -1,0 +1,41 @@
+{
+	"originalText": "印度国防研究与发展局成功从1辆坦克上对其最新研制的热压弹药进行了“尘雾射击”试验?印军从位于奥利萨邦海岸的1座试验场上通过其自主研制的“阿琼”主战坦克对该型弹药进行了2次试射?印度1位不愿透露姓名的国防官员表示,高爆弹药是从1辆“阿琼”主战坦克上发射,成功击中了1辆退役的俄制T55坦克目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 145
+		}
+	]
+}

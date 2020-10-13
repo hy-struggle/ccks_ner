@@ -1,0 +1,59 @@
+{
+	"originalText": "美国陆军在位于佛罗里达州的埃格林空军基地完成了一种新型近炸引信的合格性试验,该近炸引信可大幅增强由雷声公司生产的 “毒刺”导弹的攻击性能?装备了新型近炸引信的 “毒刺 ”导弹将使轻型自给防空系统能够摧毁更广泛的威胁目标,如无人机系统,并且可在接近目标时引爆导弹弹头,保证其拦截能力?随着近炸引信合格性试验的完成,美国陆军将根据 “紧急战备物资放行许可 ”对其进行短期部署?作为在俄克拉荷马州麦卡莱斯特兵工厂进行的延寿计划的一部分,美国陆军计划将新的近炸引信与 “毒刺 ”导弹完成整合?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 37
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 140
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 132
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 63
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 97
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 116
+		}
+	]
+}

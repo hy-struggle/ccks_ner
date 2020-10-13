@@ -1,0 +1,83 @@
+{
+	"originalText": "美国空军机动司令部与合同商罗克韦尔·科林斯公司共同完成了新型通信系统的一系列现场试验?试验中,一架安装地面宽带高频无线电设备的C-17飞机,在多佛空军基地和刘易斯—麦科德联合空军基地之间进行了“空—地”宽带数据传输,演示了视频流?实时交谈?文件传输和数字语音音频等内容,验证了宽带数据传输的可行性,以及宽带高频通信系统在环境?地理位置和时间发生变化情况下的性能及可靠性?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 107
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 159
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 114
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 119
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 131
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 144
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 148
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 170
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 184
+		}
+	]
+}

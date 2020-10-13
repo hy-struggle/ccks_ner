@@ -1,0 +1,65 @@
+{
+	"originalText": "“长刀鱼”水雷探测无人潜航器已经在美国马萨诸塞州波士顿海完成了海上验收试验的所有试验科目,试验自2月以来持续了4个多月试验中,美国海军部署了水雷靶标,模拟了多种水雷部署现场,包括不同深度不同层次,甚至水雷在海底泥土之下。至此,该无人潜航器的承包商试验已全部完成。与此同时,通用动力公司还完成了该无人潜航器的试验训练,为下一阶段美国海军将进行的 “长刀鱼 ”水雷探测无人潜航器的政府研制试验和作战评估做好了准备。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 14
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 157
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 189,
+			"end_pos": 194
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 196,
+			"end_pos": 199
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 93
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 97
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 107
+		}
+	]
+}

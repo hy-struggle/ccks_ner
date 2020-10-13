@@ -1,0 +1,59 @@
+{
+	"originalText": "美国导弹防御局和美国海军在太平洋导弹靶场进行了两次“标准”-3?IB威胁升级型拦截弹飞行试验,以验证该型导弹第三级火箭发动机的喷管经改进后的性能?两次试验均未发射真实靶弹,而是采用模拟靶弹?试验中,“霍伯”号驱逐舰上的“宙斯盾”武器系统根据想定,制定了火控拦截方案,向模拟靶弹发射了拦截弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 107
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 118
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 132
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 144
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 62
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 65
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "4月5日,美国海军MQ-8C“火力侦察兵”无人机从位于加利福尼亚海岸的“独立级”近海战斗舰“蒙哥马利”号上起飞,开展第二阶段动态接口试验,再次验证舰上操控MQ-8C无人机的稳定性与安全性?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 93
+		}
+	]
+}

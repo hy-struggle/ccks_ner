@@ -1,0 +1,53 @@
+{
+	"originalText": "印度继6月30日和7月1日两次试射“巴拉克”-8面空导弹后,9月20日又从昌迪普尔试验场试射了“巴拉克”-8面空导弹?试验中,“巴拉克”-8面空导弹接收到雷达信号后发射,在一架无人机的协助下,拦截了一个移动空中靶标?该导弹重量约为3吨,长达4米,载荷重量为70千克,可击中70~90千米范围内的目标,抵御各种空中威胁?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 91
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 107
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 119
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 127
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 158
+		}
+	]
+}

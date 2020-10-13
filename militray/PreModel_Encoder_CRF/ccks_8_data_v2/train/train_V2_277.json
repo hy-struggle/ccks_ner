@@ -1,0 +1,65 @@
+{
+	"originalText": "7 月5 日, 美国海军升级版“改进型海麻雀” (ESSM) 即“改进型海麻雀” Block 2 导弹海上拦截试验获得成功?试验中, 采用新型导引头的导弹, 在主动雷达搜索模式下发现并拦截了一枚BQM - 74E 靶弹, 验证了导弹导引头性能, 标志着导弹研制取得里程碑进展?该型导弹一旦量产, 将惠及美国和其他11个项目参与国家, 极大提升各国海军防御反舰导弹的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 109
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 88
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 74
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 153
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 165
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 172,
+			"end_pos": 175
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 178,
+			"end_pos": 181
+		}
+	]
+}

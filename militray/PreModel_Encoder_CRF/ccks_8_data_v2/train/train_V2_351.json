@@ -1,0 +1,95 @@
+{
+	"originalText": "中远程反舰导弹方面,射程超过900千米的“远程反舰导弹”(LRASM)将进一步改进,其增量升级型将于2022财年形成初始作战能力,升级计划包括增加射程?提升通信能力?增强生存能力和集成试验?7月,美国国防部授予洛克希德·马丁司1.75亿美元合同用以升级“远程反舰导弹”,包括对弹翼进行改进以增加射程,升级引信和数据链,全部工作预计于2022年11月完成?9月,美国空军宣布将“远程反舰导弹”的计划采购数量从110枚提高到400枚?11月,“远程反舰导弹”在美国海军F\/A-18E\/F战机实现早期作战能力,除已装备B-1B轰炸机外,未来还可能装备B-52轰炸机和P-8A反潜巡逻机?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 7
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 233,
+			"end_pos": 243
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 12
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 82
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 248,
+			"end_pos": 251
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 154
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 158
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 257,
+			"end_pos": 263
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 273,
+			"end_pos": 279
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 281,
+			"end_pos": 289
+		}
+	]
+}

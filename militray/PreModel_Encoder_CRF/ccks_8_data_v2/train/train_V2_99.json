@@ -1,0 +1,59 @@
+{
+	"originalText": "在华盛顿郊区举行的海军联盟海空航天会议的小组讨论会上,美国海军陆战队航空兵副司令乔恩·戴维斯中将表示,海军陆战队正在测试用于倾转旋翼机MV-22“鱼鹰”的系列武器和传感器,以期发挥该平台的最大能力,使其更快?更具杀伤力?乔恩·戴维斯中将称:我们目前正在寻求与UH-1Y“毒液”直升机和AH-1“眼镜蛇”直升机上相同的系统,这些直升机通常配备和安装有火炮和导弹发射器?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 76
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 141
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 154
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 176
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 178,
+			"end_pos": 182
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 103
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 109
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"originalText": "俄罗斯成功试射“伊斯坎德尔” - M 弹道导弹系统12 月6 日综合报道, 俄罗斯军方在南部阿斯特拉罕地区的卡普斯金·亚尔( Kapustin Yar)靶场, 对“伊斯坎德尔”-M导弹系统进行了80千米范围的试射, 打击目标被导弹精确击中?该试验是新型“ 伊斯坎德尔” - M 战术弹道导弹系统测试最后阶段计划中的战术演习的一部分, 该导弹系统加入了位于犹太自治区东部军区的导弹编队?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 112
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 115
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 161
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 103
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 117
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 188,
+			"end_pos": 191
+		}
+	]
+}

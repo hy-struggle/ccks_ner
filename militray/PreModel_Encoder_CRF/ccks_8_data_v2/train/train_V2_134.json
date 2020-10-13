@@ -1,0 +1,77 @@
+{
+	"originalText": "8月28日,印度空间研究组织在斯里赫里戈达岛的萨迪什·达万航天中心进行了超燃冲压发动机带飞点火试验,验证了吸气式发动机在超声速条件下的点火和持续燃烧,以及进气道机械结构和燃料注入系统等多项关键技术?试验采用“先进技术飞行器”———RH-50探空火箭作为火箭助推器,2台氢燃料超燃冲压发动机安装在探空火箭第二级尾部两侧,起飞总重达3277千克?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 112
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 131
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 144
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 65
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 163
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 84
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 91
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 156
+		}
+	]
+}

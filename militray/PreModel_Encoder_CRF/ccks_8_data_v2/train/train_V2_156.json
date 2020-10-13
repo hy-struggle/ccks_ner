@@ -1,0 +1,53 @@
+{
+	"originalText": "在美国关岛沿海举行的舰队实战演习中,美国海军“黄蜂”级两栖攻击舰“好人理查德”号(LHD-6)成功发射1枚北约“海麻雀”地空导弹,击中1架目标无人机,检验了该舰的自卫能力,以及值班人员回应反舰巡航导弹威胁的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 16
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 74
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 102
+		}
+	]
+}

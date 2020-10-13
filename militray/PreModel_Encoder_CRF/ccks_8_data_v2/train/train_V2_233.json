@@ -1,0 +1,83 @@
+{
+	"originalText": "作为X-Plane垂直起降(XTOL)项目的一部分,美国国防高级研究计划局(DARPA)已经完成了一款小尺寸版本的飞行试验,且已经开始开发这款开创性飞机设计的全尺寸版本?这款飞机由极光飞行科学公司开发制造,配备24个电动风扇,其中18个分布在主翼内部,6个分布在鸭翼内部,机翼和鸭翼可以从向前飞行过渡到垂直起降,并旋转到翼载飞行的水平位置?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 21
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 148
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 155
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 164
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 169
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 112
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 123
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 133
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 138
+		}
+	]
+}

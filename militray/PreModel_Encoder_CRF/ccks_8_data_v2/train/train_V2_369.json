@@ -1,0 +1,35 @@
+{
+	"originalText": "欧洲导弹集团与莱昂纳多公司合作,共同为英国空军研制电子战型“长矛”(SPEAR-EW)空地导弹?该导弹沿用基本型的外形和悬挂方式,将战斗部换成采用莱昂纳多公司小型数字射频存储器(DRFM)技术的小型电子战载荷?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 47
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 59
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 69
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 104
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "澳大利亚皇家空军一架P-8A “海神”反潜巡逻机部署马来西亚皇家空军基地巴特沃斯,完成其首次海外部署?此次海外部署是“门户行动”的一部分,不仅为P-8A反潜巡逻机开展作战试验鉴定提供支持,也是在未来12个月里宣布其具备初始作战能力的一个重要里程碑?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 115
+		}
+	]
+}

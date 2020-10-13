@@ -1,0 +1,53 @@
+{
+	"originalText": "英国皇家海军10月15日宣布,一架F-35B “闪电 ” Ⅱ战斗机在 “伊丽莎白女王 ”号航母上成功进行了首次舰载滑跑\/垂直着陆(SRVL)?在试飞员的控制下,这架飞机执行了高难度机动动作,使F-35B战斗机在搭载重型武器和燃料的情况下降落在航母甲板上,并且不借助于阻拦索?根据皇家海军的说法,英国是唯一使用SRVL的国家,已经在模拟器中进行了数千次试验?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 111
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 114
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 125
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 136
+		}
+	]
+}

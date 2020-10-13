@@ -1,0 +1,35 @@
+{
+	"originalText": "7月19日,在2016环太平洋演习中,美国海军在夏威夷附近海域首次从独立级“科罗纳多”号近海战斗舰上成功发射“鱼叉”Block?IC型导弹?虽然导弹未能命中目标,但是仍验证了“鱼叉”导弹在近海战斗舰上的操作性,并对未来战斗舰的升级改造提供了必要的技术数据?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 99
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 104
+		}
+	]
+}

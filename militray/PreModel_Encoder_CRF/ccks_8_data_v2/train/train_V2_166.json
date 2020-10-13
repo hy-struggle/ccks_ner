@@ -1,0 +1,23 @@
+{
+	"originalText": "以色列国防研究与发展局(DDR&D)导弹防御组织与美国导弹防御局(MDA)成功完成“大卫投石索”武器系统的新一轮系列试验?该导弹防御系统是以色列多层反导系统的中心部分?此次试验代号为“大卫投石索试验-5”(DST-5),是“大卫投石索”武器系统的第5次系列试验?此次系列试验在以色列帕勒马希姆空军基地的Yanat海上靶场举行?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 109
+		}
+	]
+}

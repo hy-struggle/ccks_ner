@@ -1,0 +1,35 @@
+{
+	"originalText": ",美国空军和挪威政府与工业部门正在犹他靶场对联合打击导弹与F-35A的集成进行试验?联合打击导弹设计用于F-35A内置武器吊舱挂载,在与F-35A集成之前,已经在美国空军第416飞行试验中队的F-16战机上进行了试验?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 102
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 63
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "在朝鲜领导人金正恩与美国总统特朗普举行峰会之前,朝鲜正在摧毁一个关键的弹道导弹试验场址；4月,金正恩宣布暂停核试验和导弹试验；5月24日,朝鲜宣布炸毁其核武器试验场址及地下隧道；朝鲜军事技术专家约瑟夫·贝穆德斯发布了一份报告,称伊哈里试验场址是研制中程弹道导弹的“关键组成部分”,可进行大规模洲际弹道导弹试验。该报告称,伊哈里试验场址是朝鲜唯一已知的陆基筒射弹道导弹发射试验基地。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 83
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 88
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 121
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 176,
+			"end_pos": 189
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 130
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 139
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 154
+		}
+	]
+}

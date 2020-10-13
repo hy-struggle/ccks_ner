@@ -1,0 +1,47 @@
+{
+	"originalText": "美国东部时间5月3日下午3时左右,小卫星发射企业矢量公司成功试射了“矢量”-R运载火箭的P-19H工程模型?P-19H工程模型从加州莫哈韦沙漠的发射台起飞,进行了低空飞行试验?此次成功试射不仅为公司运载火箭的快速机动研发设定了标准,而且进一步推动了改革航天工业和加快入轨速度的任务?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 87
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 130
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		}
+	]
+}

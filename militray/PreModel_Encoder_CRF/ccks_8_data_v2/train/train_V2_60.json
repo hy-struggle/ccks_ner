@@ -1,0 +1,65 @@
+{
+	"originalText": "俄罗斯卡-52“短吻鳄”新型全天候侦察攻击直升机在其远东地区进行了飞行试验?根据任务安排,卡-52直升机在持续1小时的飞行试验中演示了上升?盘旋?转向等基本的空中机动动作,以及平转?盘旋扫射和回转等特技飞行动作?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 4,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 90
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 95
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 98
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 105
+		}
+	]
+}

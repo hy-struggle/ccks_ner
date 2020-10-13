@@ -1,0 +1,59 @@
+{
+	"originalText": "美国空军B-1B轰炸机成功进行了第二次双远程反舰导弹(LRASM)发射试验?一架来自得克萨斯州戴斯空军基地的B-1B在加利福尼亚州穆古角海上靶场上空发射了2枚生产型LRASM?发射后,2枚导弹穿过所有计划的航路点,转入中段制导?利用弹载传感器信息飞向海上移动目标?随后,2枚LRASM “积极 ”识别预定目标并成功命中?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 11
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 87
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 106
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 131
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 154
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 148
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 121
+		}
+	]
+}

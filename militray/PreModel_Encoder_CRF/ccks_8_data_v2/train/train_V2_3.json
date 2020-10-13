@@ -1,0 +1,71 @@
+{
+	"originalText": "美国海军航空系统司令部1月22日宣布,位于华盛顿州普吉特海峡的海军水下战中心基波特分部近期成功在1艘无人潜航器上试验了新研发的通用控制系统?该系统是一种软件架构,拥有通用的框架?用户界面及元件,可以集成到各种无人系统中,能为海军无人系统提供通用的航行器管理?任务计划及任务管理能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 80
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 88
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 93
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 96
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 108
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 118
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 128
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 133
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 140
+		}
+	]
+}

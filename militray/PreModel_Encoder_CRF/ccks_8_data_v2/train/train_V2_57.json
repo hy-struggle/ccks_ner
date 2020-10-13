@@ -1,0 +1,47 @@
+{
+	"originalText": "SpaceX公司“猎鹰”9-1.2型火箭搭载欧洲卫星公司的SES-9通信卫星,从美国卡纳维拉尔角的LC-40发射综合设施发射升空,31分钟后将卫星送入地球同步转移轨道?在执行完卫星发送任务后,其一级首次尝试海上平台着陆,但由于下降速度过快,最终没能实现海上回收?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 83
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 107
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 99
+		}
+	]
+}

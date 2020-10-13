@@ -1,0 +1,41 @@
+{
+	"originalText": "美国通用动力地面系统公司英国分公司在位于布莱兹·诺顿皇家空军基地的联合空中投送试验与鉴定中心完成了对“阿贾克斯”战车家族的首次机载便携性试验?试验于5月末进行,旨在评估皇家空军C-17A“环球霸王”Ⅲ运输机和A400M“宇宙神”运输机对“空中可重构嵌入式系统”(ARES)的承载能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 117
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 141
+		}
+	]
+}

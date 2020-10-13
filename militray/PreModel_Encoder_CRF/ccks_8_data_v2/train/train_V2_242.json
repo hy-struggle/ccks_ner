@@ -1,0 +1,41 @@
+{
+	"originalText": "美国空军和洛克希德·马丁公司旗下“臭鼬”工厂已经完成一系列飞行试验,演示验证了有人—无人驾驶战斗机编队参加模拟作战行动的能力?在飞行试验中,一架F-16战斗机充当了无人战斗机(UCAV)代理,在执行空地打击任务过程中自主响应不断变化的威胁环境?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 95
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 121
+		}
+	]
+}

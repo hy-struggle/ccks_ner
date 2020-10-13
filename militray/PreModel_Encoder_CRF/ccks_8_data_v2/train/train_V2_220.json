@@ -1,0 +1,23 @@
+{
+	"originalText": "美军正在测试一款新型电磁导轨炮,可以约7240千米\/小时的速度发射弹药?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 15
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 31
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 35
+		}
+	]
+}

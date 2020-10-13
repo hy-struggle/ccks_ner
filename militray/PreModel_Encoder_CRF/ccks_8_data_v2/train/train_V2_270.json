@@ -1,0 +1,53 @@
+{
+	"originalText": "美国空军已完成波音公司KC-46A“飞马”( Pegasus) 军用空中加油飞机的所有飞行试验, 该飞机将于今年10月交付?KC-46A多用途加油机的设计旨在为所有盟国与国际空中加油程序兼容的军用飞机加油,同时运载乘客?货物和伤病员?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 47
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 84
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 93
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 112
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 116
+		}
+	]
+}

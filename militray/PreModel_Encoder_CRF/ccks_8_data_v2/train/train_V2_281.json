@@ -1,0 +1,17 @@
+{
+	"originalText": "俄罗斯已对“ 米格” - 31 战斗机上的“匕首” 空射弹道导弹进行了12 次试验, 最后一次成功试验是在7 月的上旬, 命中800 千米之外的目标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 6,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 32
+		}
+	]
+}

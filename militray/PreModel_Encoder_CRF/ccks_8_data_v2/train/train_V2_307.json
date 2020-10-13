@@ -1,0 +1,59 @@
+{
+	"originalText": "9月19日下午5时05分,美国爱达荷国家实验室(INL)的瞬态反应堆试验设施产生了几秒钟脉冲,使少量压水堆核燃料受到辐射和加热?这次试验标志着一种对美国核燃料发展至关重要的能力的恢复,该能力无论是对现有的反应堆还是正在设计的新一代先进反应堆来说都很重要?瞬态反应堆试验中将核燃料置于极端条件下,有助于核工业开发出更具弹性和更持久的核燃料?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 139
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 145
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 160
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 163,
+			"end_pos": 164
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 81
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 153
+		}
+	]
+}

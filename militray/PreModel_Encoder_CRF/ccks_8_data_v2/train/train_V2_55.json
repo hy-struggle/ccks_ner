@@ -1,0 +1,29 @@
+{
+	"originalText": "3月23日,美国陆军利用新型发射平台成功发射1枚“毒刺”导弹?本次导弹试射是美国陆军“间接火力防护能力“增量2”拦截”平台项目中“多任务发射器”演示验证试验的一部分?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 18
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 78
+		}
+	]
+}

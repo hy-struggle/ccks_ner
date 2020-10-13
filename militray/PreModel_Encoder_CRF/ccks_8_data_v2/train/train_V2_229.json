@@ -1,0 +1,47 @@
+{
+	"originalText": "印度国防研究与发展组织于当地时间上午10时15分在孟加拉湾的阿卜杜勒·卡拉姆岛成功进行先进区域防御拦截导弹试射,并实现所有任务目标?该导弹能在15000~25000米空中拦截并摧毁来袭导弹?试验中,武器系统雷达对目标导弹进行追踪,并为拦截导弹提供初始制导,使其精确定位目标导弹,在大气层内将其摧毁?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 143
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"originalText": "弹道导弹使用固体或液体火箭发动机?因固体推进剂操作简单,易于维护,现代弹道导弹系统逐步采用固体推进剂?但一些国家因液体推进技术储备,还在研发新型液体推进弹道导弹?当前,液体推进弹道导弹比固体推进导弹导弹载荷更大?世界上的大负载导弹,包括俄罗斯的SS-18?中国的“CSS-4”导弹是液体推进导弹?俄罗斯正在研发新型重型液体推进的“萨尔马特”洲际弹道导弹?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 4
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 80
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 127
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 140
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 176
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 103
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 159
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 16
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 23
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 63
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "美国空军第33战斗机联队利用作战可用的F-35A战斗机试射首枚AIM-120先进中距空空导弹(AMRAAM)?本次导弹发射是美国廷德尔空军基地展开的一套武器系统评估试验的一部分?在试验中,战斗机联队将AMRAAM导弹分别装载到四架战机?由于前3枚导弹均发射成功,因此最后1枚导弹没有发射?AIM-120 AMRAAM是一种全天候的超视距空空导弹,配备了带有惯性基准单元(IRU)的主动雷达?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 117
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 162,
+			"end_pos": 164
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 168
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 189
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 191,
+			"end_pos": 194
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 169,
+			"end_pos": 172
+		}
+	]
+}

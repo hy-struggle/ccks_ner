@@ -1,0 +1,59 @@
+{
+	"originalText": "6月6日,美国陆军和空军在最新型空中武装直升机支持下进行了空中突袭演练,旨在验证AC-130J炮艇机与“阿帕奇”直升机在城市环境下支持排级作战的能力,并且在演练中建立的这种联合作战关系也将在未来的联合训练和海外作战中发挥作用?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 59
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 92
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 102
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 107
+		}
+	]
+}

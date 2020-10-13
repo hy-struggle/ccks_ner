@@ -1,0 +1,53 @@
+{
+	"originalText": "英国陆军的新型防空导弹 “陆地拦截者 ”在波罗的海轰炸了空中目标?这一全新的导弹系统是英国陆军未来防空系统的核心,已成功完成第一次发射试验?新的 “陆地拦截者 ”武器在靠近波罗的海的瑞典试射场进行了试验,录像显示导弹是从一辆车上发射并摧毁了一个空中目标,显示了该武器的准确性和威力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 6,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 113
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 47
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		}
+	]
+}

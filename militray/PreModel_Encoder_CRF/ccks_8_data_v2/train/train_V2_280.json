@@ -1,0 +1,65 @@
+{
+	"originalText": "7 月12 日, 在“ 美环太平洋军事演习—2018” 进行期间, 美国?日本和澳大利亚军队联合进行了“击沉演习” 项目?在“击沉演习” 中, 美军首次发射1 枚反舰型“陆军战术导弹系统” (ATACMS) 击沉了1 艘退役军舰改成的靶舰, 这是美国陆军新型反舰弹道导弹的首次亮相, 也是美国陆军首次参加实弹击沉军舰的演习?此次演习是验证美国陆军和日本陆上自卫队“ 群岛防御” 战法的一部分, 标志着美军“陆军战术导弹系统” 具备了可靠的反舰能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 114
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 119
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 135
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 154
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 170,
+			"end_pos": 173
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 181
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 191
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 220,
+			"end_pos": 223
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"originalText": "欧洲导弹公司“硫磺石”导弹在英国BAE系统公司军事航空与信息分部的兰开夏郡沃顿工厂完成一系列地面台架试验?该试验是“硫磺石”导弹与“台风”战斗机武器集成试验的一部分?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 13
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 78
+		}
+	]
+}

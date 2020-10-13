@@ -1,0 +1,47 @@
+{
+	"originalText": "俄罗斯国防部新闻办公室在接受新闻采访时称,俄罗斯防空反导部队与工业部门在位于哈萨克斯坦的萨雷沙甘导弹靶场,进行了导弹防御系统的近程反导导弹试射?试验中,导弹按预定时间命中目标,验证了导弹防御系统现役反导导弹的性能?试验前,俄罗斯防空反导部队已开展了大量地面试验,并对反导系统的信息装备进行了改进?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 130
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 83
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 142
+		}
+	]
+}

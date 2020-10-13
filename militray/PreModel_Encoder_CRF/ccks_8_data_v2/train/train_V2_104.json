@@ -1,0 +1,47 @@
+{
+	"originalText": "6月25日,印度空军苏-30MKI战斗机在印度斯坦航空公司纳西克飞机分部完成挂载“布拉莫斯”超声速巡航导弹的首次飞行试验?此次试验共持续了45分钟,验证了“布拉莫斯”导弹系统与苏-30MKI战斗机的集成能力?苏-30MKI战斗机是俄罗斯苏霍伊设计局研制的一种双座高机动性第4代多用途战斗机?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 87
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 103
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 135
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 141
+		}
+	]
+}

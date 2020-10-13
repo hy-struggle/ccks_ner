@@ -1,0 +1,29 @@
+{
+	"originalText": "美国国家航空航天局(NASA)和洛克希德·马丁公司在NASA位于克利夫兰州的格伦研究中心对采用“超声速静音技术” (QueSST)的XPLANE飞机初步设计开始了首次高速风洞试验,使超声速客机距离现实更近一步?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 89
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 96
+		}
+	]
+}

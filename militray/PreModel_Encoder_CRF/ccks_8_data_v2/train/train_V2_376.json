@@ -1,0 +1,53 @@
+{
+	"originalText": "印度推出“瓦格纳克”(Waghnak)?“哈甘塔克”(Khagantak)和“韦尔”(Vel)三型空射武器,旨在为印度国内和出口国提供低成本?先进的穿透型武器,可以根据客户要求配装不同的载荷和导引头?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 95
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 99
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 65
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 79
+		}
+	]
+}

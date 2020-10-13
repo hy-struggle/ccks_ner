@@ -1,0 +1,71 @@
+{
+	"originalText": "海基巡航导弹方面,1月,俄罗斯宣布发展射程超过4500千米的“口径”-M巡航导弹?新型导弹较现役“口径”导弹尺寸更大,能够携带常规和核战斗部,战斗部质量接近1000千克,可装备水面舰船和潜艇,并将在俄罗斯2018-2027年国家武备计划结束前服役?3月,俄海军北方舰队潜艇在码头停泊状态下成功发射“口径”导弹,验证了在仓促临战的情况下俄军潜艇也能有效执行巡航导弹作战任务?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 95
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 178,
+			"end_pos": 185
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 21
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 56
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 143
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 163
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 70
+		}
+	]
+}

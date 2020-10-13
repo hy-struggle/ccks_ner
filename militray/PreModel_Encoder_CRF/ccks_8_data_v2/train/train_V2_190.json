@@ -1,0 +1,41 @@
+{
+	"originalText": "美日本防卫省发言人10 月30 日表示, 美国在日本新建了一个弹道导弹防御司令部, 该司令部于10 月16 日已经开始运转, 由美国陆军第38 防空旅第94陆军防空反导司令部指挥?该司令部目前直接管理位于青森县东力基地的前置TPY -2 X 波段雷达, 并负责协调与第7 舰队部署于横须贺港的“宙斯盾” 驱逐舰?日本自卫队规划中的“宙斯盾” 岸上系统一起协调工作?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 87
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 125
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 138
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 155
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 175
+		}
+	]
+}

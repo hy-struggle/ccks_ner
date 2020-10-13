@@ -1,0 +1,41 @@
+{
+	"originalText": "12月23日,印度军方成功试射了可携带核弹头的“烈火”-4远程弹道导弹?该导弹于23日上午8时35分左右在阿卜杜勒.卡拉姆博士岛综合测试场的4号综合发射体进行了飞行试验,试验非常成功,实现了所有任务目标?该导弹为地地战略导弹,射程可达4000千米?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 77
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 115
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 22
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 112
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "俄罗斯成功试射3枚洲际弹道导弹?试射几乎同时开始,证明了俄罗斯海陆核系统具备可靠性?试验中,1枚“白杨”弹道导弹从普列谢茨克发射场发射,命中位于堪察加半岛库拉靶场的既定目标;1枚海基RSM-54型弹道导弹从位于巴伦支海北方舰队的“新莫斯科夫斯克”号核潜艇上发射,同样落入库拉靶场;另一枚从“圣乔治常胜将军”号战略核潜艇发射的导弹则落入阿尔汉格尔斯克州的奇扎靶场?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 15
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 102
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 113
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 127
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 159
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 41
+		}
+	]
+}

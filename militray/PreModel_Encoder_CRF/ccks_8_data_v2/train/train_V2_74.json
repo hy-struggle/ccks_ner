@@ -1,0 +1,35 @@
+{
+	"originalText": "3月31日,美国海军在新泽西莱克赫斯特联合基地的跑道拦阻着陆试验场,利用先进拦阻装置,对第23攻击机试验中队的1架F\/A-18E“超级大黄蜂”实施了首次有人驾驶飞机陆基拦阻试验?此次拦阻试验在验证先进拦阻装置动力控制和系统性能方面迈出了重要一步,标志着先进拦阻装置性能演示验证实现了重要里程碑?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 108
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 113
+		}
+	]
+}

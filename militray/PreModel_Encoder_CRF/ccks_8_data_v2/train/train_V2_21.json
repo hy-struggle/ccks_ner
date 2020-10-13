@@ -1,0 +1,77 @@
+{
+	"originalText": "在伊尔库特MC-21首飞之前,俄罗斯专家在莫斯科中央航空流体动力研究院的亚声速风洞对其缩比模型进行了一系列有关颤振的试验?飞机模型重300千克,翼展为5米,是MC-21实际尺寸的1\/7?试验在模拟速度达1100千米\/小时的状态下,测试了机翼?控制舵机及发动机吊舱的反应?测试结果均“符合预期估测”,且颤振的“危险现象”在典型运行速度范围内均没有发生?\r\n\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 2,
+			"end_pos": 10
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 57
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 66
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 166
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 120
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 125
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 131
+		}
+	]
+}

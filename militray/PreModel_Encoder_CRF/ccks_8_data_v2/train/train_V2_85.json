@@ -1,0 +1,41 @@
+{
+	"originalText": "美国导弹防御局和太平洋司令部在“约翰·保罗·琼斯”号驱逐舰上成功对“宙斯盾”导弹防御系统开展了飞行试验?试验中,1枚中程弹道导弹目标从夏威夷考艾岛的太平洋导弹靶场发射,而位于夏威夷西部的“约翰·保罗·琼斯”号驱逐舰则利用其舰载AN\/SPY-1雷达对目标成功进行了跟踪和探测?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 66
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 123
+		}
+	]
+}

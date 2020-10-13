@@ -1,0 +1,29 @@
+{
+	"originalText": "日本防卫省表示正在改进陆上自卫队部署在西南地区的12式岸舰导弹,并将射程增至两倍达到400千米,改进后的导弹还可装备海上自卫队的巡逻机,预计于2023年服役?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 31
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 36
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 63
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 67
+		}
+	]
+}

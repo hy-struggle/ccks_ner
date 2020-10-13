@@ -1,0 +1,35 @@
+{
+	"originalText": "英国防务科学与技术研究实验室(DSTL)激光武器研究人员表示,他们所研制的激光武器系统已经能够摧毁迫击炮弹?预计全面演示验证将于两年后举行?根据DSTL在英国政府网站上发布的视频,该激光武器在几秒内将一枚静止的82毫米迫击炮弹的厚金属壳熔化了一个洞?该团队预计,如果研发活动取得成功,预计该激光武器将于21世纪20年代中期服役?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 104
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 118
+		}
+	]
+}

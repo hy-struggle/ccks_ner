@@ -1,0 +1,47 @@
+{
+	"originalText": "来自海军空战中心飞机分部?帕图森特河航空站以及承包商G-W管理服务公司的代表,于8月24日为海军空战中心飞机分部大西洋试验靶场建立新的试验区举行奠基仪式?新试验区将针对当前和未来的飞行试验项目(如MQ-25A“刺鳐”?下一代干扰机?下一代空中优势平台和无人机指挥控制站),以及系统体系的互操作问题,构建安全的多用途任务试验设施?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 96
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 108
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 115
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 125
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 134
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 148
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 163
+		}
+	]
+}

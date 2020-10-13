@@ -1,0 +1,35 @@
+{
+	"originalText": "美国通用动力任务系统公司的“通用航空指挥控制系统”(CAC2S)于20日完成了美国海军陆战队的作战试验?CAC2S项目始于2012年,由通用动力任务系统公司和海军陆战队共同负责,能集成来自不同的空中和地面雷达系统与传感器的信息,从而增强态势感知能力,提高决策效率?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 51
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 131
+		}
+	]
+}

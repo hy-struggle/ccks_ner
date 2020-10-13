@@ -1,0 +1,41 @@
+{
+	"originalText": "F-35“闪电”Ⅱ型联合攻击战斗机在加利福尼亚州爱德华空军基地完成了一系列武器试验,验证了F-35“闪电”Ⅱ型战斗机的精确性?在为期一个月的试验中,F-35一体化试验部队采用最新的Block?3F软件进行了12次武器投放精度试验和13次武器分离试验,共投放或发射了30种武器?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 100
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 114
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 124
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 62
+		}
+	]
+}

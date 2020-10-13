@@ -1,0 +1,71 @@
+{
+	"originalText": "美 11 月14 日, 洛克希德·马丁公司所属导弹与火控分部在位于新墨西哥州的白沙导弹靶场, 利用“斯特瑞克” 机动近程防空发射装置(MSL) 对新型机动近程防空系统“未来拦截者” 成功开展了初始弹道飞行试验?机动近程防空系统“ 未来拦截者” 利用了洛克希德·马丁公司和政府技术投资研发的直接碰撞杀伤拦截弹, 主要用于拦截无人机?飞机?直升机以及巡航导弹?这次内部资金支持的试验的主要目的是, 为了检验关键技术?导弹稳定性和射程?经过试验, 拦截弹的各项性能指标均与预期一致?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 90
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 104
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 153
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 209,
+			"end_pos": 211
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 213,
+			"end_pos": 214
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 202,
+			"end_pos": 205
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 162,
+			"end_pos": 164
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 167
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 169,
+			"end_pos": 171
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 177
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "空基巡航导弹方面,5月,俄罗斯开始为图-95MSM和图-160轰炸机研发“口径”-M空射巡航导弹和Kh-50空射巡航导弹?其中,Kh-50导弹采用亚声速隐身设计,射程预计可达1500千米?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 60
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 78
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 83
+		}
+	]
+}

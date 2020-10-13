@@ -1,0 +1,71 @@
+{
+	"originalText": "大部分导弹在助推器分离后释放再入飞行器(RV)?远程弹道导弹采用分导式多弹头技术(MIRVs),可携带最多10个RV?洲际弹道导弹的RV可以6-8km\/s的速度再入大气层?一些先进洲际弹道导弹释放的RV可以机动飞行,提高了命中精度,同时避免反导系统拦截?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 4,
+			"end_pos": 5
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 65
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 80
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 105
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 9
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 23
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 47
+		}
+	]
+}

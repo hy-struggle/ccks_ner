@@ -1,0 +1,41 @@
+{
+	"originalText": "印度从位于奥里萨邦巴拉索尔的一体化试验靶场试射了国产“阿卡什”面空导弹?试验中,“阿卡什”中程防空导弹成功拦截了1个小型快速机动的“海妖”靶标?印度国防研究与发展局官员称,此次试验评估了系统对亚声速巡航导弹的拦截能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 71
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 103
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 108
+		}
+	]
+}

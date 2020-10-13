@@ -1,0 +1,41 @@
+{
+	"originalText": "按照原计划,F-35初始作战试验鉴定最后阶段(旨在测试其执行真实军事任务作战能力)将在2017年8月?9月进行?美国国防部负责采办?技术与后勤的副国防部长肯德尔称,我们评估了该作战试验计划,一致认为,根据计划进展现状,将试验推迟到2018年可能更合适?5月初,F-35联合项目办公室称,F-35制造商和美国空军已经完成其新型软件的测试,以尝试解决关键软件故障引起的作战问题?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 10
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 16
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 179
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 186
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 164
+		}
+	]
+}

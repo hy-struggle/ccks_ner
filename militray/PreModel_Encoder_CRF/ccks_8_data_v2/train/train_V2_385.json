@@ -1,0 +1,65 @@
+{
+	"originalText": "俄罗斯电子控股公司(俄技集团子公司)于“军队-2019”国际军事论坛上首次展出先进的“POST-3M”地面无线电侦察站?“POST-3M”侦察站检测对象有飞机?直升机?无人机?舰船?以及部署于军事指挥点?航空基地?起降阵地?发射阵地的各种用途的地面雷达?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 59
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 79
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 83
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 87
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 90
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 101
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 106
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 111
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 116
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 126
+		}
+	]
+}

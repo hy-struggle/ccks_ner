@@ -1,0 +1,77 @@
+{
+	"originalText": "荷兰皇家海军在“卡雷尔·多尔曼”级或多用途(M级)“范·阿姆斯特尔”号护卫舰上进行了新的低频主\/被动声纳试验?该试验是系统作战鉴定试验的一部分?试验期间,低频主\/被动声纳在沿海水域复杂环境条件下,验证了单静态和双静态探测与跟踪柴电潜艇的能力?参与此次评估试验的还有1艘“海象”级潜艇和1架装备低频吊放声纳的NH-90直升机?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 141
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 152
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 161
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 104
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 108
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		}
+	]
+}

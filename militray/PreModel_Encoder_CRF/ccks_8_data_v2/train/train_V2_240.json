@@ -1,0 +1,77 @@
+{
+	"originalText": "美国海军“美国”号两栖攻击舰在加利福尼亚州海岸完成全舰生存性试验?试验为期4天,在火?烟?停电?水淹?管道断裂和结构破坏等模拟的损害控制想定下,评估舰船承受和控制损害的能力?对人员伤亡的响应能力以及恢复和继续执行任务的能力?1600余人参加了这次试验?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 14
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 70
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 83
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 108
+		}
+	]
+}

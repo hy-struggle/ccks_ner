@@ -1,0 +1,47 @@
+{
+	"originalText": "印度陆军近日在拉贾斯坦邦波卡兰发射场完成“皮那卡”Ⅱ多管火箭炮发射系统的用户辅助试验?试验历时3天,在印度国防研究与发展局位于普纳的武器研究与发展实验室进行?此前,已服役于印度军方“皮那卡”Ⅰ武器系统(射程约40千米)的子母弹弹头试验已取得成功?“皮那卡”系统旨在替代印度陆军目前使用的俄制BM-21“冰雹”发射器?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 103
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 115
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 138
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 157
+		}
+	]
+}

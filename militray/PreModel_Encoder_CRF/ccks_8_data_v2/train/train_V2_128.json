@@ -1,0 +1,77 @@
+{
+	"originalText": "俄罗斯已经在五代机PAK?FA的原型机T-50以及地面设备上对设计用于六代喷气战机的不同组件进行了测试,飞行和导航系统的独立组件已安装在PAK?FA上?PAK?FA是第五代多功能?单座椅?双引擎空中优势\/深度空中支援战机,计划2018年交付俄罗斯空天部队?第六代喷气战机主要由以超声速飞行的无人机蜂群组成,可飞行通过空间?该机将配备电磁加农炮,可在10千米以外使敌方无线电侦察系统瘫痪?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 15
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 41
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 142
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 29
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 46
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 59
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 150
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 171
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 190
+		}
+	]
+}

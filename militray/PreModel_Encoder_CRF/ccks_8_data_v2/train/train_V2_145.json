@@ -1,0 +1,71 @@
+{
+	"originalText": "美国海军“阿利·伯克”级Flight?IIA型驱逐舰“约翰芬”号在墨西哥湾完成首次海上试航?此次试航主要验证了舰船主推进等系统和其他系统的可操作性?在三天试航期间,“约翰芬”号进行了全功率试航,对其关键通信系统?损伤控制系统?导航系统以及船体?机电和推进应用等进行了测试?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 73
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 94
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 63
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 105
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 112
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 121
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 124
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 129
+		}
+	]
+}

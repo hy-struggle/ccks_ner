@@ -1,0 +1,59 @@
+{
+	"originalText": "美国海军与西班牙海军于近日进行了一系列防空试验演习,并于7月20至21日利用最新的“宙斯盾”武器系统开展导弹实弹试射?美国“阿利·伯克”级导弹驱逐舰和西班牙“克里斯托弗·哥伦布”号护卫舰参加了此次试验?试验中,两艘舰船均与E-2“鹰眼”飞机集成,使用“宙斯盾”AN\/SPY-1雷达和“战术数据链”共享通用战术画面?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 93
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 140
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 148
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 156
+		}
+	]
+}

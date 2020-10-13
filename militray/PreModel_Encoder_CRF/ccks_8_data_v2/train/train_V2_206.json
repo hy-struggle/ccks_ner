@@ -1,0 +1,53 @@
+{
+	"originalText": "美国诺斯罗普·格鲁曼公司和英国皇家空军,利用诺斯罗普·格鲁曼公司研制的机载网关,进行了F-35B“闪电”Ⅱ型战机和“台风”FGR4战机之间的通信互操作能力试验?试验为期两周,由英国国防部出资,在莫哈韦沙漠上空进行?此次试验是首次非美国的五代和四代战机共享多功能先进数据链传递的信息?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 79
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 117
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 125
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 135
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		}
+	]
+}

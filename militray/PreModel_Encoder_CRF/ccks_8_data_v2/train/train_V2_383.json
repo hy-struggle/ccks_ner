@@ -1,0 +1,77 @@
+{
+	"originalText": "“小直径炸弹”Ⅱ装备了双向双频段数据链,可实现与飞机“联合战术信息分配系统”(JTIDS)的链接,还可以通过特高频(UHF)通信与地面指示系统链接?“小直径炸弹”Ⅱ采用折叠翼,射程70千米,多功能战斗部(爆炸?破片和聚能装药)?战斗部引信可选择撞击触发?预设高度触发或延迟触发?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 8
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 90
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 133
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 19
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 87
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 101
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 119
+		}
+	]
+}

@@ -1,0 +1,89 @@
+{
+	"originalText": "桑迪亚实验室的研究人员使用长度约37米的爆炸管来演示核武器在敌方武器爆炸波中的生存能力,并帮助验证计算机模型的正确性?研究人员能够运用该模型,在无法直接进行地面爆炸管试验模拟时,试验武器对敌军爆炸环境的耐受性?该实验室已为一个核武器项目完成了为期两年的系列爆炸管试验,并开始试验另一个核武器项目?每个系列试验都需要仪器?爆炸物?高速摄像机和计算机模型?该试验模拟了另一枚核武器在附近爆炸后,核武器重新进入地球大气层时面临的一部分环境?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 87
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 118
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 133
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 159
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 163
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 169
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 203,
+			"end_pos": 207
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 15
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 104
+		}
+	]
+}

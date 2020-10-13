@@ -1,0 +1,35 @@
+{
+	"originalText": "印度国防研究与发展局?以色列航空航天工业公司和印度空军于当日在印度奥里萨邦海岸的昌迪普尔试验场,成功试射印度?以色列联合研发的“中程面空导弹”系统?该系统是一种先进的防空及导弹防御系统,其打击范围为50~70千米,将满足印度陆军在防空反导方面的巨大需求?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 73
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 98
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 92
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 114
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 119
+		}
+	]
+}

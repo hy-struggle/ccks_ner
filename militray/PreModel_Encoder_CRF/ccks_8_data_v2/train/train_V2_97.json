@@ -1,0 +1,53 @@
+{
+	"originalText": "美国陆军于5月12日发表声明称,陆军卓越战斗实验室火力中心于4月11日至19日,在俄克拉荷马州希尔堡开展了一次名为“卓越机动火力集成试验”的演习,对“高能激光机动试验车”项目进行了试验,检验了美国陆军的高能激光系统技术?此次演习中,“高能激光机动试验车”在模拟战术环境下对机动的小型无人机和静止的迫击炮进行了跟踪?拦截并将其摧毁?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 109
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 144
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 151
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 134
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 138
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 147
+		}
+	]
+}

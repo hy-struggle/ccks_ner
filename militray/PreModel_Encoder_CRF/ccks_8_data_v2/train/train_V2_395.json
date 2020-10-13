@@ -1,0 +1,89 @@
+{
+	"originalText": "美国海军正在发展AGM-154“联合防区外武器”(JSOW)C-1的有动力增程型?“联合防区外武器”是一种中程空地精确制导滑翔武器,中段采用GPS和惯性导航系统,末端采用红外成像导引头寻的?JSOW C-1型增加了Link 16双向打击武器数据链和升级的导引头软件,能够实时更新目标数据以精确打击海上移动目标,满足美海军对网络化武器的需求?JSOW C-1型射程为130千米,于2016年6月形成初始作战能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 50
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 143
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 154
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 180,
+			"end_pos": 181
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 199,
+			"end_pos": 204
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 80
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 92
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 123
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 132
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 65
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 160
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 162,
+			"end_pos": 166
+		}
+	]
+}

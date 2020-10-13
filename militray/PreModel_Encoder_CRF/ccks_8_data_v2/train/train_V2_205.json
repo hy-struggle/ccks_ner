@@ -1,0 +1,23 @@
+{
+	"originalText": "来自迈诺特和范登堡空军基地的美国空军人员完成未携带弹头的“民兵”-3导弹试射?试验前,导弹从迈诺特空军基地的竖井中移出,后在范登堡空军基地重新装配?试验由第91导弹联队负责执行?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 56
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 27
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"originalText": "美国陆军在实弹射击训练前,正在波兰进行实弹射击精度筛选试验(LFAST)?陆军第1营?第8步兵团?第3装甲战斗小组和第4步兵师利用快速零校正方法进行了精准射击?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 72
+		}
+	]
+}

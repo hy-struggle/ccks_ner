@@ -1,0 +1,29 @@
+{
+	"originalText": "美军“小型空射诱饵弹”-N(MALD-N)?联合防区外武器”增程型(JSOW-ER)和“先进反辐射导弹”增程型(AARGM-ER)相继进入工程研制阶段,进行与载机适配等相关工作?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 21
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 65
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "欧 11357附录月9 日, 欧洲导弹集团(MBDA) 的Marte - ER 增程型反舰导弹在意大利试验场, 由欧洲“台风” 战斗机发射, 导弹飞行距离超过100 千米, 按照预定的航路, 飞过了预定的多个航路点, 最终在海上搜寻到目标?该公司表示, 反舰导弹成功完成了所有的飞行阶段, 试验取得成功?增程型反舰导弹已经完成了18 个月的系统演示阶段, 接下来将是与战斗机的集成演示?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 107
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 119
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 143
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 171,
+			"end_pos": 176
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 185,
+			"end_pos": 187
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 189,
+			"end_pos": 192
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		}
+	]
+}

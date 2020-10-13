@@ -1,0 +1,71 @@
+{
+	"originalText": "此外,俄罗斯9月表示将在现役“缟玛瑙”反舰导弹基础上研制“缟玛瑙”-M反舰导弹,其质量?尺寸和最大速度不变,采用新型燃料和更加轻巧的弹载无线电设备,使导弹最大射程由300千米增至800千米?导弹可携带常规和核弹头,装配先进控制系统,同时加强电子防御能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 39
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 43
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 51
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 126
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 60
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 73
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 106
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 115
+		}
+	]
+}

@@ -1,0 +1,107 @@
+{
+	"originalText": "常规弹头可针对特殊类型目标进行优化?例如,可以装载专门产生弹坑的弹药用于炸毁机场跑道或装甲车;侵彻弹头可用于穿透坚固的掩体或地堡?许多弹道导弹和部分巡航导弹可携带核弹头,这些核弹头的威力比二战中使用的炸弹威力大10-100倍?化学和生物弹头对一些国家有吸引力,因为化学和生物弹头比核弹头容易生产,而且不需要高精确制导技术?化学和生物弹头可造成大量人员死亡,导致平民的恐慌和混乱,严重削弱对手军事行动能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 13
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 31
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 4
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 34
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 51
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 84
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 120
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 160
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 42
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 46
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 61
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 64
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 175
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 181,
+			"end_pos": 182
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 196,
+			"end_pos": 201
+		}
+	]
+}

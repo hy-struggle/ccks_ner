@@ -1,0 +1,47 @@
+{
+	"originalText": "作为“勇敢之盾”演习的一部分,来自美国海军第5航空母舰航空联队的士兵于9月13日在西太平洋试射了最新的“联合防区外武器-1”?“勇敢之盾”演习是美国海军舰队首次对网络化武器进行端到端的作战部署,能够同时在演习中使用真实导弹和系留空中训练导弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 10
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 111
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 120
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 91
+		}
+	]
+}

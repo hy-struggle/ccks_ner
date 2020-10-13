@@ -1,0 +1,41 @@
+{
+	"originalText": "8月14日至23日,美国海军在“乔治·华盛顿”号航空母舰上开展F-35C战斗机第三阶段海上研制试验,以进一步验证F-35C战斗机的性能,为形成初始作战能力提供支持?试验在弗吉尼亚海岸进行,7架F-35C战斗机参加了试验,达到了“乔治·华盛顿”号航空母舰飞行甲板的最大承载量?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 49
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 77
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 136
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 130
+		}
+	]
+}

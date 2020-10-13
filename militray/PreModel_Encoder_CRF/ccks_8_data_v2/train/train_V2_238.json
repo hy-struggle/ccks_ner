@@ -1,0 +1,71 @@
+{
+	"originalText": "雷声公司成功试验“密集阵近程武器系统”的新型电子炮,此次升级使得士兵和水手可以多种速率开火,使用较少量的弹药?“密集阵”(Phalanx)是由计算机控制的雷达与20毫米速射火炮系统,可自动识别?跟踪和摧毁渗入各个防御系统的敌方威胁?世界海军建造或者部署了大约890多个系统?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 25
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 43
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 54
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 74
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 79
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 88
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 34
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 37
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		}
+	]
+}

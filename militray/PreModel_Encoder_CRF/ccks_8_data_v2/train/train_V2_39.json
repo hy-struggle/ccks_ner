@@ -1,0 +1,29 @@
+{
+	"originalText": "12月12日,美国航空航天局在航空航天学会网站正式发布了其通过同行评审的“电磁驱动引擎”论文———《在真空条件下测量密闭射频腔生成的脉冲推力》?论文阐述了NASA“鹰工厂”实验室于2015年进行的“电磁驱动引擎”试验细节,提出一个假说以解释“电磁驱动引擎”如何产生推力,最终得出“电磁驱动引擎”可持续运行的结论?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 108
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 152
+		}
+	]
+}

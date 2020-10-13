@@ -1,0 +1,59 @@
+{
+	"originalText": "俄罗斯国家原子能公司子公司阿夫里坎托夫设计局已经开发并成功试验了一种“永久反应堆”, 这种反应堆可以为俄罗斯最新核潜艇的整个寿命期提供动力, 而无需进行换料?该公司表示对所谓“活性区”(反应堆的核心) 的新设计进行了升级和测试, 使它比之前的反应堆能够产生更多的能量?随着这项新发明的投入使用, 俄罗斯潜艇将不再需要进行换料和反应堆大修?“永久反应堆” 将迅速增强俄罗斯海军的实力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 41
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 92
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 59
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 65
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 69
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 78
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 153
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 168
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 187
+		}
+	]
+}

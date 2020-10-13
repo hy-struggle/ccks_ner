@@ -1,0 +1,41 @@
+{
+	"originalText": "根据美国能源部国家核安全管理局的报告和知情人士透露,美国于2017年12月13日在内华达州的地下设施进行了代号 “织女星 ”(Ve?ga)的次临界核试验?这次试验是美国总统特朗普执政以来进行的首次次临界核试验,是美国最近5年来进行的第一次此类试验,也是美国自1997年进行首次次临界试验以来的第28次?国家核安全管理局称此次试验提供了有关钚反应的详细数据,是向提高核武器性能迈出的重要一步?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 76
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 170,
+			"end_pos": 172
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 177
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 185
+		}
+	]
+}

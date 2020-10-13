@@ -1,0 +1,59 @@
+{
+	"originalText": "俄罗斯战术导弹公司完成Grom-E1空地导弹和Grom-E2精确制导武器研发?Grom-E1重594千克,长4.2米,直径0.31米,装备有315千克重高爆破片战斗部?Grom-E2尺寸与Grom-E1相当,重598千克,滑翔距离在10-50千米,由于没有动力装置,可以配备重480千克的战斗部?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 36
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 47
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 54
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 61
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 83
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 132
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 147
+		}
+	]
+}

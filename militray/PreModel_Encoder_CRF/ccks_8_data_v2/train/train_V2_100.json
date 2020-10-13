@@ -1,0 +1,65 @@
+{
+	"originalText": "美国空军研究实验室与其项目承包商洛克达因—航空喷气发动机公司联合执行的“碳氢化物推进”项目,在爱德华空军基地火箭试验台2A进行了富氧型分级燃烧缩比预燃室的全功率?全面持续时间的试验,完成了多项关键火箭发动机技术的首次演示验证,包括Mondaloy?200高温合金在火箭发动机环境中的首次使用以及稀释剂型预燃室的首次运行,成功展示了下一代发射系统所用火箭发动机技术?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 76
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 131
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 154
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 80
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 87
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 139
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 169,
+			"end_pos": 172
+		}
+	]
+}

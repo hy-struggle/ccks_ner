@@ -1,0 +1,65 @@
+{
+	"originalText": "美国国防高级研究计划局成功开展人脑操控多架模拟战机试验DAR?PA生物技术办公室主任贾斯丁 ·桑切斯在9月召开的DARPA六十周年研讨会上表示,DARPA近期利用脑控技术成功在飞行模拟器上操控3架F-35战斗机,并实现了参试者对战斗机信号的接收?参试人员不仅实现了对飞行模拟器显示屏上3架F-35战斗机的同时操控,还成功接收了战斗机传感器传回的完整信号,从而实现了脑 —机间双向沟通?相关分析人员将此次试验视为脑 —机接口技术领域的一次重大突破?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 93
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 113
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 119
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 169
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 173,
+			"end_pos": 176
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 191
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 206,
+			"end_pos": 215
+		}
+	]
+}

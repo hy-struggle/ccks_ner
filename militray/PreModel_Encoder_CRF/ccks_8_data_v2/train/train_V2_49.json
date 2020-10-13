@@ -1,0 +1,41 @@
+{
+	"originalText": "3月15日俄罗斯利用陆基发射装置对其海军“锆石”新型高超声速巡航导弹进行了首次试射?该型导弹速度可达马赫数5~6,射程约402千米,将配装于“基洛夫”级核动力巡洋舰和正在建造的第5代“哈斯基”级核潜艇?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 16
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 34
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 48
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 59
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 82
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 100
+		}
+	]
+}

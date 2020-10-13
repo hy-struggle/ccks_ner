@@ -1,0 +1,29 @@
+{
+	"originalText": "印度国防研究与发展组织(DRDO)成功试射了 “普拉哈尔 ”地地战术弹道导弹?该试验于当日13时35分左右(印度标准时间)在位于印度东部Balasore的国防测试设施 ——ITR3号综合发射场进行,地面基站和电子光学系统在整个飞行过程中跟踪了导弹,所有系统都能正常运作并击中目标?根据国防研究与发展组织的说法,该导弹可以 “拿下 ”多个目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		}
+	]
+}

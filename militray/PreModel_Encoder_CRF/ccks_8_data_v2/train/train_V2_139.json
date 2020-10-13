@@ -1,0 +1,65 @@
+{
+	"originalText": "美国国防高级研究计划局“反潜战持续跟踪无人艇”(ACTUV)项目研发的无人艇完成了在加州圣迭戈海岸进行的性能试验,实现了包括速度?机动性?稳定性?适海性?加速\/减速及燃油消耗在内的所有目标,为其在开放海域环境下的机械系统可靠性树立了信心?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 64
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 72
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 82
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 104
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 113
+		}
+	]
+}

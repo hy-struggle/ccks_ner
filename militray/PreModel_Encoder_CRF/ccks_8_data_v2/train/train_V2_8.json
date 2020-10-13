@@ -1,0 +1,59 @@
+{
+	"originalText": "美国海军研究实验室与宾夕法尼亚州立大学飞行器智能和自主实验室成功演示验证了2驾无人滑翔机在飞行中的数据共享?试验中,2驾无人滑翔机在1000多米的高空自主飞行超过5小时,并在飞行中协作?共享遥测数据?本次试验表明,2个实验室的自主飞行算法都能成功发现并利用上升热气流,并对协同飞行与共享信息?提高机群续航能力进行了概念验证?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 99
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 119
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 130
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 133
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 75
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 140
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 145
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 154
+		}
+	]
+}

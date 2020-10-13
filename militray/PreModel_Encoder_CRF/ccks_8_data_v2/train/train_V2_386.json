@@ -1,0 +1,83 @@
+{
+	"originalText": "POST-3M地面电子侦察站具有完全自主性,能够搜索和检测机载?陆基和海基雷达信号,以及在整个工作频率范围内识别系统的机载接收器信号,进行方向侦察,识别雷达的类型及其装备对象?工作站在拦截和分析潜在敌方无线电设备的辐射的同时,可以获得有关其无线电设备运行模式的可靠数据?POST-3M的主要优点是可360度全方位侦察,可在高达40 GHz的频率范围内工作?该站的所有设备都位于一个底盘上,战斗任务由两名乘员完成?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 14
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 21
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 41
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 66
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 78
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 106
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 129
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 156
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 191,
+			"end_pos": 192
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 195,
+			"end_pos": 198
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 200,
+			"end_pos": 203
+		}
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"originalText": "7月16日,印度空间研究组织(ISRO)表示,已成功对其Vikas发动机的高推力版本进行了地面试验?ISRO 在其网站上表示, 该试验历时195秒?在试验期间, 推进参数显示“令人满意”并且与预测结果“紧密”匹配?地面试验验证了Vikas发动机的性能完全适用于即将进行的GSLVMk-III第二次飞行,该试验将提高运载火箭容纳有效载荷的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 145
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 161
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 167
+		}
+	]
+}

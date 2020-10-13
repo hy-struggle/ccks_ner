@@ -1,0 +1,101 @@
+{
+	"originalText": "10月中旬,美国陆军成功使用S-76B商用直升机进行了DARPA “机组人员驾驶舱工作自动化系统 ”(ALIAS)项目的飞行试验?试验中,飞行员在地面上通过一个新型控制器操作自主飞行系统?在平板电脑上发出起飞降落等基本指令,然后电脑会自动执行?在模拟装载货物和人员伤亡的过程中,地面上的飞行员也可以使用平板电脑给出指示,计算机在地面飞行员的输入与飞机上的人之间进行协调?在长达1小时的试飞中,该系统进行了一系列现实任务,包括低空地形飞行?受限区域起飞与降落?着陆区域选择以及轨迹规划和障碍回避等,能够在补给?医疗救护和侦察等传统军事任务内自主飞行?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 93
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 99
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 111
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 213,
+			"end_pos": 218
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 220,
+			"end_pos": 228
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 230,
+			"end_pos": 235
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 238,
+			"end_pos": 241
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 243,
+			"end_pos": 246
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 252,
+			"end_pos": 253
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 255,
+			"end_pos": 258
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 260,
+			"end_pos": 261
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 263,
+			"end_pos": 268
+		}
+	]
+}

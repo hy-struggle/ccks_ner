@@ -1,0 +1,59 @@
+{
+	"originalText": "法国国防采购局于7月6日在“查尔斯·戴高乐”航空母舰上对“神经元”技术演示验证机进行了首次海上试验?该机在飞行过程中进行了编队飞行和独自飞行,飞行时间约1小时,飞行高度约305米?此次海上飞行试验标志着“神经元”无人战斗机进入航空母舰试验阶段?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 111
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 119
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 75
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		}
+	]
+}

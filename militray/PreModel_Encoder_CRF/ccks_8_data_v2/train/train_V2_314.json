@@ -1,0 +1,47 @@
+{
+	"originalText": "贝尔公司宣布,其V-280 “英勇 ”倾转旋翼机验证机首次完成巡航模式飞行?该机是贝尔公司在美国陆军 “未来垂直起降飞行器 ”(FVL)项目框架下研发的竞标机型?试验中,V-280完成了旋翼从垂直向水平方向的倾转,并达到352千米\/小时的飞行速度?未来几个月内,V-280的飞行试验重点将集中在飞行包线的拓展上,以达到519千米\/小时的飞行速度?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 68
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 151
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 123
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 169,
+			"end_pos": 172
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 95
+		}
+	]
+}

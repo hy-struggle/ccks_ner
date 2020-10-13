@@ -1,0 +1,65 @@
+{
+	"originalText": "在最近进行的试验中,洛克希德·马丁公司的AN\/TPQ-53火力对抗雷达演示验证了其识别?跟踪无人机并将信息传递给指挥控制节点的能力,这对于充满新兴空中威胁的作战空间而言是一种关键能力?在演示验证中,AN\/TPQ-53雷达通过一个战术传感器自如地提供空中监视和火力目标捕获能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 110
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 128
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 137
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 119
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 77
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 82
+		}
+	]
+}

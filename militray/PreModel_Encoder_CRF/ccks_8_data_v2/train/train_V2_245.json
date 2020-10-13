@@ -1,0 +1,59 @@
+{
+	"originalText": "联合技术航空系统公司研制的新型MS-177远程?多光谱成像(MSI)传感器在诺斯罗普·格鲁曼公司RQ-4B“全球鹰”无人机系统(UAS)上完成首次飞行试验?试验于2月8日在诺斯罗普·格鲁曼公司位于加利福尼亚州的帕姆代尔工厂进行,将一直持续到6月?这次试验是MS-177传感器首次与高空远程自主飞机集成,试验表明MS-177的成像能力在覆盖范围?质量和精准度方面都达到了全新水准?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 68
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 148
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 163,
+			"end_pos": 166
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 171
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 173,
+			"end_pos": 174
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 176,
+			"end_pos": 178
+		}
+	]
+}

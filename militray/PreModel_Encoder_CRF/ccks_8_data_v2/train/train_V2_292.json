@@ -1,0 +1,95 @@
+{
+	"originalText": "乌克兰国防工业集团在8月宣布成功试验了一种名为“海王星”(Neptun) 的新型巡航导弹?该导弹与俄罗斯Kh-35“视觉上相似”,是一种亚声速反舰巡航导弹,由基辅的乌克兰国家设计局Luch 开发,射程为280~300千米之间?据报道,该导弹具有地面?海上和空中发射的不同型号, 其飞行的典型轨迹是在距地面10~30米的高度上飞行?国防新闻指出,导弹仍处于开发过程中,但打击范围可远达莫斯科?乌克兰国防专家SerhiySguretz说,该导弹的弹头采用高爆碎片杀伤模式?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 57
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 147
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 152
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 161
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 185,
+			"end_pos": 188
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 222,
+			"end_pos": 223
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 226,
+			"end_pos": 233
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 77
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 127
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 130
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		}
+	]
+}

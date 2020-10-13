@@ -1,0 +1,95 @@
+{
+	"originalText": "巴基斯坦军方19日宣布成功试射了一枚射程达350千米的国产“雷电”巡航导弹?此次试验是“雷电”巡航导弹自2007年首次试验以来的第7次飞行试验?该导弹长约5米,重达1000千克,可搭载射程为数百千米的大型常规弹头或核弹头,且精度极高,可以超声速或亚声速飞行,可实现自主导航,还可以极低的非弹道轨迹飞行,以避免雷达探测?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 20
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 114
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 122
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 148
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 102
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 104
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 106
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 156
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"originalText": "欧洲导弹集团展示了,亚声速和超声速巡航导弹,为“风暴前兆\/斯卡尔普”和ASMP-A导弹的后继型号,超声速型号除了打击固定基础设施外,还能打击舰船和预警机;短程“硬杀伤”武器,长度不到1米,质量不到10千克,除了应对传统的诱饵弹和干扰机,还可以打击来袭导弹?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 21
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 86
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 72
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 117
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 127
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "通用动力公司成功试验了其双信道AN\/PRC-155“移动用户目标系统”(MUOS)便携式无线电台?演示中,这种无线电台通过洛克希德·马丁公司研制的MUOS卫星,提供了语音和数据通信服务?同时演示的还有旨在确定该系统就绪状态的海军MUOS操作试验?PRC-155便携式无线电台已在陆军中使用,可以使士兵连接美军的通信中枢———作战人员战术信息网?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 122
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 92
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 111
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 141
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 150
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 154
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 159
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 163,
+			"end_pos": 171
+		}
+	]
+}

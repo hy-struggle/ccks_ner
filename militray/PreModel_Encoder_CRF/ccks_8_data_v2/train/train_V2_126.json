@@ -1,0 +1,41 @@
+{
+	"originalText": "7月8日,在美国新墨西哥州白沙导弹靶场,美最新改进型“爱国者”一体化防空反导系统———“部署后体系”-8(PDB-8),进行了初始作战试验前的最后一次研制试验?此次试验验证了PDB-8系统利用不同种类的拦截弹摧毁不同威胁目标的能力?试验由第11防空炮兵旅第43防空炮兵团下属的第3炮兵营在复杂的雷达环境中进行?\r\n美",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 151
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 112
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 104
+		}
+	]
+}

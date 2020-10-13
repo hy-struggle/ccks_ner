@@ -1,0 +1,77 @@
+{
+	"originalText": "雷声公司和美国空军开展了在坐标攻击和激光照射攻击两种模式下的小直径炸弹Ⅱ飞行试验?小直径炸弹具备最为先进的三模导引头,使用红外成像?毫米波和激光导引在战场上寻找目标?在坐标攻击作战模式下,小直径炸弹利用车载GPS定位系统攻击高价值的近距离和大于40海里的防区外固定目标?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 17
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 24
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 58
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 65
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 69
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 115
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 119
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 134
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "第五代战斗机T-50的9-A1-4071K航炮(NNPU-50炮架的一部分)正在国家飞机系统试验场进行试验?飞机试验涵盖从早期设计阶段到全速率生产阶段的宽泛内容?此次试验涉及其燃料系统?发电装置?逃生和弹射设备?火力遏制?武器以及其他多个系统?此外,未来战术飞机T-50战斗机的系统也正在国家飞机系统试验场进行试验?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 10
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 23
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 33
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 97
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 105
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 113
+		}
+	]
+}

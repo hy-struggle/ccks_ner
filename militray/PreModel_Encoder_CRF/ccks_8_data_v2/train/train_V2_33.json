@@ -1,0 +1,71 @@
+{
+	"originalText": "美国诺斯罗普·格鲁曼公司于本周表示,其为美军研制的未来侦察无人机“燕鸥”于10月中旬通过2项关键设计审查?“燕鸥”项目由海军研究办公室和美国国防高级研究计划局共同负责,由诺斯罗普·格鲁曼公司担任承包商?该无人机作为美军未来的情报?侦察与监视无人机,能够在美军小型舰艇上以垂直和水平两种方式起飞,实现美军在600海里以外距离进行“闪电攻击”的作战预想?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 36
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 114
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 117
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 120
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 123
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 133
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 161
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 174
+		}
+	]
+}

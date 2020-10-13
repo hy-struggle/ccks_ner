@@ -1,0 +1,41 @@
+{
+	"originalText": "印度海军于4月21日首次试射了“布拉莫斯”海射对陆攻击型两级超声速巡航导弹?该型“布拉莫斯”导弹是从印度海军位于安达曼-尼科巴群岛海岸的“泰格”级护卫舰上发射的?印度海军发言人表示,该“布拉莫斯”海射对陆攻击型导弹的射程为290千米,速度最高可达马赫数2.8?他认为,该型导弹可使印度舰船具有精确打击内陆甄选目标的能力?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 110
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 119
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 144
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 156
+		}
+	]
+}

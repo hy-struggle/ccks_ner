@@ -1,0 +1,53 @@
+{
+	"originalText": " 美国空军同国家核安全管理局, 在B - 2 轰炸机上完成了B61 -12核重力炸弹首次点对点资质飞行试验?这种点对点的试验旨在展示机组人员在实际任务中使用新型炸弹的能力?而B61 - 12 炸弹的首次完整试验也很好地说明了这款武器的基本性能?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 70
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 75
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 82
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 121
+		}
+	]
+}

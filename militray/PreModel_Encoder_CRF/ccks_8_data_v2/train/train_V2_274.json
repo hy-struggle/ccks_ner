@@ -1,0 +1,29 @@
+{
+	"originalText": "俄罗斯军方的一段录像显示,俄罗斯正在试射一种超级核武器,普京曾表示这种武器攻击范围可覆盖全球?俄罗斯军方也表示,这种导弹能够将一个“得克萨斯或法国大小”的地区摧毁?这段由俄罗斯国防部发布的视频显示,一枚涂有鲜艳格子图案的RS-28“萨尔玛特”洲际弹道导弹从俄罗斯的一个秘密基地飞出发射井?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 127
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 143
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 41
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "由日本组装的首架F-35战斗机于6月13日在位于爱知县的名古屋机场进行了首次飞行试验?此次试验历时近2个小时,主要用于检验飞机在飞行过程中的各项表现?初步结果显示,飞机各项功能运转正常?接下来,这架F-35战斗机还将在日本进行多次飞行试验,随后即远赴美国进行飞行训练?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 15
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 68
+		}
+	]
+}

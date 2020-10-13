@@ -1,0 +1,41 @@
+{
+	"originalText": "总部位于英国牛津的FLF 公司主要从事惯性约束聚变研究, 该公司已在其新制造的脉冲能装置“机器3” 的6 个分支中的一个分支上成功发射第一个测试“弹丸”?该公司表示, 在检查了“机器3” 的所有部件并对产生的数据进行分析后, 就可以再次试验?“机器3” 是世界上唯一用于核聚变能源研究的脉冲能装置, 按计划将于2018 年底投入使用?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 76
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 56
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 99
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 142
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 148
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "美 目前, 美国陆军正在试验新型“鹰眼” 系统?这种系统通过利用创新型液压系统可减少后坐力, 使体积很大的榴弹炮也能放置在小平台上, 解决了榴弹炮体积的问题?此“ 鹰眼” 系统通过远程操控, 每分钟可发射8 枚炮弹持续3 分钟, 或每分钟持续发射3 枚炮弹?悍马机动性良好, 可使2 ~4 人的机组人员在60 秒内(或反弹幕炮击之前) 迅速完成部署悬挂系统?发射炮弹和逃离等一系列动作?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 23
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 50
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 39
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 56
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 64
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 151
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 178
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 183
+		}
+	]
+}

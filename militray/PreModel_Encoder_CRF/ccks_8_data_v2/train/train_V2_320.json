@@ -1,0 +1,53 @@
+{
+	"originalText": "4月18日,“海毒液 ”\/ANL导弹在法国东南部DuLevant岛完成第二次研发试射?导弹由法国武器装备总署 “黑豹 ”直升机发射,重点验证了 “海毒液 ”\/ANL的发射后锁定(LOAL)能力,也对导弹低空掠海飞行能力?与直升机数据链路通信的有效性以及红外成像制导能力进行了验证?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 18
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 63
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 109
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 118
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 124
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 134
+		}
+	]
+}

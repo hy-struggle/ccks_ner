@@ -1,0 +1,17 @@
+{
+	"originalText": "美国导弹防御局(MDA)联合美国空军第30太空联队?一体化导弹防御联合职能司令部于5月30日对美国弹道导弹防御体系的“地基中段防御”(GMD)系统开展试验并成功拦截一枚洲际弹道导弹目标?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 92
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "美国空军24日在华盛顿州成功完成波音KC-46A加油机(工程与制造第2阶段)首次空中加油试验,开启了空中加油演示验证的里程碑C阶段?作为开发的一部分,试验小组完成了一系列试验,然后在波音机场为时5小时45分钟的出行架次中向1架飞行高度为6千米的F-16战斗机输送了726千克燃油?此外,加油机还部署了吊杆,伸缩管向外探出,伸向配备插孔的受油机?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 129
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 139
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 169,
+			"end_pos": 171
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 152
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 156
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 167
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"originalText": "伊朗2月宣布成功试射“霍韦伊泽”(Hoveizeh)巡航导弹,并准确命中预定目标?导弹射程超过1350千米,发射准备时间短,可低空飞行?该弹及其基础型“苏穆尔”(Soumar)巡航导弹均是在苏联Kh-55巡航导弹基础上研制的?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 92
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 106
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 60
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 65
+		}
+	]
+}

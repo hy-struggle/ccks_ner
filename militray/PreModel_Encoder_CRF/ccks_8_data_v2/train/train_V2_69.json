@@ -1,0 +1,41 @@
+{
+	"originalText": "俄罗斯公布了其具有核打击能力的弹道导弹试射画面?近日,俄罗斯中央军区导弹旅从位于俄罗斯西南部的卡普斯京·亚尔导弹试验靶场利用“伊斯坎德尔”-M战术系统发射了1枚近程导弹,画面显示200千米之外模拟敌人的指挥中心变成了1个弹坑?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 112
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 14
+		}
+	]
+}

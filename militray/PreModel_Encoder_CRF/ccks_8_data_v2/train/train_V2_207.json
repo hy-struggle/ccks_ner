@@ -1,0 +1,47 @@
+{
+	"originalText": "来自10个北约国家的近1400人参加了在德国第七陆军训练司令部举行的“动力前进”Ⅱ演习?此次演习时间为2月26日—3月10日,旨在发现在通过软件项目——火炮系统联合计划(ASCA)推进火力互操作性的过程中出现的问题,并确定解决方案?ASCA能够通过连接各国战地火炮\/火力支持指控系统,来实现数字通信的自动化?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 90
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 98
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 153
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 141
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 149
+		}
+	]
+}

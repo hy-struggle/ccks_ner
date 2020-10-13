@@ -1,0 +1,59 @@
+{
+	"originalText": "印度已成功试射改进型“皮纳卡”多管火箭发射系统?该系统将可替代俄制Smerch型多管火箭发射系统?试验中,markⅡ型“皮纳卡”火箭弹从昌迪普尔的综合试验靶场3号发射综合设施发射?该武器是制导型“皮纳卡”,是markⅠ型的改进型,配有一个导航?制导和控制组件,从而增强了射程和精准度?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 87
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 102
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 110
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 141
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 129
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 48
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"originalText": "美 12 月23 日, 太空技术探索( Space X) 公司用“ 猎鹰” 9 火箭发射了美国空军最新GPS 卫星, 完成了该公司今年的第21 次也是最后一次发射?“ 猎鹰” 9 火箭于当日8 时51 分在佛罗里达州的卡纳维拉尔角起飞,GPS -3 卫星有效载荷于1 小时59 分后与火箭分离?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 131
+		}
+	]
+}

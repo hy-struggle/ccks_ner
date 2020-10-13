@@ -1,0 +1,53 @@
+{
+	"originalText": "美国空军针对“自动一体化避碰系统”开展了第一阶段飞行试验,目前已完成过半?该系统被认为是世界上首个全自动一体化战斗飞行安全系统,旨在防止空对空以及空对地碰撞事件的发生?“自动一体化避碰系统”主要基于“自动地面避碰系统”建造,后者自2014年年末服役于空军以来至少已挽救了3架F-16战斗机及其飞行员?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 63
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 80
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 127
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 144
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 149
+		}
+	]
+}

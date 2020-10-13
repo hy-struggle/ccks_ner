@@ -1,0 +1,29 @@
+{
+	"originalText": "导弹防御局于9月19日开始,与北方司令部?太平洋司令部和负责一体化导弹防御的联合职能司令部联合开展了1次为期12天的弹道导弹防御系统分布式地面试验,在各种模拟的威胁想定中对该系统应对真实攻击的能力进行了综合评估?\r\n\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 95
+		}
+	]
+}

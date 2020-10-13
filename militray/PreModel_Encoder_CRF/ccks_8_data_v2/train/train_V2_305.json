@@ -1,0 +1,71 @@
+{
+	"originalText": "近期,来自北卡罗来纳州布拉格堡的第82战斗航空旅的士兵和来自阿拉巴马州红石试验中心的试验性试飞员一起在UH-60V “黑鹰 ”直升机上进行了新的数字系统试验?飞行员在试验期间经历了一系列场景,包括空中移动?空中攻击?白天?夜间?夜视镜下的外部装载任务,以及模拟仪器气象飞行模式?该试验还包括威胁模拟,以模拟直升机的生存能力设备,并使用更新的功能引导飞行员行动?试验有助于评估人员观察飞行员与新系统的互动情况?此次试验还将为今年晚些时候的小批量生产决定提供信息,使实用直升机项目办公室能够推进有限的生产?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 102
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 107
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 113
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 117
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 125
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 138
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 149
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 163
+		}
+	]
+}

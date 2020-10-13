@@ -1,0 +1,65 @@
+{
+	"originalText": "在俄罗斯“军队-2019”国际军事技术论坛期间,俄罗斯首次公开了“萨尔马特”新型重型洲际弹道导弹的战术技术性能?“萨尔马特”洲际导弹采用分导式核弹头,弹长35.5米,直径3米,射程1.8万千米,起飞重量为208.1吨,燃料178吨,有效载荷近10吨,将逐步取代即将退役的“部队长官”洲际弹道导弹(北约代号“撒旦”),首批量产型将于2021年投入使用?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 48
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 55
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 77
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 90
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 101
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 111
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 120
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 74
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 147
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "3月1日美国诺斯罗普·格鲁曼公司在其加利福尼亚的帕姆代尔飞机总装厂开始对RQ-4“全球鹰”无人机上搭载MS-177多光谱传感器进行首次飞行试验,试验将持续到2017年上半年?该传感器不仅能使用广域搜索和各种感知技术发现目标,还可以利用其灵活的多感知模式对目标进行修正?跟踪和评估?此次试验是该传感器首次在高空长航时无人机系统上进行的试飞?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 162
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 107
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 126
+		}
+	]
+}

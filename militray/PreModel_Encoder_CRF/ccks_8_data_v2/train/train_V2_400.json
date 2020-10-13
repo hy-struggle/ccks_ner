@@ -1,0 +1,77 @@
+{
+	"originalText": "太阳能无人机将采用薄膜太阳能电池和备用蓄电池以支持全天时飞行?该无人机的一个显著特点是在机翼末端放置螺旋桨,以节省能源?无人机飞行的持续时间估计为几周?高空“伪卫星”无人机的可能有效载荷为:通信中继器?拍照录像设备以及气象设备?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 86
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 28
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 70
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 93
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 16
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 22
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 48
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 53
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 100
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 107
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 113
+		}
+	]
+}

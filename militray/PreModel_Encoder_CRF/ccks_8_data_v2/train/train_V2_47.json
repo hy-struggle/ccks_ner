@@ -1,0 +1,29 @@
+{
+	"originalText": "美国通用原子公司电磁系统部于3月7日至9日在美国陆军达格威试验场,对装有制导电子部件原型的电磁导轨炮射弹进行了试射,检验了其在野外环境下的性能?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 52
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 67
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 42
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 44
+		}
+	]
+}

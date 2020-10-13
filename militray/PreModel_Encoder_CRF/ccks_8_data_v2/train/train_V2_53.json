@@ -1,0 +1,107 @@
+{
+	"originalText": "以色列海军从1艘“萨尔5”级护卫舰上对RGM-84“鱼叉”反舰导弹和1种新型武器进行了试射?RGM-84“鱼叉”是美国研制的一种全天候?远距离反舰导弹,长4.5米,射程104千米,飞行速度1126千米\/小时,可从水面舰船和潜艇上发射,也可从飞机上发射,主要用于攻击出水潜艇?驱逐舰?大型战舰?巡逻舰等水上目标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 40
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 77
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 92
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 94
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 122
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 67
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 75
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 136
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 140
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 145
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 149
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 154
+		}
+	]
+}

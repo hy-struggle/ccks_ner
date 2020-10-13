@@ -1,0 +1,59 @@
+{
+	"originalText": "美国洛克希德·马丁公司于7月29日在新墨西哥州白沙导弹靶场,完成“微型碰撞杀伤”拦截弹重新设计后的第二次飞行试验,进一步检验了拦截弹的敏捷性和气动性能,标志着其成熟度进一步提升?“微型碰撞杀伤”拦截弹采取直接碰撞杀伤技术,主要用于提高美国陆军应对火箭弹?火炮和迫击炮威胁的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 70
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 75
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 121
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 126
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 129
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 133
+		}
+	]
+}

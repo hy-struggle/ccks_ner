@@ -1,0 +1,47 @@
+{
+	"originalText": "洛克希德·马丁公司成功完成了经现代化改造的战术导弹系统(TACMS)的第五次飞行试验?该导弹系统是为美国陆军研制?此次试验在美国新墨西哥州白沙导弹靶场举行?试验证实了导弹可按设计方案运行,并符合工程与制造开发项目的性能要求?试验中,远程战术面面导弹从一个高机动火箭炮系统向85千米之外的目标进行发射?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 91
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 106
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 124
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 135
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 54
+		}
+	]
+}

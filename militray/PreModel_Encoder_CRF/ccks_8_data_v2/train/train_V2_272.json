@@ -1,0 +1,59 @@
+{
+	"originalText": "俄罗斯国防部新闻办公室表示, 俄罗斯国防部已在测试范围内对“波塞冬” 水下无人机展开试验, 以确认该装置在实际情况下发射的动态特性, 并检查该装置在自动模式下的运动参数?截至7 月19 日,“波塞冬” 水下无人机的综合试验工作即将结束, 工业企业已采取措施对所有无人机系统和组件的协同操作和可靠性进行检查?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 136
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 139
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 144
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 148
+		}
+	]
+}

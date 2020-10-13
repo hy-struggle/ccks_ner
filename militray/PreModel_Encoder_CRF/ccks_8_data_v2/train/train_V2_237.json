@@ -1,0 +1,29 @@
+{
+	"originalText": "4月26日0时03分,美国空军在加利福尼亚范登堡空军基地成功发射了一枚“民兵”-3洲际弹道导弹,并将其称为核威慑能力的展示?“民兵”-3导弹配备非爆炸飞行数据有效载荷,命中了约6759千米外的太平洋马绍尔群岛夸贾林环礁上的预定目标?该导弹由美国空军第30太空联队监督发射?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 83
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 58
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"originalText": "俄罗斯将于2019年完成在塞瓦斯托波尔附近建造“沃罗涅日-SM”国家导弹预警雷达系统的合同,并计划于2020年底前交付该雷达?“沃罗涅日-SM”高精确导弹预警雷达在“沃罗涅日”雷达基础上改进而来,工作波段为厘米级,用于获取来袭导弹的发射数据及导弹轨迹,同时可以监控太空目标?目前,已有四座“沃罗涅日”雷达在列宁格勒?加里宁格勒?伊尔库茨克以及克拉斯诺达尔地区处于作战值守状态?另外三座“沃罗涅日”雷达已开始在克拉斯诺亚尔斯克?阿尔泰以及奥伦堡地区进行试验值班值守?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 90
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 102
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 120
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 125
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 136
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 157
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 163
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 169
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 172,
+			"end_pos": 179
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 205,
+			"end_pos": 212
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 214,
+			"end_pos": 216
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 219,
+			"end_pos": 223
+		}
+	]
+}

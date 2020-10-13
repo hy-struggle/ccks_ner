@@ -1,0 +1,35 @@
+{
+	"originalText": "美国洛克希德·马丁公司获得了一份价值5.618亿美元的陆军战术导弹(ATACM)外军事销售(FMS)合同,并向巴林?波兰和罗马尼亚发起了装配寿命延长计划?陆军战术导弹是一种常规远程地对地制导导弹,能够打击远超出现役陆军火炮和其他导弹射程的目标,该导弹可由MLRS M270和M270A1武器平台发射?美国国防部发表的一份声明称,这项工作预计将在2022年6月30日前完成?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 136
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 147
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 118
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 97
+		}
+	]
+}

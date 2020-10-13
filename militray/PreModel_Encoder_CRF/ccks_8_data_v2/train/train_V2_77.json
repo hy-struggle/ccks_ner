@@ -1,0 +1,65 @@
+{
+	"originalText": "朝鲜于4月9日表示已成功试射新型洲际弹道火箭发动机,从而使朝鲜有能力对美国开展核打击?如果消息属实,则此次试验对于朝鲜核武器项目而言是一项重大进步,也将成为2016年迄今为止开展的第4次原子试验?但是,在利用核导弹对美国本土进行核打击之前,朝鲜仍面临许多工作?韩国官员表示,朝鲜目前尚没有可靠的洲际弹道导弹,更没有能力将其装备核弹头?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 97
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 166
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 31
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 37
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 42
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 107
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 112
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 153
+		}
+	]
+}

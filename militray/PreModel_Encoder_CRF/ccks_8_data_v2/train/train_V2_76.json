@@ -1,0 +1,59 @@
+{
+	"originalText": "3月31日,印度海军在维萨卡帕特南的孟加拉湾水域进行了首次核潜艇水下发射K-4潜射弹道导弹试验?试验中,印度自行研制的“歼敌者”号在水下20米深处,利用核潜艇的导弹发射管发射了一枚搭载模拟弹头的K-4潜射弹道导弹,导弹飞行700千米后准确击中目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 106
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 123
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 73
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 85
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 96
+		}
+	]
+}

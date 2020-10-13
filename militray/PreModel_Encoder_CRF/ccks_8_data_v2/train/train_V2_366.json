@@ -1,0 +1,95 @@
+{
+	"originalText": "欧洲导弹集团在巴黎航展期间展示了一系列新型导弹武器概念,以装备欧洲正在研制的第六代战机,如智能滑翔武器,可集成至“幻影”2000?“阵风”战机以及欧洲未来空中作战系统(FCAS),利用先进的战术网络和人工智能技术进行协同作战; “远程载具”,携带各种传感器和效应器,以迷惑或攻击敌防空系统,可从运输机或水面舰艇发射,有质量为150千克和250千克两个型号;",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 89
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 99
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 106
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 120
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 144
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 150
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 155
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 161
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 128
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 132
+		}
+	]
+}

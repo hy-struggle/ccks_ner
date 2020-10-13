@@ -1,0 +1,53 @@
+{
+	"originalText": "“布拉莫斯”导弹改进方面,4月,布拉莫斯宇航公司俄方经理表示,“布拉莫斯”导弹射程目前已超过400千米,当前任务是将射程提高至500千米?7月,俄罗斯战术导弹集团表示正在为印度“布拉莫斯”导弹增强导引头性能,包括配备有源相控天线阵,提升灵敏度和抗干扰能力,以及使导弹能够以大俯冲角度攻击目标?8月,印度国防部批准采购两个下一代海洋移动岸防导弹系统营,该系统将装备“布拉莫斯”导弹?2019年内,印度还进行了8次“布拉莫斯”导弹试射,全部成功?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 8
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 174
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 41
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 121
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 141
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 101
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 115
+		}
+	]
+}

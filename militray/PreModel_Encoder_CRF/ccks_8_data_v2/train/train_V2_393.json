@@ -1,0 +1,47 @@
+{
+	"originalText": "俄罗斯自动化设备康采恩(隶属于俄罗斯技术集团)与国防部一起成功测试“游隼”车载反无人机系统?“光束”远程反无人机电子战系统是“游隼”系统中重要的组成部分,该系统可干扰无人机定向?中断无人机与操作员之间收发信息?致使无人机导航失败,“光束”可补充与无人机作战的电子战手段?除此之外,“游隼”系统还包括光电侦察设备和雷达站?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 86
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 98
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 134
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 61
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 155
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 157,
+			"end_pos": 159
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "雷声公司一直致力于美国空军“全球定位系统下一代操作控制系统”(GPS?OCX)的研发,近期,该系统开展了“黑广域网”的“运行记录”试验,验证了OCX与GPS外部接口可安全运行?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 58
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 67
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 80
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 82
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "欧洲主要国家拥有多种飞航导弹型号?2019年,欧洲主要国家重点开展导弹与战机和无人机的集成工作,同时开展导弹改型和概念探索工作?导弹与平台集成方面,英国空军授予1月欧洲导弹集团(MBDA)合同,用于“硫磺石”空地导弹与“保护者”RG Mk1无人机集成?3月,BAE系统公司和洛克希德·马丁公司签订为英国F-35战斗机集成“长矛”空地导弹的初始合同?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 14
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 108
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 123
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 158
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 168
+		}
+	]
+}

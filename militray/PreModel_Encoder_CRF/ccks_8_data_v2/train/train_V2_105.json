@@ -1,0 +1,53 @@
+{
+	"originalText": "当日,美国航空航天局的“空间发射系统”火箭助推器在位于犹他州普瑞蒙特瑞的轨道ATK公司的测试设施上,成功完成了第二次地面合格试验?这是“空间发射系统”在2018年晚些时候第一次发射不载人的“猎户座”飞船前,最后一次全面的助推器试验,也是NASA“火星之旅”一个关键的里程碑?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 101
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 115
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 128
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 93
+		}
+	]
+}

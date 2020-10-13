@@ -1,0 +1,83 @@
+{
+	"originalText": "Textron公司于当日宣布,成功试射了其研制的精确制导滑翔武器——G-CLAW,并命中移动目标?此次试验于2016年10月在尤马靶场进行?试验中,导弹从塞纳斯大篷车系列飞机上发射,通过将GPS半自动惯性导航系统转换为半主动激光传感器末端制导,以1米以内的圆误差概率分别命中静止和动态目标?G-CLAW 精确制导滑翔武器系统融合了3种引信模式,能够针对不同目标选择更好的模式?该武器采用模块化设计,以支持其与制导?传感和弹头效应等方面的新兴技术快速融合?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 87
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 133
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 139
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 142
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 106
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 121
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 171
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 205,
+			"end_pos": 206
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 208,
+			"end_pos": 209
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 211,
+			"end_pos": 214
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 219,
+			"end_pos": 222
+		}
+	]
+}

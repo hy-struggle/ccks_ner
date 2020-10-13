@@ -1,0 +1,29 @@
+{
+	"originalText": "由印度马扎冈船坞造船有限公司制造的“鲉鱼”级潜艇首艇“卡尔瓦里”号于5月1日进行首次海试?2005年10月,印度与法国DCNS公司签署合同,将建造6艘“鲉鱼”级潜艇?其中,前4艘潜艇将为普通柴电潜艇,后2艘将装备不依赖空气推进系统?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 33
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 97
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 115
+		}
+	]
+}

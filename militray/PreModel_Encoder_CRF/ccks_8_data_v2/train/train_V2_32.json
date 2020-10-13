@@ -1,0 +1,41 @@
+{
+	"originalText": "美国国防高级研究计划局授予弗吉尼亚州Leidos公司价值850万美元的续约合同,要求其继续开发并试验“反潜战持续跟踪无人艇”?该艇长约40米,能够利用传感器和声纳技术搜寻?定位敌方潜艇和其他空中\/水下威胁,并可自主航行90天?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 62
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 66
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 78
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 83
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 102
+		}
+	]
+}

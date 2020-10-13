@@ -1,0 +1,41 @@
+{
+	"originalText": "6月13日,航空喷气·洛克达因公司取得了一个重要里程碑,其所设计的新一代RL-10发动机推力室成功完成了一系列热燃烧试验。该推力室几乎完全使用3D打印技术制造，热燃烧试验表明,该公司逐步成熟的大型增材制造能力有助于降低这种发动机系统的成本,也标志着用增材制造方法构建零部件并用于发动机系统的生产已到达了另一个重要里程碑。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 144
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 77
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 131
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 136
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"originalText": "美国陆军及海军2月18日在夏威夷沙夫特堡举行联合演习,验证了联合作战所需要的互操作性,尤其是联合通信能力?演习中,部署在5个不同地点的陆军?海军士兵使用陆军背负式电台与联合作战指挥平台,并利用海军移动用户目标系统波形,实现了通话及数据发送和分享,并追踪了一艘陆军后勤保障船的行军进展,实现了从海面到约322千米以外地面的无缝通信连接?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 83
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 92
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 108
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 42
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 52
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 114
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 122
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 148
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 159
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 166
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"originalText": "美国海军“科罗纳多”号近海战斗舰于近期完成的初始作战试验,验证了其应对反舰巡航导弹的能力?此次试验在海军穆古角航空站进行,由海军作战试验鉴定部队实施,近海战斗舰项目执行办公室和一体化作战系统项目执行办公室协助?试验中,“科罗纳多”号发射了1枚“海拉姆”反舰导弹,命中了1个无人机目标?此外,“科罗纳多”号还在航海期间完成了12次目标追踪?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 16
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 130
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 139
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 168
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 41
+		}
+	]
+}

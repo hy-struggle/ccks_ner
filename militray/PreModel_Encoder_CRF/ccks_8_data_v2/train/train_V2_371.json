@@ -1,0 +1,41 @@
+{
+	"originalText": "同月,日本与挪威康斯伯格公司签订F-35战斗机“联合打击导弹”(JSM)的初始交付合同,意味着日本“联合打击导弹”进入生产阶段?11月,日本再次授出合同,用于为空中自卫队提供更多“联合打击导弹”?该导弹是在“海军打击导弹”的基础上研发的,采用双向数据链,具备反舰和对陆打击能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 111
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 126
+		}
+	]
+}

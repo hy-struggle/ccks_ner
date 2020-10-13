@@ -1,0 +1,83 @@
+{
+	"originalText": "美国空军太空司令部于10月11日在阿拉巴马州马克斯韦尔空军基地举行第12次 “施里弗兵棋推演”?演习场景设定于2028年,将探讨关键太空问题并研究与航天系统和服务相关的多个机构的整合活动?2018年 “施里弗兵棋推演 ”(SW18)包括来自澳大利亚?加拿大?法国?德国?日本?新西兰和英国的国际合作伙伴?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 47
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 70
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 88
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 93
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 128
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 131
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 134
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 141
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 144
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 151
+		}
+	]
+}

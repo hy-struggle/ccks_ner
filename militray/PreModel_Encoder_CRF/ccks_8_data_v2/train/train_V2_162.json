@@ -1,0 +1,53 @@
+{
+	"originalText": "俄罗斯国防部称俄军方成功试射一枚“白杨”(Topol-M)洲际弹道导弹?试验中,导弹从普列谢茨克航天发射场发射,以高精准度击中了设在堪察加半岛发射场内的一个假设目标,以确认该类型洲际弹道导弹飞行特性的稳定性?“白杨”型(Topol-M)洲际弹道导弹可从安装在MZKT-79221通用运输发射平台上的发射架或APU发射器上启动部署?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 82
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 61
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 99
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 103
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 147
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 152
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 159
+		}
+	]
+}

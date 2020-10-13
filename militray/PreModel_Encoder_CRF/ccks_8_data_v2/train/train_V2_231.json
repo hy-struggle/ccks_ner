@@ -1,0 +1,41 @@
+{
+	"originalText": "欧洲战机公司的“台风” (Typhoon)战斗机在BAE系统公司位于兰开夏郡的工厂成功完成了“硫磺石”(Brimstone)空地武器的新一轮飞行试验?这些试验活动是“台风”战斗机正在进行的“第三阶段增强” (P3E)包开发工作的一部分?作为英国国防部“百人队长”(CENTURION)计划的一部分,确保皇家空军的“狂风”战斗机能力在2018年底之前向“台风”战斗机平稳过渡?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 102
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 109
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 144
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 157,
+			"end_pos": 163
+		}
+	]
+}

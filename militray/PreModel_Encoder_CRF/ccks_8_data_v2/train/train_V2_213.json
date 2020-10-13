@@ -1,0 +1,47 @@
+{
+	"originalText": "本周一,由导弹防御局?美国海军和洛克希德·马丁公司相关人员组成的小组,首次在舰上对最新版“宙斯盾”弹道导弹防御(BMD)5.1武器系统进行了研制试验,验证了其在舰上的操作性能?试验中,“约翰·保罗·琼斯”号驱逐舰搭载“宙斯盾”基线9.C2(BMD5.1)作战系统,探测?跟踪并拦截了一枚中程弹道导弹靶标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 106
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 131
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 151
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 82
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		}
+	]
+}

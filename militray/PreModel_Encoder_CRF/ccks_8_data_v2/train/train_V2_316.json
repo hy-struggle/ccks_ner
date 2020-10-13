@@ -1,0 +1,65 @@
+{
+	"originalText": "俄罗斯海军955型战略核潜艇 “尤里 ·多尔戈鲁基 ”号在白海成功发射了4枚 “布拉瓦 ”潜射洲际弹道导弹,准确命中位于远东堪察加地区库拉试验场的预定目标?导弹从水下位置发射,这也是第一次从这种型号的潜艇上发射导弹?这次试验证实了955型 “北风之神 ”级战略潜艇和 “布拉瓦 ”潜射洲际弹道导弹系统的战备状态?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 6,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 132
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 150
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 155
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 99
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 102
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 107
+		}
+	]
+}

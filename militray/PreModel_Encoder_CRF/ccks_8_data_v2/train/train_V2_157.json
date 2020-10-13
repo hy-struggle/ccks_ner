@@ -1,0 +1,47 @@
+{
+	"originalText": "美国陆军在白沙导弹靶场执行了洛克希德·马丁公司“爱国者先进能力”-3(PAC-3)导弹飞行试验,成功拦截来袭目标?在试飞过程中,2个“爱国者”系统跟踪并摧毁2个战术弹道导弹目标?洛克希德·马丁公司负责PAC-3项目的副总裁斯科特·阿诺德表示,PAC-3导弹成功抵御了目前的威胁,它仍然是世界上唯一经实战验证过的直接碰撞杀伤式拦截弹?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 88
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 151
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 165
+		}
+	]
+}

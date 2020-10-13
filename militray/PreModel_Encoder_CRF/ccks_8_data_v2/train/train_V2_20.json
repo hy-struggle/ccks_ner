@@ -1,0 +1,41 @@
+{
+	"originalText": "美国海军陆战队CH-53K“种马王”重型运输直升机10月19日在佛罗里达州西棕榈滩的西科斯基研发飞行中心完成了为期2周的初始作战试验,达到预期效果?作战试验-B1由美国海军陆战队的飞行员?机组人员和维修人员共同实施,试验内容包括外部吊挂运载12200千克和5422千克载荷在作战半径110海里情况下的空中悬停?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 141
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 154
+		}
+	]
+}

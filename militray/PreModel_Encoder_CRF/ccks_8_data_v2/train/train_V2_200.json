@@ -1,0 +1,53 @@
+{
+	"originalText": "美军远程反舰导弹正式服役洛克希德·马丁公司12 月18 日宣布,首批远程反舰导弹交付美国空军, 获得初步作战能力, 首批生产海军和空军共计23 枚导弹?该型导弹采用多种制导方式, 打得远, 抗干扰能力强,弥补了美军反水面舰艇的能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 8
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 56
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 100
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 88
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 64
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 67
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 107
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 112
+		}
+	]
+}

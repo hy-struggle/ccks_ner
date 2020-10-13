@@ -1,0 +1,23 @@
+{
+	"originalText": "美国海军“约翰芬”号驱逐舰成功试射SM-2导弹?试验中,SM-2导弹分别从位于驱逐舰前方和后方的MK41垂直发射系统中发射?此次试验是“约翰芬”号驱逐舰交付海军前规划进行的3次试验中的第2次?第1次试验于2015年8月完成,第3次试验美国海军检查与调查委员会将参与其中?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 13
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 23
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 58
+		}
+	]
+}

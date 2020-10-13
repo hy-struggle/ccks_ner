@@ -1,0 +1,23 @@
+{
+	"originalText": "澳大利亚皇家海军在澳洲东海岸进行的1次试验中,从轻型航空母舰“墨尔本”号上试射了1枚改进后的“海麻雀”导弹?此次试验是为期3周的海上资格试验中的一部分?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 70
+		}
+	]
+}

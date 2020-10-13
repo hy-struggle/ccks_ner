@@ -1,0 +1,35 @@
+{
+	"originalText": "日本在新版《防卫大纲》的指导下,通过升级现有导弹和采购国外先进型号,不断强化对陆和反舰精确打击能力?3月,日本防卫省计划在ASM-3反舰导弹基础上发展新型自研空射防区外反舰导弹,通过增加燃料等改进使导弹射程达到400千米以上?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 49
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 103
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 95
+		}
+	]
+}

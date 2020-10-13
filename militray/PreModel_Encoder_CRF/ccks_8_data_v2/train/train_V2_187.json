@@ -1,0 +1,47 @@
+{
+	"originalText": "美国试验新一代近程防空导弹11 月, 洛克希德·马丁公司所属导弹356试验鉴定领域发展报告与火控分部在新墨西哥州白沙导弹靶场通过“ 斯特瑞克” 战车上的近程防空发射系统成功完成新型M - SHORAD 拦截弹的首次飞行试验, 试验性能与预期相符?此次试验的目的是展示M - SHORAD 拦截弹的关键技术及发射系统的稳定性?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 104
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 111
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 161
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 149,
+			"end_pos": 152
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 157
+		}
+	]
+}

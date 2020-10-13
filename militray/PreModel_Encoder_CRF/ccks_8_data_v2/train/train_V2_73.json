@@ -1,0 +1,53 @@
+{
+	"originalText": "俄罗斯首次从位于远东地区阿穆尔州的东方航天发射场,利用“联盟”-2.1a运载火箭和“伏尔加”上面级的组合,将莫斯科大学研制的“MVL-300”科研卫星?萨马拉国立航空航天大学研制的“AIST-2D”科研卫星和“SamSat-218\/D”纳星送入预定轨道?这标志着俄罗斯远东地区新建航天发射场具备了实际发射能力,也是俄罗斯摆脱对他国发射场严重依赖迈出的重要一步?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 126
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 160
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 168
+		}
+	]
+}

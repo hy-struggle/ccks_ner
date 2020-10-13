@@ -1,0 +1,35 @@
+{
+	"originalText": "6月2日,印度在位于东海岸昌迪普尔的综合试验靶场成功试射了自主研发的“大地”-2短程弹道导弹?印度官员表示,这枚具有核能力的地地导弹是在国家战略部队司令部牵头的一次训练演习中完成发射的?该枚导弹是从生产库存中随机挑选,并通过移动发射装置发射?据悉,“大地”-2导弹的最大射程为350千米?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 118
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 61
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 66
+		}
+	]
+}

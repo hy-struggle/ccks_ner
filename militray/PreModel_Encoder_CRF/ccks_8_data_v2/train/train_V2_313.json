@@ -1,0 +1,29 @@
+{
+	"originalText": "美国空军于5月7日在新墨西哥州的霍洛曼空军基地启动了轻型攻击第二阶段试验,其目的是通过后勤?持续保障和分析评估来降低单次杀伤的成本?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 62
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 65
+		}
+	]
+}

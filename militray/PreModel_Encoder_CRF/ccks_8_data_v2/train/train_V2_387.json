@@ -1,0 +1,53 @@
+{
+	"originalText": "俄罗斯“军队-2019”论坛中“时代”科技城展位上展出了一台新型军用侦察无人机,其外形像张着双翅膀的雪鸮?该无人机重5千克,可定位目标坐标,使用激光照射用于引导火炮和飞机?该无人机可在空中飞行最多40分钟?开发者称,除雪鸮外,他们还制作了游隼外形的无人机,这种无人机能通过扬声器模拟游隼的声音?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 39
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 58
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 69
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 146
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 76
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 139
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 82
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 85
+		}
+	]
+}

@@ -1,0 +1,77 @@
+{
+	"originalText": "典型洲际弹道导弹拥有两级或三级火箭发动机,还拥有末助推级(PBV)?PBV可提高单弹头导弹再入弹头的精度?对于分导多弹头载荷的导弹,PBV用来释放再入弹头,使弹头拥有不同的弹道,打击不同的目标?携带分导多弹头的导弹每个弹头可打击距离1500km的不同目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 8
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 52
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 62
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 116
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 20
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 33
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "2月28日在白沙导弹靶场,美国空军与雷声公司在B-52H轰炸机和F-16战斗机上进行了6次飞行试验,以验证“微型空射诱饵—干扰机” (MALD-J)的升级导航系统性能?该导航系统升级计划被称为“GPS辅助的惯性导航系统Ⅱ” (GAINSⅡ),包括1套增强的多单元GPS控制天线组合,可提升MALD-J在GPS受干扰环境中的导航性能?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 120
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 81
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 159
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 162,
+			"end_pos": 165
+		}
+	]
+}

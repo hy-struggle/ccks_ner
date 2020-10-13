@@ -1,0 +1,83 @@
+{
+	"originalText": "3月4日,雷声公司成功通过了美国空军“全球定位系统下一代操作控制系统”(GPS?OCX)第一次合格试验,是发射和校验系统的一个里程碑?该系统可显著改进美军方和平民所依赖的GPS,包括增强可用性?精度和安全性,还可为现代化的GPSⅢ卫星提供发射和早期轨道校验功能,并为整个OCX项目提供77%的网络安全功能?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 60
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 117
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 99
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 103
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 130
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 150
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 152
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 78
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 88
+		}
+	]
+}

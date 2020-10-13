@@ -1,0 +1,77 @@
+{
+	"originalText": "9月29日,由美国空军研究实验室火箭推进分部负责?航空喷气·洛克达因公司具体实施的“碳氢燃料助推器技术验证机”(HBTD)项目,首次进行了部件全尺寸试验,标志着美国“富氧分级燃烧”火箭发动机技术取得重要进展,向摆脱对俄制RD-180发动机的依赖迈出关键一步?试验中,HBTD的关键部件———涡轮启动泵以超过75000转\/分的转速满功率运行,没有发生任何异常?此次试验还首次运用了Mondaloy?200超级合金?该合金材料具有强度高?阻燃性好等特性,是富氧分级燃烧火箭发动机的关键技术之一?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 76
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 97
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 227,
+			"end_pos": 237
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 163,
+			"end_pos": 164
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 167
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 214,
+			"end_pos": 215
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 218,
+			"end_pos": 220
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 150
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 190,
+			"end_pos": 205
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 119
+		}
+	]
+}

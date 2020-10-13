@@ -1,0 +1,35 @@
+{
+	"originalText": "巴基斯坦海军近日称其在阿拉伯海的1处海域,试射了1枚岸基反舰导弹“扎布”,准确命中了1个水面目标?巴基斯坦海军参谋长穆罕默德·扎考拉未透露“扎布”岸基反舰导弹的具体细节,只是称在试验结束后巴海军将列装该型导弹,并称该型导弹将融入巴基斯坦现有的海岸防御体系,提高其区域拒止能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 48
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 118
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 127
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 137
+		}
+	]
+}

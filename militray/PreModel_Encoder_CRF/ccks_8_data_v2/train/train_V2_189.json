@@ -1,0 +1,53 @@
+{
+	"originalText": "美国成功试射“民兵” - 3 洲际弹道导弹当地时间11 月6 日夜里11时01 分, “民兵” -3 洲际弹道导弹在范登堡空军基地装载模拟弹头, 从地下发射井中进行了一次发射试验, 再入体到达太平洋上的预定目标?“ 民兵” -3 洲际弹道导弹今年4 月和7 月各进行了一次发射试验?但在7 月的试验中, “民兵” -3 洲际弹道导弹在飞行过程中出现异常, 美国全球打击司令部让导弹自毁了?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 21
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 171
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 176
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 191,
+			"end_pos": 192
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 94
+		}
+	]
+}

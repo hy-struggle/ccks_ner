@@ -1,0 +1,41 @@
+{
+	"originalText": "俄 美国情报部门的一份报告显示, 俄罗斯在2017 年11 月进行的一次导弹试射失败后, 其中一枚核动力导弹在海上失踪, 失落地点位于挪威和俄罗斯北部的巴伦支海?目前, 俄罗斯正开展相关搜寻工作试图找回这枚导弹?俄罗斯总统普京于2018 年3 月公布了该导弹, 并称其射程可以达到无限?美国情报分析人士预计, 如果俄罗斯能够重新获得这枚导弹, 俄罗斯将把这一搜寻过程作为未来导弹搜寻行动的蓝图?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 65
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 136
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 180,
+			"end_pos": 183
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 188,
+			"end_pos": 193
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "美国海军第125攻击战斗机中队开始在“尼米兹”级航母“林肯”号上进行F-35C 战斗机的第一阶段初始作战试验鉴定?配合此次作战试验鉴定的人员还包括第7 航母及航空联队?第12 航母攻击团以及地面部队等?此次试验内容包括航母甲板适用性试验?与其他飞机的协同作战试验?真实作战环境下的作战效能?海上作战的可维护性和可用性试验?通信和互操作性试验?飞机舰船的适配性试验以及任务完成情况鉴定等?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 118
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 131
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 160
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 162,
+			"end_pos": 170
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 177,
+			"end_pos": 181
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 184,
+			"end_pos": 191
+		}
+	]
+}

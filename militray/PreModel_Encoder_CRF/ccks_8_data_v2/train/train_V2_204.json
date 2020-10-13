@@ -1,0 +1,59 @@
+{
+	"originalText": "美国导弹防御局和日本防卫省在夏威夷附近海域,在“约翰·保罗·乔治”号驱逐舰上利用“标准”-3Block2A成功拦截了一枚弹道导弹靶标?“标准” -3Block2A导弹是美国和日本联合研制的中程弹道导弹,是“宙斯盾”弹道导弹防御系统的一部分,可从装备“宙斯盾”系统的舰船或岸基设施发射?此次试验是“标准”-3 Block2A导弹的第三次发射,也是第一次拦截试验?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 53
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 115
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 176,
+			"end_pos": 179
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 100
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 134
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 139
+		}
+	]
+}

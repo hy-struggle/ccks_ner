@@ -1,0 +1,47 @@
+{
+	"originalText": "3月7日印度在维萨卡帕特南海岸的孟加拉湾水域进行了K-4?I型潜射弹道导弹的水下发射试验?试验中,导弹从水下9米深的发射平台(浮筒)发射,随后启动发动机,飞向靶标?此次试验是继2014年3月该型导弹首次水下发射之后的第二次试射?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 54
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 57
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 76
+		}
+	]
+}

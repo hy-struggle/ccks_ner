@@ -1,0 +1,41 @@
+{
+	"originalText": "美国洛克希德·马丁公司近日发布消息称,该公司于今年2月和去年12月在位于新墨西哥州的白沙导弹靶场成功进行了两次美国陆军改进型战术导弹系统(TACMS)的飞行试验,这两次试验是改进型战术导弹系统连续成功进行的第三次和第四次飞行试验?两次试验中,导弹均使用“高机动火箭炮系统”(HIMARS)发射?试验由美国陆军的“战术导弹系统服务延寿”项目支持,该项目旨在将武器的使用寿命延长十年以上?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 80
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 144
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 169
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 180
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 185
+		}
+	]
+}

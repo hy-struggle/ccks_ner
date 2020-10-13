@@ -1,0 +1,29 @@
+{
+	"originalText": "MQ-9“死神”无人机首次实弹投放了GBU-38联合直接攻击武器(JDAM)?试验由第432航空远征联队和第26武器联队(26thWeaponsWing)在内利斯空军基地进行?第26武器联队的武器教官飞行员(WeaponsInstructorPilot)斯科特上校表示,在训练中他们有一个很好的时机投放GBU-38炸弹,他们已经研究GBU-38炸弹很多年,如今终于有机会进行首次投放试验?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 8
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 11
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 190,
+			"end_pos": 193
+		}
+	]
+}

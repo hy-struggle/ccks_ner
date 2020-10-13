@@ -1,0 +1,77 @@
+{
+	"originalText": "美国空军最近派出一架B -2 隐身轰炸机部署升级后的B61-12, 目的是评估该武器的准确性和执行各种攻击任务的能力?据《勇士专家》称,最新的升级使B61 - 12 能够进行“ 钻地攻击?低当量打击?高当量攻击?地面爆炸以及掩体爆破”, 这给空军带来了五合一的手段?B61-12 的主要优势在于, 它将所有重力炸弹的能力都集中在一枚核弹上,以应对所有的目标场景?最近一次试验是在一个未公开的地区进行的?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 32
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 55
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 93
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 99
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 105
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 116
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 157
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 168
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 177,
+			"end_pos": 180
+		}
+	]
+}

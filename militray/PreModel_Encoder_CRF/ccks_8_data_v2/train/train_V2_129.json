@@ -1,0 +1,23 @@
+{
+	"originalText": "公司于7月18日在穆古角海上靶场完成了1次舰射型远程反舰导弹的飞行试验?此次试验是该型导弹的第3次成功试射,首次验证了其从移动水面舰船上发射的能力?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 35
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 67
+		}
+	]
+}

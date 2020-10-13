@@ -1,0 +1,41 @@
+{
+	"originalText": "美国海军?海军陆战队和洛克希德·马丁公司于9月12日,在白沙导弹靶场开展了1次F-35B“闪电”Ⅱ型联合攻击战斗机协同“宙斯盾”武器系统的首次拦截试验,验证了F-35B支持美国海军“一体化火控—防空”体系结构的能力?试验中,1架来自海军第1作战试验鉴定中队的未经改装的F-35B作为高空机载传感器,对超出“宙斯盾”武器系统视域的威胁目标进行了探测?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 68
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 168
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 104
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 148
+		}
+	]
+}

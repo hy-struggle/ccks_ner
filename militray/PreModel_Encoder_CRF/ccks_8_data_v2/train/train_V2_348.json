@@ -1,0 +1,71 @@
+{
+	"originalText": "巡航导弹对美国的威胁不断增加?大多数LACM导弹仍是亚音速飞行导弹,但超音速和高超音速导弹将在不久的将来投入部署?LCAM导弹将通过减小雷达特征信号?使用诱饵或箔条的方式不断提升生存能力?弹道导弹和巡航导弹因使用成本相对较低,并不容易拦截,已成为国家实力的重要标志?在未来,仍将是多数国家打击武器的首选?因此,在未来军事计划和项目中,必须高度重视弹道导弹和巡航导弹威胁?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 4
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 98
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 29
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 38
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 43
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 74
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 93
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 79
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 82
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 148
+		}
+	]
+}

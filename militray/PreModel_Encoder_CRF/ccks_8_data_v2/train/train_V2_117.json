@@ -1,0 +1,59 @@
+{
+	"originalText": "美国蓝色起源公司“新谢帕德”可重复使用运载系统完成试飞?北京时间6月19日22时36分,美国蓝色起源公司在得克萨斯州西部的试验场再次试飞“新谢帕德”号可重复使用运载系统?试飞过程中,乘员舱最高到达了距地101千米的高度;发射约7分20秒后,推进火箭在自身发动机控制下实现了垂直回收;随后乘员舱在仅展开3个降落伞中的2个的情况下,实现了软着陆,验证了乘员舱着陆系统的冗余性?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 109
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 140
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 170
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 185
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 94
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 130
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 155
+		}
+	]
+}

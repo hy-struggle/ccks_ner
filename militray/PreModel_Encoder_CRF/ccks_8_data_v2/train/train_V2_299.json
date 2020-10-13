@@ -1,0 +1,71 @@
+{
+	"originalText": "印度海军表示, 8 月初在维萨卡帕特南港的附近海域进行了一次“ 萨加里卡” 潜射弹道导弹发射试验, 试验中发射了3 枚导弹, 导弹未携带核弹头,从“歼敌者” 号核动力潜艇水下发射, 飞行距离约700 千米?2015 年和2016年, 印度海军都进行了潜射弹道导弹的海上发射试验, 根据试验进程和试验数量判断, 该型潜射弹道导弹可能即将定型?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 85
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 131
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 138
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 146
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 151
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 169
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 87
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 95
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 71
+		}
+	]
+}

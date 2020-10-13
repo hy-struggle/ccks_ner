@@ -1,0 +1,53 @@
+{
+	"originalText": "雷声公司承担的美国空军全球定位系统下一代操作控制系统(GPSOCX)项目达到重要里程碑,完成了GPS“发射和检测系统(LCS)”的工厂合格试验?试验中,雷声公司在位于科罗拉多州的奥罗拉工厂的网络硬环境下,试验了74项操作控制系统的分段要求,证明了发射和检测系统离美国空军要求更加接近,可在2017年交付操作控制系统的发射和检测系统?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 117
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 119
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 114
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 130
+		}
+	]
+}

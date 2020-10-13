@@ -1,0 +1,53 @@
+{
+	"originalText": "陆基巡航导弹方面,美国2月宣布暂停履行《中导条约》,同时启动新型常规陆基巡航导弹的研发工作,导弹射程约1000千米,计划2020年底完成部署?8月,美国正式退出《中导条约》,并从陆基MK41通用垂直发射系统试射了1枚常规配置型“战斧”对陆攻击巡航导弹,导弹在飞行超过500千米后准确命中目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 125
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 145
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 50
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 113
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 141
+		}
+	]
+}

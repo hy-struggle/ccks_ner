@@ -1,0 +1,41 @@
+{
+	"originalText": "美国空军阿诺德工程发展中心开展自由射流测试5月在空军阿诺德工程发展中心C-2测试单元进行自由射流试验的高涵道比发动机在大体积空气流量作用下突破了声速,同时也成为在阿诺德工程发展中心进行测试的自由射流式引擎的新纪录?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 58
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 102
+		}
+	]
+}

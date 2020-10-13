@@ -1,0 +1,95 @@
+{
+	"originalText": "美国空军已于2019年5月完成“小直径炸弹”Ⅱ在F-15战机的作战试验与评估(OT&E),预计将于2019年第三或第四季度形成初始作战能力(IOC)?“小直径炸弹”Ⅱ,即“风暴突击者”(StormBreaker),是针对战场移动目标而优化的空射无动力滑翔武器系统,重226.8千克,采用毫米波雷达?红外成像和半主动激光传感器组合的三模导引头,以及GPS\/惯导系统,在恶劣环境仍具有很高的命中精度?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 106
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 133
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 184,
+			"end_pos": 187
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 196,
+			"end_pos": 197
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 148
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 153
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 162
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 170
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 181
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 116
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 131
+		}
+	]
+}

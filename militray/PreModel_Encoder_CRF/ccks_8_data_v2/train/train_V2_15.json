@@ -1,0 +1,65 @@
+{
+	"originalText": "美国海军宣布,近海战斗舰项目执行办公室在海军水面作战中心达尔格伦分部的爆炸试验区成功完成近海战斗舰面面导弹模块“长弓海尔法”导弹的限制性发射试验?试验中,一枚带有惰性弹头和非功能性仪表舱的“长弓海尔法”导弹起火后被限制在发射器中,尾气和火焰从导弹排气安全壳结构中顺利排出?此次试验证明导弹排气安全壳结构可以防止导弹点火后的尾气漏进其他的导弹模块?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 113
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 117
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 169,
+			"end_pos": 172
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 93
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 130
+		}
+	]
+}

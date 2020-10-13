@@ -1,0 +1,65 @@
+{
+	"originalText": "美国国防高级研究计划局近日在加利福尼亚海岸的开放水域对“反潜战持续跟踪无人艇”(ACTUV)搭载的“海上系统空中拖曳伞平台”(TALONS)样机进行了为期2天的飞行试验?试验中,TALONS样机从安装于ACTUV后部的“套”中脱离,随即张开翼伞并升至305米的高空,对其携带的传感器和通信设备进行试验?试验一结束,样机自动收回到“套”中?在整个试验过程中,ACTUV始终以实际工作速度航行?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 141
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 146
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 132
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 187,
+			"end_pos": 192
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 110,
+			"end_pos": 112
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 122
+		}
+	]
+}

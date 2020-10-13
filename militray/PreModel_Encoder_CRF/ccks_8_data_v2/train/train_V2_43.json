@@ -1,0 +1,35 @@
+{
+	"originalText": "在诺斯罗普·格鲁曼公司帕姆代尔工厂开展的一次空中演示验证试验中,该公司为美国空军研制的RQ-4B“全球鹰”无人机成功搭载了洛克希德·马丁公司U-2侦察机造价最高的1枚传感器,即“毕业季光电侦察系统”-2?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 76
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 86
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 101
+		}
+	]
+}

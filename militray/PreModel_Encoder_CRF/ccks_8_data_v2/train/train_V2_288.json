@@ -1,0 +1,29 @@
+{
+	"originalText": "美国国防部导弹防御局将采购3 架湾流公司的大型客机,安装现代化改进后的高空观测系统, 用于弹道导弹防御试验?采集光电和红外成像?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 41
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 53
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 63
+		}
+	]
+}

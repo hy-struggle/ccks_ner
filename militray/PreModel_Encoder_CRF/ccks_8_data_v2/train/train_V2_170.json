@@ -1,0 +1,53 @@
+{
+	"originalText": "据俄罗斯科学院高温研究所沙图拉分部的专家表示,该所科学家已成功试验该国首部电磁导轨炮?该导轨炮能以3千米\/秒的速度发射弹丸,足够穿透当今世界的任意装甲?在最近一次试验中,该导轨炮以3千米\/秒的速度(发射相当于助推火箭克服重力?到达地球轨道所需速度的一半)发射了一个重15克的塑料筒,穿透了厚度达到几厘米的铝板?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 140
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 154
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 57
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 133
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 146
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 61
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 75
+		}
+	]
+}

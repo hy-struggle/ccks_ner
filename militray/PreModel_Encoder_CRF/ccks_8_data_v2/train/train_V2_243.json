@@ -1,0 +1,47 @@
+{
+	"originalText": "通用原子航空系统公司通过“捕食者”无人机试验了用于应对新一代防空系统的新型机载雷达预警接收器.试验在通用原子航空系统公司位于加利福尼亚州棕榈谷附近的设施内进行,目的是评估飞机在新的高威胁环境中的操作性能,验证雷达预警接收器满足或者超越空中和地面雷达威胁的当前阈值的性能?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 95
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 101
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 131
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 34
+		}
+	]
+}

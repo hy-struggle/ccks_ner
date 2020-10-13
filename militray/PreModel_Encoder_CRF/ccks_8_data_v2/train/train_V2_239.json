@@ -1,0 +1,35 @@
+{
+	"originalText": "美国海军于近日在帕图森特河海军航空站,从F\/A-18E\/F“超级大黄蜂”上进行远程反舰导弹的投放试验?这是首次从该型战机上投放远程反舰导弹,检验了导弹的空气动力分离模式,为年中在中国湖海军航空武器站开展的系留集成试验奠定了基础?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 108
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 84
+		}
+	]
+}

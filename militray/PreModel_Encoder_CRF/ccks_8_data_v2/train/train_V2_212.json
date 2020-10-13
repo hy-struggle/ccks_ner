@@ -1,0 +1,89 @@
+{
+	"originalText": "在印度军方举行的战区战备和作战演习(Tropex-17)中,印度海军改进升级后的“伊尔”-38“海龙”(IL-38SD)反潜巡逻机首次进行反舰导弹试射,命中一艘位于阿拉伯海的靶船?IL-38是以IL-18涡轮螺旋桨运输机为基础研发的海上巡逻和反潜作战飞机,用于监视?搜索救援?海上侦察和反潜作战,可探测拦截水面舰船和潜艇,服役于俄?印海军?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 65
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 89
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 120
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 125
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 132
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 142
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 157
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 160
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 165
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 169
+		}
+	]
+}

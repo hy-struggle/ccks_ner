@@ -1,0 +1,53 @@
+{
+	"originalText": "波音公司为美国空军建造的第二架KC-46A空中加油试验机,3月2日从华盛顿州佩恩机场起飞,降落在西雅图波音机场?飞行过程中,波音试飞员对加油机的发动机?飞行控制系统和环境系统进行了运行检查?第二架KC-46A首先将用于试验飞机任务系统的航电设备和外部照明,随后将与第一架配合进行一系列空中加油试验?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 148
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 75
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 82
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 117
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 122
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 127
+		}
+	]
+}

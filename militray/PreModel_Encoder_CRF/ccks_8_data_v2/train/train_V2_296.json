@@ -1,0 +1,101 @@
+{
+	"originalText": "空中客车公司制造的一架Zephyr S HAPS 无人机( 高空伪卫星) 于7 月11 日开始在美国亚利桑那州进行首飞, 并于8 月6 日成功降落在英国法恩伯勒, 在没有加油的情况下首飞就打破了世界飞行耐力纪录?该无人机整合了卫星和其他无人机( UAV) 的性能, 能够在平流层平均海拔约21 千米的高空飞行并可携带自身重量(75 千克) 5 倍的有效载荷, 支持广泛的应用, 包括陆地和海上监视?视线和视线之外的数据通信以及传输高分辨率视频等任务; 该无人机完全依靠安装在其25 米翼上的太阳能电池发电, 在传统的空中交通工具之上飞行, 填补了卫星?无人机和有人飞机之间的能力差距, 以提供持久的本地类卫星服务?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 115
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 139
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 143
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 152
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 162
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 178
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 243,
+			"end_pos": 243
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 246,
+			"end_pos": 250
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 192,
+			"end_pos": 198
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 200,
+			"end_pos": 211
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 216,
+			"end_pos": 221
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 259,
+			"end_pos": 264
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 274,
+			"end_pos": 284
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 300,
+			"end_pos": 306
+		}
+	]
+}

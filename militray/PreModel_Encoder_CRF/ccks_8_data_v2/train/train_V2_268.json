@@ -1,0 +1,35 @@
+{
+	"originalText": " 40N6E 远程导弹在卡普斯丁亚尔试验场完成国家试验, 据报道,最大飞行距离在400 千米, 最大飞行高度约180 千米?S - 400 的最大打击距离约为250 ~285 千米, 是增程型面空导弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 11
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 39
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 54
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 100
+		}
+	]
+}

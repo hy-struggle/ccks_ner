@@ -1,0 +1,29 @@
+{
+	"originalText": "同时,美国海军于3月宣布快速研发并部署“标准”-6 Block 1B导弹,为美国海军提供远程反舰作战能力,该型号将在目前400千米射程的基础上进一步增程并改进,预计在2023财年形成初始作战能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 36
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 52
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 67
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 97
+		}
+	]
+}

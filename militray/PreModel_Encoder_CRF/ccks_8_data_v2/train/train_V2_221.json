@@ -1,0 +1,83 @@
+{
+	"originalText": "美国海军于近日开展“高海拔反潜作战武器能力”系统从P-8A “海神”海上巡逻机上安全分离的试验?该系统是一种安装在Mk54轻型鱼雷上的航空组件,主要通过目标定位?导航?制导等技术,使鱼雷具备对潜艇实施远程精确打击的能力,预计在2017年底进行制导飞行试验?波音公司估计,该系统可从9000多米的高空释放,但最大高度还有待研究?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 24
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 149
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 157
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 80
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 83
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 86
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 65
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 93
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 98
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 106
+		}
+	]
+}

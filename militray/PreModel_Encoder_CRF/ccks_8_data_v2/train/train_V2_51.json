@@ -1,0 +1,53 @@
+{
+	"originalText": "3月17日美国雷声公司最新升级的“爱国者”一体化防空反导系统进行了第3次研制试验,探测?跟踪并摧毁了1枚威胁性弹道导弹靶标?试验中,“爱国者先进能力”-3(PAC-3)的最新改进系统———“部署后体系”-8(PDB-8)先后发射了1枚“导弹增强”型PAC-3拦截弹和1枚“制导增强型导弹—战术”拦截弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 110
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 132
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 150
+		}
+	]
+}

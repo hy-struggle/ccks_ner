@@ -1,0 +1,53 @@
+{
+	"originalText": "巴基斯坦成功试射了 “高里 ”弹道导弹,该导弹能够携载常规弹头和核弹头,射程可达1300千米?巴基斯坦三军公关部表示,这次试射是由陆军战略部队司令部进行的,目的是试验陆军战略部队司令部的作战和技术准备状态?2018年4月,巴基斯坦成功试射了一枚国产增强型 “巴布尔 ”巡航导弹,该导弹射程范围为700千米,可携载常规和非常规武器?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 92
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 102
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 138
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 157,
+			"end_pos": 164
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 38
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 31
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 35
+		}
+	]
+}

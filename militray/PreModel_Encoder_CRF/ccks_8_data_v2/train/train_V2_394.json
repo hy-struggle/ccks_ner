@@ -1,0 +1,41 @@
+{
+	"originalText": "“游隼”反无人系统的使用过程为:定位器检测目标,向操作员提供信息(光学电子侦察手段能够检测并识别距离超过5千米的目标),在操作员的指令下开启“光束”电子压制手段?目前在国防部参与下,已多次对该电子战系统进行试验,其所有性能指标都得到证实,可在任何地理环境和天气条件成功运用?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 9
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 127
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 132
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 19
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 28
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 80
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "7 月9 日, 美国海军MQ - 8C 火力侦察无人直升机完成了初始作战试验鉴定?“ 科罗拉多” 号近海战斗舰和第1 航空试验鉴定中队执行了此次试验, 试验内容包括模拟作战?目标识别?情报获取和水面战?此次试验是第一次综合性的初始作战试验鉴定?试验测试了MQ - 8C 无人直升机与近海战斗舰协同水面战能力, 同时测试了MQ -8C 无人直升机与MH -60S “ 海鹰” 有人直升机的协同作战能力?接下来, 将试验无人机的维护保障性和网络安全性?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 192
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 153
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 194,
+			"end_pos": 199
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 213,
+			"end_pos": 217
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 219,
+			"end_pos": 223
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "美国海军4月11日试验“航空母舰无人航空任务控制系统”(UMCS),旨在评估其软件兼容性?数据通信能力及电子光学相机,用于舰载无人机未来加油及侦察作战?美国海军空中系统司令部(NAVAIR)发表声明称,此次评估重点关注UMCS系统硬件及软件集成进航空母舰现有网络的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 33
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 44
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 51
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 131
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 58
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 120
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 66
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 70
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 75
+		}
+	]
+}

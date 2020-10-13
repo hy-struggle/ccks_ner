@@ -1,0 +1,17 @@
+{
+	"originalText": "英国BAE系统公司等网站6月7日报道,当日,BAE系统公司“鹰”式教练机新型号概念验证机在该公司兰开夏郡的军用机厂完成首次试飞?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 57
+		}
+	]
+}

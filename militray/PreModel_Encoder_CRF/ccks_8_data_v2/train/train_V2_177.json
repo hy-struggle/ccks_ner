@@ -1,0 +1,53 @@
+{
+	"originalText": "印度战略部队司令部(SFC)成功试射了一枚可以携载核弹头的 “烈火 ”-1弹道导弹?作为定期训练活动的一部分,该导弹是在印度东部的奥迪萨邦海岸附近的一个试验场发射的,导弹准确击中目标区域?雷达和遥测设备密切跟踪了导弹飞行轨迹?“烈火 ”-1导弹由印度国防研究与发展组织开发,于2002年1月进行了首次试验?该导弹射程为700千米,重达12000千克,可携载1000千克的弹头?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 96
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 101
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 112
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 157,
+			"end_pos": 158
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 166
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 28
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 186,
+			"end_pos": 187
+		}
+	]
+}

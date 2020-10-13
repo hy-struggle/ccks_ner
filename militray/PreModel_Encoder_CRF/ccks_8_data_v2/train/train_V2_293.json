@@ -1,0 +1,77 @@
+{
+	"originalText": "印度成功试射低层弹道导弹防御系统印度国防部报道, 8 月2 日11时30 分, 印度国防研究与发展组织( DRDO) 在奥迪萨邦的阿卜杜勒卡拉姆岛上成功试射了低层弹道导弹防御系统(AAD)?AAD 为大气层内反导拦截弹, 可拦截多个射程为1500 千米的弹道导弹, 拦截高度为15 ~25 千米?343附录此次试射, 导弹实时选择同时进入的多个目标中的其中一个, 武器系统雷达跟踪目标, 导弹锁定目标后以高精度拦截目标?多个电光跟踪系统?雷达及遥测站跟踪了包括交战和拦截在内的整个过程?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 213,
+			"end_pos": 218
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 220,
+			"end_pos": 221
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 223,
+			"end_pos": 225
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 118
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 131
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 204,
+			"end_pos": 205
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 161
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 188
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 103
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 109
+		}
+	]
+}

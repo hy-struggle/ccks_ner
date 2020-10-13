@@ -1,0 +1,77 @@
+{
+	"originalText": "当地时间6月3日9时48分,印度在孟加拉湾阿布杜卡蓝岛综合试验场成功试射了自主研制,可携带核弹头的“烈火”-5远程弹道导弹,导弹射程为5000千米,这是该导弹的第六次试射。导弹整个飞行过程,由先进的机载计算机和惯性导航系统精确制导,最后,在环形激光陀螺惯性导航系统,微惯性导航系统,全数字控制系统和先进的小型航空电子设备支持的机载计算机控制下,导弹准确击中指定目标点,实现所有任务目标。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 183
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 66
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 176
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 48
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 104
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 111
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 132
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 140
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 148
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 160
+		}
+	]
+}

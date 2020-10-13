@@ -1,0 +1,29 @@
+{
+	"originalText": "4月25日,美国陆军在新墨西哥州白沙导弹靶场利用“间接火力防护能力‘增量2’-拦截”系统的“多任务发射器”发射了1枚“长弓地狱火”导弹,拦截了1架无人机,试验达到了预期目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 44
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 76
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 53
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "6月25日,根据国防部6月18日备忘录的要求,美国国防科学委员会将成立 “模拟、演练、建模与仿真 ”任务小组,研究国防部目前使用GEMS的实践情况并提出相关建议,确保以更快的速度和灵活性获得更好的决策和选项。美国国防部一直致力于发展 “模拟、演练、建模与仿真”，军方牵头开发建模与仿真(M&S)以支持多人演练,并探索采办计划的商业空间。作战模拟用于探索操作概念以及训练作战人员。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 93
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 147
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 162
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 177,
+			"end_pos": 180
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 185,
+			"end_pos": 188
+		}
+	]
+}

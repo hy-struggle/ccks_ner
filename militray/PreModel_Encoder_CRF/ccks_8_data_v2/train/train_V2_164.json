@@ -1,0 +1,59 @@
+{
+	"originalText": "以色列空军正在为C-130J战术运输机装备可抵御面空导弹威胁的先进自我防护系统?由于以色列持续接收美制运输机,因此其空军飞行试验中心需要不断对基于高精度诱饵弹的新型对抗装备进行作战试验?而且,一旦装备了这种最新的自我防护系统,空军运输机将能够与使用肩射热寻导弹的恐怖份子进行对抗?目前,以色列空军已接收了4架C-130J?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 79
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 92
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 19
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 30
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 118
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 130
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 135
+		}
+	]
+}

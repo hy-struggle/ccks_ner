@@ -1,0 +1,71 @@
+{
+	"originalText": "陆基巡航导弹方面,在美国2月宣布暂停履行《中导条约》后,俄罗斯也宣布暂停履约,并表示将在2019年内完成海基“口径”巡航导弹的陆基改型研发工作,其射程可达2600千米?4月,在俄罗斯西部军区导弹部队和炮兵演习中,“伊斯坎德尔”导弹系统成功摧毁56千米外的预设敌方指挥所?6月和9月,俄罗斯又分别在演习中进行“伊斯坎德尔”导弹系统试射?该战术导弹系统可发射弹道导弹和巡航导弹,射程500千米,旨在摧毁敌方的火箭炮?防空反导系统?指挥所及基础设施?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 117
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 134
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 178,
+			"end_pos": 181
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 186
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 75
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 203,
+			"end_pos": 205
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 207,
+			"end_pos": 212
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 214,
+			"end_pos": 216
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 218,
+			"end_pos": 221
+		}
+	]
+}

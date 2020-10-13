@@ -1,0 +1,59 @@
+{
+	"originalText": "7月11日至29日,美军在内利斯空军基地和内华达试验与训练靶场进行了“红旗”16-3演习,旨在检验参演部队在以多领域集成为中心的联合环境下的作战能力,确保美军在空中?太空及网络空间方面的优势?“红旗”军演是美国空军级别最高?最为重要的航空战斗训练演习?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 44
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 60
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 82
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 85
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 90
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 125
+		}
+	]
+}

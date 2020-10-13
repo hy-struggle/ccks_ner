@@ -1,0 +1,71 @@
+{
+	"originalText": "对地攻击巡航导弹根据执行任务进行分类,如对地攻击巡航导弹(LACM)和反舰巡航导弹(ASCM)?巡航导弹可根据发射平台进行分类,发射平台有飞机?舰船?潜艇或地基发射架等?对地攻击巡航导弹设计用来打击固定或可从新定位的目标?大部分时间处于巡航状态,通常采用小型燃气涡轮发动机作为动力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 77
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 83
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 136
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 101
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 107
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 110
+		}
+	]
+}

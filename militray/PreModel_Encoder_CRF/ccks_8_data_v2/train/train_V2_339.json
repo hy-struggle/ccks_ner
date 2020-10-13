@@ -1,0 +1,113 @@
+{
+	"originalText": "一些弹道导弹仍在大气层内飞行,大部分飞行由气动翼面进行气动控制。现代弹道导弹可在飞行全程进行机动,飞行机动可避免反导系统拦截,提高制导精度?飞行机动同精确制导结合,使弹道导弹成为精确打击武器?对手国家都关注美国的反导系统,设计出各型导弹使反导难度增加?传统对抗手段包括气球?箔条?诱饵?干扰器等?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 44
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 12
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 53
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 60
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 69
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 25
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 136
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 139
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 142
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 146
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 95
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 105
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 110
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 123
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 132
+		}
+	]
+}

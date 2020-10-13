@@ -1,0 +1,59 @@
+{
+	"originalText": "美国空军披露已成功开展首例无人机空战试验9月19日,美国空军第432飞行联队指挥官向军事网站透露,去年年底美军成功利用MQ-9 “死神 ”无人机,在受控模拟中击落了另一架小型无人机?这是无人机首次参与空战?此次试验标志着美军无人机开始在空战中发挥作用?美军还将MQ-9与配备了热寻的空空导弹的无人机进行空中对抗,以验证MQ-9无人机在作战环境下的抗毁能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 20
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 90
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 145
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 168,
+			"end_pos": 171
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 177
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 115
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 119,
+			"end_pos": 120
+		}
+	]
+}

@@ -1,0 +1,95 @@
+{
+	"originalText": " 挪威国防部从一架F -16 “战隼” 战斗机上成功试射了一枚联合攻击导弹, 展示了导弹有能力改变航向从而规避诱导性目标, 并且可以在低空飞行, 躲避雷达侦测?联合攻击导弹是一种远程反舰导弹, 用于打击高价值?防御严密的陆地目标?在犹他州试验靶场进行的最新试验中, 一架F -16战斗机向预设目标位置发射导弹, 途经复杂地形和不同地势, 联合攻击导弹的自动导引弹头扫描目标区域, 不被虚假目标迷惑, 成功转向并击中正确目标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 37
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 51
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 60
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 69
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 162
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 167
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 193,
+			"end_pos": 196
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 208,
+			"end_pos": 211
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 177,
+			"end_pos": 182
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 95
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 104
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 106,
+			"end_pos": 109
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 114
+		}
+	]
+}

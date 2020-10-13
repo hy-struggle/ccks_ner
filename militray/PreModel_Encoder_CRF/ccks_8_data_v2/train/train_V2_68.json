@@ -1,0 +1,23 @@
+{
+	"originalText": "4月14日,美国陆军首次在白沙导弹靶场成功试验防空导弹拦截无人机?该防空导弹由以色列国防公司拉法尔生产?拉法尔先进防御系统发言人表示,试验中美国陆军发射的塔米尔拦截弹击中并摧毁了1架无人机?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 32
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 83
+		}
+	]
+}

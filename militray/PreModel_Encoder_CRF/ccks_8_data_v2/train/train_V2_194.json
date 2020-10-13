@@ -1,0 +1,77 @@
+{
+	"originalText": "美DARPA近日成功演示了无人机群在面对敌人干扰时的作战能力?近期,DARPA在亚利桑那州尤马试验场进行了为期三周的一系列演习,在演习中对“拒止环境协同作战”(CODE)项目技术进行了试验?CODE系统中包括6架实体无人机和24架虚拟无人机,在试验中协同导航和搜索,并与预先计划目标以及计划外目标交战?这一系列试验在其演示过的低带宽协同感知以及任务中规划的方法上进行了扩展?CODE系统演示了其在通信和GPS导航都被长期拒止情况下的作战能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 89
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 141
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 144,
+			"end_pos": 148
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 24
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 30
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 170
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 173,
+			"end_pos": 177
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 199,
+			"end_pos": 206
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 217,
+			"end_pos": 220
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 111
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 119
+		}
+	]
+}

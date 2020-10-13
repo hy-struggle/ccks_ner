@@ -1,0 +1,47 @@
+{
+	"originalText": "“小直径炸弹”Ⅱ有三种主要攻击模式,一是常规打击模式(NA),二是激光照射打击模式(LIA),三是坐标打击模式(CA),前两种模式可打击移动或固定目标,第三种模式用于打击固定目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 8
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 17
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 30
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 46
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 59
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 75
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 89
+		}
+	]
+}

@@ -1,0 +1,53 @@
+{
+	"originalText": "SpaceX公司宣布已经对“猛禽”火箭发动机进行了首次点火试验,但是并未透露关于试验时间以及如何点火的更多细节?SpaceX公司的“猛禽”火箭,预计会将人类送上火星?“猛禽”火箭发动机使用甲烷和液氧作为推进剂,单台发动机将产生3000千牛推力,是该公司目前“猎鹰”9火箭所使用的“隼”-1D发动机推力的3倍?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 31
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 121
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 96
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 99
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 104
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 78
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 82
+		}
+	]
+}

@@ -1,0 +1,65 @@
+{
+	"originalText": "美国洛克希德·马丁公司“双模+”型激光制导炸弹于今年5月,在海军空战中心中国湖武器分部进行了两次飞行试验?试验中,安装MK-82惰性弹头的“双模+”型激光制导炸弹从F\/A-18“超级大黄蜂”上投放并命中固定目标,检验了其新型线性光学系统?GPS\/惯性导航系统的制导分系统以及舵机传动系统的操作性能,验证了该型武器的制导飞行能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 95
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 163
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 68
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 118
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 129
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 135
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 143
+		}
+	]
+}

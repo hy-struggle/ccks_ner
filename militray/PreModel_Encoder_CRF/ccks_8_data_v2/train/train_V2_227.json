@@ -1,0 +1,53 @@
+{
+	"originalText": "印度海军称,作为印度海军6艘柴电动力攻击潜艇的首艇,“鲉鱼”级“虎鲨” (INSKalvari)潜艇于3月2日在阿拉伯海地区首次完成试射一枚反舰导弹?海军表示,在试射过程中导弹在增程范围内击中了一个水面目标?虽然海军没有公布细节,但是该导弹被认为很可能是“飞鱼”Exocet SM39反舰导弹?导弹制造商表示,“飞鱼”SM39是“飞鱼”家族导弹的潜射版本,射程为50千米?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 146
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 177
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 91
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 180
+		}
+	]
+}

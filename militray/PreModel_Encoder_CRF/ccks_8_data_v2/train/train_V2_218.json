@@ -1,0 +1,23 @@
+{
+	"originalText": "印度当地时间2月15日9时28分,印度空间研究组织在该国南部萨迪什·达万航天中心成功发射“一箭104星”,打破俄罗斯在2014年6月创造的“一箭37星”世界纪录,是迄今人类单次发射卫星数量最多的一次?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 52
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 76
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 94
+		}
+	]
+}

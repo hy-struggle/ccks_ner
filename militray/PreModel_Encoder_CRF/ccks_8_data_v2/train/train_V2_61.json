@@ -1,0 +1,59 @@
+{
+	"originalText": "3月1日,美国空军和波音公司机组人员利用KC-46加油机成功为美国海军陆战队1架AV-8B“鹞”Ⅱ垂直起降攻击机进行空中加油?本次试验在华盛顿州上空完成?试验团队使用了KC-46加油机的软管—锥套系统为AV-8B攻击机空中加油?KC-46加油机已经完成多架飞机的空中加油试验,其中包括美国空军的F-16战斗机?海军的F-18A“超级大黄蜂”战斗机和本次海军陆战队的“鹞”攻击机?加油试飞活动是KC-46加油机项目里程碑C演示验证的一部分,美国国防部将在2016年底对该项目做出低速率初始生产决策?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 109
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 137
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 148,
+			"end_pos": 154
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 159,
+			"end_pos": 173
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 183,
+			"end_pos": 188
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 62
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 100
+		}
+	]
+}

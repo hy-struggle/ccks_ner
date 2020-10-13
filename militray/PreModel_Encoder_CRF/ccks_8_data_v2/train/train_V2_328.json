@@ -1,0 +1,71 @@
+{
+	"originalText": "“地面X车辆技术”(GXV-T)项目旨在不依赖装甲的情况下提高未来战车的机动性、生存能力、安全性和效力、该项目第二阶段部分合同商于5月在阿伯丁试验中心演示验证了多种潜在突破性技术的最新进展。在增强生存能力方面,DARPA正在研究如何通过装备新型座舱和采用驾驶辅助技术增强车组人员。在机动性方面,DARPA采取了截然不同的方式,包括避免使用装甲以及开发能够在所有地形快速行驶及实现机敏性的选项。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 18
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 182
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 190,
+			"end_pos": 192
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 133
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 25
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 35
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 39
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 44
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 48
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 51
+		}
+	]
+}

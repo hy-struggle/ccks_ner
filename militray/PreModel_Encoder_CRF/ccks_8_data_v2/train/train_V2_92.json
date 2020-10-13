@@ -1,0 +1,41 @@
+{
+	"originalText": "美国陆军研究实验室应驻非洲美国陆军关于从战场上移除测风气球的请求,研发出一种轻型风测技术,以加强陆军人员在空降作战中的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 44
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 52
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 57
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 17
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 22
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 29
+		}
+	]
+}

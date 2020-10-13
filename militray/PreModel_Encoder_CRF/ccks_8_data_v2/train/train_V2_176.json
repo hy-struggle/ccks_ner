@@ -1,0 +1,29 @@
+{
+	"originalText": "美国空军最近证实,已经成功试验了一架MQ-9 “死神 ”无人机,该无人机向无人驾驶航空目标发射了一枚AIM-92 “毒刺 ”空空导弹并击落了目标,而该目标可能是QMQ-1 “捕食者”?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 31
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 91
+		}
+	]
+}

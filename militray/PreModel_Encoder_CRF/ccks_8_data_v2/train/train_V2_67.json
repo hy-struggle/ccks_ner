@@ -1,0 +1,101 @@
+{
+	"originalText": "美国陆军对一体化防空反导作战指挥系统进行了交战飞行试验?试验中,陆军联合诺斯罗普·格鲁曼公司把“哨兵”和“爱国者”雷达获得的数据成功用在了“爱国者”-3防空导弹系统的作战指挥控制系统上?此次试验验证了一体化防空反导作战指挥系统利用传感器和防空导弹对目标进行识别?追踪?打击和击毁的能力?飞行试验还包括对海军陆战队战术空中作战模块的试验,该模块用于联合作战指挥控制系统的态势感知?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 6,
+			"end_pos": 18
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 82
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 152,
+			"end_pos": 164
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 130
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 133
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 139
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 91
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 118
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 123
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 183
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 185,
+			"end_pos": 188
+		}
+	]
+}

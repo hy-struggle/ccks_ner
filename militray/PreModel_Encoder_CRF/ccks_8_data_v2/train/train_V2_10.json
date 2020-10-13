@@ -1,0 +1,59 @@
+{
+	"originalText": "雷声公司成功完成“战斧”Block?IV巡航导弹导引头的系留飞行试验?在为期3周的试验中,T-39模拟了“战斧”的飞行状态,并对地面和海上的运动目标进行了瞄准?试验表明,该导引头具备对地对海目标的捕获能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 97
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 102
+		}
+	]
+}

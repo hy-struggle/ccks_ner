@@ -1,0 +1,35 @@
+{
+	"originalText": "台湾两架F-16“战隼”战机试射了2枚“捕鲸叉”反舰导弹?两架战斗机首先使用“捕鲸叉”导弹系统进行了目标模拟打击,随后同时发射了导弹并命中目标?这是2001年以来台湾首次在飞行中试射“捕鲸叉”导弹?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 14
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 47
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 61
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 89
+		}
+	]
+}

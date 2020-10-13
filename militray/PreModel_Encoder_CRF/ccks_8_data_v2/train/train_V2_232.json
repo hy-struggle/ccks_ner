@@ -1,0 +1,29 @@
+{
+	"originalText": "印度唯一一艘航空母舰“维克拉玛蒂亚”号于3月24日进行了新上舰的“巴拉克”近程面空导弹的首次试射?此次试验在阿拉伯海进行,导弹成功命中并摧毁了一个真实的?低空飞行高速靶标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 79
+		}
+	]
+}

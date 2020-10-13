@@ -1,0 +1,29 @@
+{
+	"originalText": "美国导弹防御局(MDA)?一体化导弹防御联合职能司令部?美国北方司令部和美国太平洋司令部联合完成弹道导弹防御(BMD)系统的地面试验,以评估其性能?在为期12天的试验中,弹道导弹防御系统参与了各种模拟威胁场景,以评估系统在实际威胁中的响应?此次试验被命名为GTD-06Part2,对弹道导弹防御系统的功能进行综合评估?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 104
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 115
+		}
+	]
+}

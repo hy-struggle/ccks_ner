@@ -1,0 +1,89 @@
+{
+	"originalText": "乌克兰4月和11月两次成功从陆基发射车试射“海王星”反舰导弹,该弹射程280千米,装有重145千克的高爆破片战斗部,每辆发射车可携带4枚导弹?10月,乌克兰南方设计局披露新型远程超声速空对地导弹“闪电”(Bliskavka),该导弹性能与俄罗斯的Kh-31导弹类似,但速度稍快于Kh-31的马赫数3.5,射程也更远,将采用三种不同的导引头,包括光电导引头,反辐射导引头和用于反舰的主动寻的导引头?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 112
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 130
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 35
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 44
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 154
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 57
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 169
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 173,
+			"end_pos": 177
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 179,
+			"end_pos": 184
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 191,
+			"end_pos": 197
+		}
+	]
+}

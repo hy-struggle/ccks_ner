@@ -1,0 +1,29 @@
+{
+	"originalText": "美国国防部近日公布了一段美国空军F-16战机蜂群投放3D打印碳纤维无人机的视频,表明国防部战略能力办公室开展的战机发射3D打印无人机相关创新性研究工作取得了进展?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 75
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 24
+		}
+	]
+}

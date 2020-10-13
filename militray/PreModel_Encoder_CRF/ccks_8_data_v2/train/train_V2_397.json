@@ -1,0 +1,47 @@
+{
+	"originalText": "德国政府计划通过北约支持和采购局(NSPA)购买91枚先进反辐射导弹(AARGM,代号AGM-88E)和8枚训练弹?此外,还包括6个遥测\/飞行终端系统?飞行数据记录仪(FDR)?技术和后勤支持服务等,总成本约为1.23亿美元?先进反辐射导弹将使用德国现有的高速反辐射导弹(HARM,代号AGM-88B)库存和零部件进行改造升级,整合工作将在阵风战斗机管理局(NETMA)和诺格创新系统(前轨道ATK)公司之间进行?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 75
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 88
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 98
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 151
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 157
+		}
+	]
+}

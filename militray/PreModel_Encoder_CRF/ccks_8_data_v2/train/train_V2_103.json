@@ -1,0 +1,65 @@
+{
+	"originalText": "美国海军于6月2日在位于马里兰州的帕图森特河海军航空站,对MQ-4C“人鱼海神”无人机的通信能力和重装飞行能力进行了试验,旨在增强该型无人机未来的编队作战能力?飞行试验中,MQ-4C“人鱼海神”无人机首次利用“通用数据链路”与P-8A“海神”反潜巡逻机进行了全动感视频传输,验证了MQ-4C无人机利用光电\/红外摄像机跟踪目标,并为P-8A反潜机提供态势感知的能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 48
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 55
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 132
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 133,
+			"end_pos": 136
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 178
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 112
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 158
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		}
+	]
+}

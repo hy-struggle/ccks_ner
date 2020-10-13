@@ -1,0 +1,53 @@
+{
+	"originalText": "空基巡航导弹方面,11月,美国空军AGM-86C\/D“空射巡航导弹”常规型正式退役,其是在AGM-86B“空射巡航导弹”核武型基础上改进的,将核战斗部改为常规战斗部,其中AGM-86D具备穿透能力,可打击地下目标?目前美国正在研发AGM-86B的替代型号“远程防区外武器”(LRSO),计划在2022财年达到里程碑B节点,并进入工程研制阶段?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 6
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 142
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 98
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 106
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 75
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 82
+		}
+	]
+}

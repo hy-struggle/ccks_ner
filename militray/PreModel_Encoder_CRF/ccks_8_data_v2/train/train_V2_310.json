@@ -1,0 +1,65 @@
+{
+	"originalText": "美国海军4月11日完成航母无人机控制系统(UMCS)的首次试验,对与舰载无人机相关的软件系统?数据通信系统及光电系统进行了评估?据悉,依靠UMCS系统,MQ-25将能自主前往坐标地点进行空中加油,在任务完成后还可自行返回?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 91
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 97
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 108
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 46
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 53
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 58
+		}
+	]
+}

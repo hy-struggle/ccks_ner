@@ -1,0 +1,35 @@
+{
+	"originalText": "在“联合濒海训练演习16”中,加拿大海军“哈利法克斯”级护卫舰“范库弗峰”号,针对1个岸基靶标,试射了1枚“鱼叉”BlockⅡ型面面导弹?试验在美国海军位于加州海岸的导弹发射基地进行,是“哈利法克斯”级护卫舰全面升级后的首次试射,验证了“鱼叉”导弹与升级后舰载作战控制系统的有效集成?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 2,
+			"end_pos": 13
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 21,
+			"end_pos": 38
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 44,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 68
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 126,
+			"end_pos": 136
+		}
+	]
+}

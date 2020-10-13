@@ -1,0 +1,53 @@
+{
+	"originalText": "根据俄官方声明,新型RS-26“边界”导弹小于SS-27“白杨-M”导弹?“白杨”导弹设计突防措施,用于突破反导系统,当前部署于6个兵团的发射井中?俄罗斯2006年开始部署公路机动的“白杨”导弹?采用分导多弹头技术的“白杨”导弹升级版——“亚尔斯”导弹,2010年首次部署?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 21
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 107
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 126
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 90
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 58
+		}
+	]
+}

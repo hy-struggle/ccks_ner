@@ -1,0 +1,23 @@
+{
+	"originalText": "12月16日,俄罗斯成功执行PL-19“努多利”反卫导弹试验,导弹从俄罗斯中部基地发射,美国情报机构监测到此次试验?这是“努多利”导弹的第5次试射,也是其第3次成功试射?该导弹是俄罗斯军方正在研发的新型战略武器系统之一?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 67
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 107
+		}
+	]
+}

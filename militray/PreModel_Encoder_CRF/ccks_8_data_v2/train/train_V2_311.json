@@ -1,0 +1,23 @@
+{
+	"originalText": "5月30日,在奥迪萨邦昌迪普尔综合试验场,印度国防研究与发展组织(DRDO)完成了固体燃料冲压发动机推进导弹的技术演示飞行试验,此次是印度首次进行固体燃料管道冲压发动机试验,试验成功完成了所有预定目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 86
+		}
+	]
+}

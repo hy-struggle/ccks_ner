@@ -1,0 +1,65 @@
+{
+	"originalText": "作为一种新型弹道导弹载荷,许多国家正在研制高超声速滑翔飞行器(HGVs)?HGVs可以超过马赫数5的速度机动飞行,飞行弹道比典型弹道导弹要低?具备高超声速?高机动性和低弹道特征的HGVs将对现有反导系统构成严峻挑战?当前中国和俄罗斯正在研制HGVs?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 36
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 52
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 54
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 61
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 77
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 82
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 86
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 12
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 101
+		}
+	]
+}

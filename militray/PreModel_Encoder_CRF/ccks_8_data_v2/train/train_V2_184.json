@@ -1,0 +1,35 @@
+{
+	"originalText": "通用原子公司电磁系统分部(GA-EMS)19日在一份声明中称,该公司已在今年举行的 “2018环太平洋 ”联合军演中首次对导弹防御局开发的 “空基跟踪与瞄准系统 ”(ATTS)进行了演示和试验,效果令人满意,进一步验证了其对高价值现实目标的跟踪能力?目前该公司正在对演习中收集的试验数据进行汇总和分析,为后续提升其针对多样化远程威胁的有效跟踪与瞄准能力做准备?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 119
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 166
+		}
+	]
+}

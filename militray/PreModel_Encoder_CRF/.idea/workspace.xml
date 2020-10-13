@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="280ec525-abb1-4ead-83d1-d022f36d97b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../summary.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JupyterTrust" id="3dcd35bf-23aa-4671-9956-ce65a68662ec" />
+  <component name="ProjectId" id="1icb9y8AZqsSRHs2Um2uhP8ceQC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/notebook/val_result/ensemble_val.py" />
+  </component>
+  <component name="RunManager" selected="Python.ensemble_val">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PreModel_Encoder_CRF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ensemble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ensemble" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PreModel_Encoder_CRF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ensemble.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ensemble_val" type="PythonConfigurationType" factoryName="Python">
+      <module name="PreModel_Encoder_CRF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/val_result" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/val_result/ensemble_val.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in ensemble_val" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="PreModel_Encoder_CRF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/notebook/val_result" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notebook/val_result/ensemble_val.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ensemble" />
+      <item itemvalue="Python.ensemble_val" />
+      <item itemvalue="Python tests.Doctests in ensemble_val" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctests in ensemble_val" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="280ec525-abb1-4ead-83d1-d022f36d97b0" name="Default Changelist" comment="" />
+      <created>1602209679098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602209679098</updated>
+      <workItem from="1602209680319" duration="624000" />
+      <workItem from="1602210764385" duration="5019000" />
+      <workItem from="1602319754294" duration="5541000" />
+      <workItem from="1602394933059" duration="42000" />
+      <workItem from="1602394992075" duration="1919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602469245849">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="194" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1602469245849" />
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1602332448216" />
+    <state x="371" y="127" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602469303517">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="371" y="127" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1602469303517" />
+    <state x="530" y="247" key="FileChooserDialogImpl" timestamp="1602469243058">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="530" y="247" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1602469243058" />
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1602332433570" />
+    <state width="1238" height="144" key="GridCell.Tab.0.bottom" timestamp="1602469970281">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="144" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1602469970281" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1602332514092" />
+    <state width="1238" height="144" key="GridCell.Tab.0.center" timestamp="1602469970281">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="144" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1602469970281" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1602332514092" />
+    <state width="1238" height="144" key="GridCell.Tab.0.left" timestamp="1602469970281">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="144" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1602469970281" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1602332514092" />
+    <state width="1238" height="144" key="GridCell.Tab.0.right" timestamp="1602469970281">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="144" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1602469970281" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1602332514092" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PreModel_Encoder_CRF$ensemble_val.coverage" NAME="ensemble_val Coverage Results" MODIFIED="1602469247999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/val_result" />
+    <SUITE FILE_PATH="coverage/PreModel_Encoder_CRF$Doctests_in_ensemble.coverage" NAME="Doctests in ensemble Coverage Results" MODIFIED="1602332408698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PreModel_Encoder_CRF$ensemble.coverage" NAME="ensemble Coverage Results" MODIFIED="1602332459548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PreModel_Encoder_CRF$Doctests_in_ensemble_val.coverage" NAME="Doctests in ensemble_val Coverage Results" MODIFIED="1602469193736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/notebook/val_result" />
+  </component>
+</project>

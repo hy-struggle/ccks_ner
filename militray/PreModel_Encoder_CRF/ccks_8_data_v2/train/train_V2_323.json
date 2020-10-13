@@ -1,0 +1,23 @@
+{
+	"originalText": "6月29日,日本民营航天初创企业星际科技公司研制的 “MOMO ”-2探空火箭在北海道大树町航天试验基地进行第二次发射试验,火箭升空几秒后坠落地面,造成火箭爆炸和简易发射台损毁,但未造成人员伤亡，该火箭2017年进行了首飞,未能成功。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 61
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 86
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"originalText": "美海军信息作战系统司令部于2019年6月21日授予雷多斯公司7280万美元合同,用于研发“可靠声学路径转换系统”(TRAPS),合同工作预计于2022年6月完成?该系统是“分布式敏捷反潜”(DASH)项目的一部分,是部署于深海海底固定位置的被动式声呐传感器,利用广阔的视野探测上方的敌军潜艇和水下无人潜航器?“可靠声学路径转换系统”补充了深海固定监视系统,如“综合海底监视系统”(IUSS)?“固定分布式系统”(FDS)和“水声监视系统”(SOSUS),这些系统将为全球范围内的美军反潜战指挥官提供灵活和快速响应的广域监视信息?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 45,
+			"end_pos": 63
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 100
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 121,
+			"end_pos": 128
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 170,
+			"end_pos": 177
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 180,
+			"end_pos": 195
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 197,
+			"end_pos": 210
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 212,
+			"end_pos": 226
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 112,
+			"end_pos": 119
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 142,
+			"end_pos": 145
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 153
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 234,
+			"end_pos": 237
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 240,
+			"end_pos": 247
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 258,
+			"end_pos": 263
+		}
+	]
+}

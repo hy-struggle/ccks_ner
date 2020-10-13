@@ -1,0 +1,41 @@
+{
+	"originalText": "美国东部时间5月31日下午5时30分,轨道ATK公司升级版“安塔瑞斯”运载火箭第一级在沃洛普斯岛中大西洋地区航天发射场执行静态点火试验,持续点火30秒,旨在验证火箭RD-181发动机?相关系统以及发射台本身的性能,为火箭在7月初复飞做准备?升级版“安塔瑞斯”火箭配备了两台RD-181主发动机?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 42
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 101
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 91
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 96
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 146
+		}
+	]
+}

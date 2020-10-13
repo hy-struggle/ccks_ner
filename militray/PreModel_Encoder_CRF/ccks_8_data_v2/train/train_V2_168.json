@@ -1,0 +1,41 @@
+{
+	"originalText": "印度国防研究与发展组织于近日从位于印度东海岸的阿卜杜勒·卡拉姆岛综合试验靶场成功地试射了两枚可搭载核弹头的“烈火”-4和“烈火”-5弹道导弹?印度国防部表示,印度于1月2日成功试射了一枚射程为4000千米的“烈火”-4中程弹道导弹(IRBM)?这是该型中程弹道导弹的第6次成功试射?而此前一周,印度第四次成功地试射了一枚“烈火”-5洲际弹道导弹?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 121
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 161,
+			"end_pos": 172
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 95
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 52
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"originalText": "由于印度科学家一直没能解决存在的硬件问题,印度自主研制的首款亚声速巡航导弹“无畏”再次试射失败?此次发射任务在印度东海岸的综合试验靶场进行,发射2分钟后失败?初步鉴定结果认为,可能是由于飞控系统出现故障,导致飞行路线偏离预期,最终研发团队不得不发出自毁指令,“无畏”导弹坠入海中?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 108
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 128
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 97
+		}
+	]
+}

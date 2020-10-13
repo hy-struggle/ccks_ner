@@ -1,0 +1,47 @@
+{
+	"originalText": "希尔沃特皇家空军基地12联队的1架CH-148“飓风”直升机与加拿大海军“温莎”号潜艇在新斯科舍海域联合开展反潜作战试验?这是CH-148“飓风”直升机首次参与反潜作战任务,也是该新型飞机发展过程中的一个重要里程碑?试验中,CH-148“飓风”直升机利用被动声纳浮标对“温莎”号潜艇进行了探测跟踪,测试了其声纳浮标处理系统?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 60
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 133
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 154,
+			"end_pos": 161
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 86
+		}
+	]
+}

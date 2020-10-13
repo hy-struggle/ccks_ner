@@ -1,0 +1,59 @@
+{
+	"originalText": "德国莱茵金属公司及德国联邦国防军在公海海域对加装在MLG?27轻型舰炮上的10千瓦高能激光武器进行了试验?试验内容包括使用该高能激光武器对无人机?小型水面艇?地面静止目标等进行跟踪,以验证加装在MLG?27轻型舰炮上的高能激光武器在海上作战的可行性,其试验结果对未来德国研发海上高能激光武器系统具有重要意义?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 72
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 74,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 85
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 120
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 135
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 147
+		}
+	]
+}

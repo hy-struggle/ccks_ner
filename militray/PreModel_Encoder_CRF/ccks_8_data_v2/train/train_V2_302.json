@@ -1,0 +1,107 @@
+{
+	"originalText": "法空客公司测试欧洲下一代作战飞机 ——欧洲未来航空作战系统控制无人机进行作战的可行性?试验有5架空客公司自己制造的DO-DT25目标无人机,试验区域在德国的海上靶场?试验内容包括有人预警机指挥控制无人机飞行?预警机与无人机的连通性?人机接口?有人无人预警等团队情报交流以及有人无人任务组合管理等?试验主要验证了有人无人飞行控制和飞行管理的可行性,无人系统态势感知共享的可行性,无人系统自主导航?自主制导和自主告警的受控飞行等,有人飞机处于安全远距离情况下无人机提供态势感知的能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 103
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 107
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 115
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 122,
+			"end_pos": 127
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 129,
+			"end_pos": 134
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 137,
+			"end_pos": 146
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 156,
+			"end_pos": 168
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 183
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 189,
+			"end_pos": 196
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 198,
+			"end_pos": 206
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 208,
+			"end_pos": 211
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 214,
+			"end_pos": 236
+		}
+	]
+}

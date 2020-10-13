@@ -1,0 +1,89 @@
+{
+	"originalText": "11月16日,美国海军陆战队F-35B短距离垂直\/起降型联合攻击机在第三阶段研制试验中,于“美国”号两栖攻击舰上完成海上武器负载试验?试验期间,F-35B联合攻击机进行了恶劣环境下的舰上起飞和降落试验,评估了F-35B联合攻击机在各种武器负载以及侧风?下降速率过快和复杂海况等条件下的飞行性能?此外,第三阶段研制试验武器小组还进行了弹药分离试验和实弹射击试验?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 51,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 100
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 167,
+			"end_pos": 172
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 179
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 118,
+			"end_pos": 121
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 125
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 130
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 144
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 146
+		}
+	]
+}

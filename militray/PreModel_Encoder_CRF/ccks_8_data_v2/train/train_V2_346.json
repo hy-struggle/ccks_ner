@@ -1,0 +1,59 @@
+{
+	"originalText": "对地攻击巡航导弹通常包括三个阶段:发射?中段?末段?在发射阶段,导弹仅采用惯性制导;在中段采用组合制导技术,包括卫星?地形匹配和雷达或光学匹配制导技术?末制导一般采用更精确的场景匹配系统或光学\/雷达导引头?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 8
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 41
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 53
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 86
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 58
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 60,
+			"end_pos": 63
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 71
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 93
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 102
+		}
+	]
+}

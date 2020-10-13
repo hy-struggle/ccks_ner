@@ -1,0 +1,83 @@
+{
+	"originalText": "近日,以色列埃尔比特系统公司的“海鸥”多任务无人水面艇在海法港进行了一次鱼雷发射探索性试验,验证了“海鸥”安装和发射轻型鱼雷的能力,以及其执行无人海上任务的先进能力,如保护重要海域和高价值资产免受潜艇和水雷威胁?“海鸥”是以色列埃尔比特系统公司推出的世界上首艘可执行反潜作战任务的无人水面艇,长12米,除可执行反潜作战,还可执行反水雷战?电子战?海上安全和其他相关任务?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 62
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 77
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 147,
+			"end_pos": 147
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 90
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 96
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 105
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 138,
+			"end_pos": 139
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 165,
+			"end_pos": 168
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 170,
+			"end_pos": 172
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 174,
+			"end_pos": 177
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"originalText": "俄 俄罗斯喀山旋翼机厂生产的Mi - 38T 军用运输直升机根据初步试验计划实现了首次试飞?在联合特别飞行试验中, 俄罗斯检查了Mi - 38T 直升机的所有系统和设备, 以判断是否符合俄罗斯国防部技术任务的要求?该直升飞机在认证的Mi -38 民用直升飞机的基础上重新装备, 以处理运输和部队着陆任务?直升飞机也可重新配置为救护旋翼飞机, 并且可提供额外的燃料箱以扩大飞行范围?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 55
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 129
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 186,
+			"end_pos": 189
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 84
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 180,
+			"end_pos": 182
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 143,
+			"end_pos": 151
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 164,
+			"end_pos": 169
+		}
+	]
+}

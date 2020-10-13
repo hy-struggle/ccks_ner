@@ -1,0 +1,95 @@
+{
+	"originalText": "本月,英国在加拿大蒙特利尔市运用其新型自动化技术进行了为期三周的复杂城市环境试验(CUE),这是近年来最大规模的试验,汇集了澳大利亚?加拿大?新西兰?英国和美国五国的尖端技术?该技术称为 “SAPI?ENT”,可使传感器自主做出决定,进行监视活动,并确定监视的内容和方式?部队可通过该技术的闭路电视摄像系统实时监视复杂城市街道上的敌人移动情况,搜索模拟城市战场的环境和影响士兵安全的危险标志?首次复杂城市环境试验于2017年11月在澳大利亚阿德莱德举行,还有两次试验计划于2019年和2020年分别在美国和英国进行?2025年后,部队将全面部署该技术?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 87
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 95,
+			"end_pos": 104
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 110
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 112
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 123
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 132
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 135
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 153
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 158,
+			"end_pos": 163
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 166,
+			"end_pos": 171
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 177,
+			"end_pos": 180
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 183
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 187,
+			"end_pos": 190
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 192,
+			"end_pos": 195
+		}
+	]
+}

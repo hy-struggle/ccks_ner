@@ -1,0 +1,53 @@
+{
+	"originalText": "巡航导弹方面,4月,印度国防研究与发展组织(DRDO)成功进行“无畏”(Nirbhay)巡航导弹的第六次飞行试验,导弹在42分23秒的时间内完成了指定飞行航程,证明了导弹助推段的可靠性,以及巡航段按航迹点低空飞行的能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 88
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 92
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 98
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 102
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 104
+		}
+	]
+}

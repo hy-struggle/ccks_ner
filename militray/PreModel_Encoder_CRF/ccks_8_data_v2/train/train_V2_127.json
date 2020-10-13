@@ -1,0 +1,47 @@
+{
+	"originalText": "在近期举行的“三叉戟勇士”演习中,美国海军在“卡尔·文森”号航空母舰上对“用于提升作战优势的海军一体化战术云参考”(NITROS)项目进行了试验,并实现所有目标?该项目旨在提供更快?更综合的战术分析,以支持海军对信息战的日益关注?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 15
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 65
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 45
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 99
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 105
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 107,
+			"end_pos": 109
+		}
+	]
+}

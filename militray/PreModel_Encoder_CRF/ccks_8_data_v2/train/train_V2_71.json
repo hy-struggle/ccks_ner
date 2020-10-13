@@ -1,0 +1,59 @@
+{
+	"originalText": "日本三菱重工公司完成X-2“先进技术验证飞机”的首飞,成为世界上第4个试飞国产隐身战机的国家?4月22日,X-2“先进技术验证飞机”从日本名古屋机场起飞,执行爬升?下降和盘旋等一系飞行动作以确认相关基础特技飞行技术后,在日本航空自卫队岐阜空军基地降落,试飞距离15千米,历时约26分钟?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 84
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 87
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 100,
+			"end_pos": 107
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 130
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 137
+		}
+	]
+}

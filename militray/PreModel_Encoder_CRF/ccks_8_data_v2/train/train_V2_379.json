@@ -1,0 +1,59 @@
+{
+	"originalText": "以色列拉法尔公司2月推出新型远程防区外空地导弹“岩石”(Rocks),可装备侵彻或爆炸破片战斗部,打击高价值地面或地下固定目标和位置可变目标?导弹中段采用惯性和GPS导航系统,末端采用光电制导和先进的图像处理算法寻的,能够在GPS受限情况下以极高精度命中目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 34
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 63
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 65,
+			"end_pos": 70
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 113,
+			"end_pos": 119
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 125
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 48
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 87
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 96
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 106
+		}
+	]
+}

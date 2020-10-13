@@ -1,0 +1,53 @@
+{
+	"originalText": "朝鲜于5月14日成功试射一枚“火星” -12弹道导弹?此次试射的“火星”-12导弹飞行高度达到2111.5千米,飞行距离为787千米?导弹飞行30分钟后坠入距离俄罗斯海岸附近的日本海?此次试射验证了最新研制的弹道式火箭的战术与技术规格?此外,“火星”-12可搭载一枚大尺寸重型核弹头?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 26
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 105,
+			"end_pos": 109
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 111,
+			"end_pos": 112
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 117
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 42,
+			"end_pos": 45
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 60
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 138
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 141
+		}
+	]
+}

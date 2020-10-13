@@ -1,0 +1,41 @@
+{
+	"originalText": "爱达荷州芒廷霍姆空军基地的第366战斗机联队将试行新的组织结构?这个实验型的结构是由空军作战司令部指挥官麦克 ·霍姆斯将军发起的,拟在第366战斗机联队创建一个组织结构,通过试行这种组织结构来测试用可能的方法改进中队战备状态?培养单位负责人和鼓励创新?新组织机构预计将于本月开始试行?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 31
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 112
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 120
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 124,
+			"end_pos": 125
+		}
+	]
+}

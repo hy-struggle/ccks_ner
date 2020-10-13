@@ -1,0 +1,71 @@
+{
+	"originalText": "美国W80核弹头延寿计划最近通过了一个重要的里程碑。翻新后的弹头将与一种新的巡航导弹集成在一起,美国空军正在同时开发这种导弹,来改善武器的安全,安保和作战后勤,并在不需要进行额外核爆炸试验的情况下保持有效性.这是自25年前启动核武器《库存管理计划》后,在新的发射系统中装备的首个延寿核弹头。",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 3,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 94
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 101,
+			"end_pos": 103
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 39,
+			"end_pos": 42
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 52
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 71
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 74
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 76,
+			"end_pos": 79
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 124
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 130,
+			"end_pos": 133
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 144
+		}
+	]
+}

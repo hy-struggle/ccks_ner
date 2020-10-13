@@ -1,0 +1,41 @@
+{
+	"originalText": "太平洋舰队在日本海水域的战术演习中,相继从“快速”号驱逐舰和R-24导弹舰上发射2枚“白蛉”反舰导弹,成功命中60千米外的预设水面舰船目标?9月,太平洋舰队从“鄂木斯克”号核动力潜艇上发射了1枚“花岗岩”反舰导弹,成功命中350千米外的预设舰船目标?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 22,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 37
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 50
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 69
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 91
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 106
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"originalText": "美国海军“拉森号”驱逐舰和“杰森·杜汉姆”号导弹驱逐舰在“黑镖”军演中,成功跟踪并击中从埃格林空军基地起飞的无人机,演示验证了驱逐舰反无人空中系统(C-UAS)能力?“黑镖”军演是美国国防部举办的规模最大的反无人机技术演示验证实飞实弹演习?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 34
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 80
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 119
+		}
+	]
+}

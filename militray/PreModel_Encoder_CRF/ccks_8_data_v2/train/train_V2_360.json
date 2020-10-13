@@ -1,0 +1,35 @@
+{
+	"originalText": "俄罗斯海军进行了多次反舰导弹试射?2月,俄黑海舰队举行“舞会”岸舰导弹系统演习,演练了不同阵地的导弹部署,以及机动和预设阵地的转换等?7月,黑海舰队试射“棱堡”和“舞会”岸防反舰导弹,以提高水面目标探测和指示能力?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 14
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 91
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 99
+		}
+	]
+}

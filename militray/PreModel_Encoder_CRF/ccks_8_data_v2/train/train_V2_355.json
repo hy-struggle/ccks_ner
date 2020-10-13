@@ -1,0 +1,29 @@
+{
+	"originalText": "美国海军还于2019年6月完成首次“独立”级濒海战斗舰的水面战任务包,舰舰导弹模块(SSMM)结构测试,该模块装配了打击近海小型船只的“长弓海尔法”导弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 18,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 66
+		}
+	]
+}

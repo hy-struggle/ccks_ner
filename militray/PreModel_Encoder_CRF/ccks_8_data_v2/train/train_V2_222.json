@@ -1,0 +1,41 @@
+{
+	"originalText": "3月30日,SpaceX公司在NASA的肯尼迪航天中心将“回收”的“猎鹰”9号火箭成功发射,并在大西洋的一艘驳船上再次成功“回收”224英尺高的火箭一子级?该事件标志着轨道级助推器的首次“重新飞行”?SpaceX公司总裁埃隆·马斯克表示,此次“回收”火箭的成功发射并回收意味着轨道级助推器可进行发射和重发射,助推器是火箭中最贵的部分?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 41
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 55,
+			"end_pos": 56
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 71
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 99
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 77
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 90
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"originalText": "5月25日美国最新的 “弗吉尼亚 ”级 “印第安纳 ”号(SSN789)核动力快速攻击潜艇在弗吉尼亚海岸成功完成初步海试,试验内容包括首次潜入水下,以及在水面?水下进行高速航行? ",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 11,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 88
+		}
+	]
+}

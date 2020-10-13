@@ -1,0 +1,41 @@
+{
+	"originalText": "统一发射联盟总裁兼首席执行官托里·布鲁诺周四宣布,其新一代火箭Vulcan?Centaur完成了初始设计审查?初始设计审查是运载火箭研制过程中的重要里程碑,美国将在2019年进行这种大推力火箭的飞行试验?统一发射联盟主要的研制项目主任表示,美国研发新一代的火箭是经济和可靠的,将为美国航天带来变革,能够保证美国采用本国生产的发动机为美国提供航天发射能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 45
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 96
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 101
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 144
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 163,
+			"end_pos": 165
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 171,
+			"end_pos": 176
+		}
+	]
+}

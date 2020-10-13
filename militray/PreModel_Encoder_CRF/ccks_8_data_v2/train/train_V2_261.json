@@ -1,0 +1,47 @@
+{
+	"originalText": "6月3日俄罗斯宣布其成功试射“锆石”超声速导弹?据悉,该导弹时速达7400千米\/小时(马赫数6),具备对抗西方国家导弹防御系统的能力,可淘汰西方国家的防御系统,如英国“威尔士亲王”号与“伊丽莎白女王”号航空母舰使用的反导系统?据俄罗斯官方媒体“卫星”新闻通讯社报道称,“锆石”导弹可以安装在“彼得大帝”号核动力巡洋舰上?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 15,
+			"end_pos": 23
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 32
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 63
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 91
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 105
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 112
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 146,
+			"end_pos": 158
+		}
+	]
+}

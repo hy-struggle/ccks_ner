@@ -1,0 +1,77 @@
+{
+	"originalText": "弹道导弹可携带诱饵,对反导系统进行突防?诱饵可以对敌方传感器进行干扰?欺骗?弹道导弹的这些特性致使越来越多的国家研制和发展弹道导弹系统?弹道导弹突防技术还包括载荷分离,多弹头,隐身,助推段?中段或末段弹道机动等?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 4
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 30
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 67
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 76
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 9
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 83
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 87
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 89,
+			"end_pos": 90
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 92,
+			"end_pos": 94
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 97
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 99,
+			"end_pos": 104
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 15
+		}
+	]
+}

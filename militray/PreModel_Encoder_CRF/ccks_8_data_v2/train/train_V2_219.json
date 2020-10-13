@@ -1,0 +1,41 @@
+{
+	"originalText": "印度成功试射了自主研制的超声速拦截导弹,该导弹可摧毁从低空来袭的所有弹道导弹?印度报业托拉斯通讯社援引一名印度国防官员的消息称,本次的发射试验是一次低空试验,目的是为了验证拦截弹在飞行模式下的各种参数?这是该导弹在不到一个月的时间内进行的第二次发射试验?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 13,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 78
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 28,
+			"end_pos": 31
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 35,
+			"end_pos": 38
+		}
+	]
+}

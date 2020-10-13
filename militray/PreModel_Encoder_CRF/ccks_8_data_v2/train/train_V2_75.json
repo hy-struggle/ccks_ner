@@ -1,0 +1,65 @@
+{
+	"originalText": "美国陆军在白沙导弹靶场进行“一体化战场指挥系统”的防空反导拦截试验,验证了该系统同时应对多种威胁目标的能力?试验中,一体化战场指挥系统根据“哨兵”和“爱国者”雷达提供的目标数据制定拦截方案,通过远程一体化火控网络将拦截方案传输至“爱国者”PAC-3系统和PAC-2系统?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 14,
+			"end_pos": 33
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 73
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 75,
+			"end_pos": 81
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 88
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 106
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 126
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 134
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 42
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 50
+		}
+	]
+}

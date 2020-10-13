@@ -1,0 +1,59 @@
+{
+	"originalText": "“康乃馨”高超声速靶弹由“卡拉什尼科夫”康采恩公司与“闪电”科研生产联合体共同研制,目前正在进行原型样机制造,将于2019年秋季开始进行测试试验?根据公开数据,高超声速靶弹速度将达到马赫数6.5,“康乃馨”靶弹计划将超过该速度?其设计主要是用于测试俄罗斯最新?最先进的防空反导系统?该靶弹将有助于提高防空部队军事人员的训练水平,促使形成捍卫俄罗斯联邦战略设施的反导防御部队?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 11
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 72
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 88
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 127
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 140
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 151,
+			"end_pos": 158
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 160,
+			"end_pos": 163
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 171,
+			"end_pos": 179
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 181,
+			"end_pos": 186
+		}
+	]
+}

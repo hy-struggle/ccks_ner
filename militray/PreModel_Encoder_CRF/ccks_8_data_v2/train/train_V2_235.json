@@ -1,0 +1,35 @@
+{
+	"originalText": "美国空军核武器中心(AFNWC)的一个专家小组向美国空军2月举行的一次非武装洲际弹道导弹发射试验提供了支持?本次试验旨在验证导弹的准确性和可靠性,提供有价值的数据以确保安全有效的长期核威慑?\r\n\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 72
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 94
+		}
+	]
+}

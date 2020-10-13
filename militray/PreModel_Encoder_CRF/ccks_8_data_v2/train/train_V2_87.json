@@ -1,0 +1,29 @@
+{
+	"originalText": "印度5月初,在班加罗尔的飞机与系统测试机构,智能反机场武器从“美洲虎”飞机上试验发射成功?官员表示智能反机场武器重约125~150千克,打击距离为80~100千米?\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 23,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 37
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 57
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 72
+		}
+	]
+}

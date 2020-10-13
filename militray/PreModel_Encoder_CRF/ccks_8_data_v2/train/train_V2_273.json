@@ -1,0 +1,83 @@
+{
+	"originalText": "“联合太空作战中心”于7月18日在范登堡空军基地举行的仪式上更名为“合并太空作战中心”(CSpOC)。CSpOC确保合并后的太空企业能够应对并解决不断出现和升级的太空威胁。CSpOC负责指挥的任务包括: 导弹预警；定位?导航和授时；军事卫星通信的优化和恢复；使用“宽视场天上持久红外”(Overhead Persistent Infrared)观测太空战场形势；环境监测；太空火力支援；防御性太空态势感知和太空防御。\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 10
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 50
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 63,
+			"end_pos": 66
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 106
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 115
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 128
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 172
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 175,
+			"end_pos": 178
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 182,
+			"end_pos": 185
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 187,
+			"end_pos": 192
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 194,
+			"end_pos": 202
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 204,
+			"end_pos": 207
+		}
+	]
+}

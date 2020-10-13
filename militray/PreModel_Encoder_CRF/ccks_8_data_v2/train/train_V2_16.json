@@ -1,0 +1,59 @@
+{
+	"originalText": "美国雷声公司于近日对其研制的美国空军“全球定位系统下一代操作控制系统”(GPS?OCX)Block?1开展了系列风险降低试验?在多种操作想定下,将Block?1系统的主控站与GPS模拟系统进行集成,演示了GPS星座管理与维持,验证了Block?1系统在网络加固环境中的精确导航与授时能力,首次实现了该系统端到端能力的集成?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 51
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 62
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 70
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 94
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 103,
+			"end_pos": 112
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 127,
+			"end_pos": 132
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 135,
+			"end_pos": 143
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 153,
+			"end_pos": 157
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 86
+		}
+	]
+}

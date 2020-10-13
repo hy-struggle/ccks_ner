@@ -1,0 +1,53 @@
+{
+	"originalText": "“俱乐部-K”巡航导弹是俄罗斯研制出口的导弹,俄罗斯宣称该导弹可从货船或商用卡车发射?2015年秋季,俄罗斯从舰船?飞机和潜艇发射“俱乐部-K”导弹打击叙利亚ISIS武装力量?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 1,
+			"end_pos": 11
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 35
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 40
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 54
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 57
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 59,
+			"end_pos": 60
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 63
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 87
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"originalText": "印度陆军战略力量指挥部于5月4日成功地试射了具有核打击能力的中程弹道导弹“烈火” -2?印度在此前两天,即5月2日和3日刚刚连续成功试射“布拉莫斯”BlockⅢ对陆攻击型巡航导弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 31,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 89
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 29
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"originalText": "为使军用无人机更好地在民用空域飞行,美国陆军在犹他州达格威试验场完成了对无人机感知与规避雷达系统试验?试验中,两架“灰鹰”无人机被安排在一个会发生碰撞的飞行路径上,用来评估地基感知与规避系统及其技能维护状态?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 37,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 80
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 87,
+			"end_pos": 95
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 103
+		}
+	]
+}

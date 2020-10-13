@@ -1,0 +1,35 @@
+{
+	"originalText": "在与美国空军开展了为期1周的试验后,法国空军的首批飞行员已具有在夜间对直升机进行空中加油的资格?参加此次试验的飞机有来自法国的H225M?Caracals直升机以及美国空军第352特种作战联队的MC-130J“大力神”加油机?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 80
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 112
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 33,
+			"end_pos": 34
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 36,
+			"end_pos": 38
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 44
+		}
+	]
+}

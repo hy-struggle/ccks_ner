@@ -1,0 +1,29 @@
+{
+	"originalText": "英国皇家空军于今年2月,在美国海军空战中心中国湖分部完成“硫磺石”2导弹的作战评估试验?此次试验是英国皇家空军“狂风”GR4多用途战斗机交付部队?宣布具备初始作战能力前的最后1次里程碑试验?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 29,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 43
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 78,
+			"end_pos": 83
+		}
+	]
+}

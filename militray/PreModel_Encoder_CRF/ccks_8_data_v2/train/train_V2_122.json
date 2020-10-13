@@ -1,0 +1,29 @@
+{
+	"originalText": "7月25日,为以色列建造的首架F-35A战斗机于洛克希德·马丁公司沃斯堡工厂完成首次飞行试验?以色列的F-35协议十分特殊,属于直接抵消交易,有权对F-35飞机进行改造和装配?此次飞行试验的目的是确保飞机能完全胜任飞行任务?飞行试验是向以色列空军交付过程的一部分,也是将隐身战斗机交付以色列的重要步骤?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 23
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 46
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 136,
+			"end_pos": 140
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 111
+		}
+	]
+}

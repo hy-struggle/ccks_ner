@@ -1,0 +1,53 @@
+{
+	"originalText": "5月25日,俄罗斯“努多利”直升式反卫导弹在普列谢茨克发射场进行了飞行试验?这是该导弹的第2次成功试射,标志着俄罗斯在发展摧毁美国导航?通信和情报卫星的武器方面取得了关键战略优势?“努多利”直升式反卫导弹属于试验性研发项目,一直在秘密研发,是俄罗斯新型远程导弹防御和空间防御的拦截综合体?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 10,
+			"end_pos": 21
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 143
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 56,
+			"end_pos": 58
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 64,
+			"end_pos": 75
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 78
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 84,
+			"end_pos": 89
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 125,
+			"end_pos": 132
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 134,
+			"end_pos": 137
+		}
+	]
+}

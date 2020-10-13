@@ -1,0 +1,65 @@
+{
+	"originalText": "俄罗斯海军“尤里·多尔戈鲁基”号核潜艇于9月27日从白海海域向俄远东堪察加半岛库拉靶场发射了2枚“布拉瓦”洲际弹道导弹?试验中,2枚导弹从潜艇发射井射出,其中1枚导弹的战斗部完成了整个飞行过程并命中靶场指定目标,另1枚导弹在完成第1阶段飞行后自毁?此次试射是一次水下齐射?上一次齐射于2015年11月14日在“弗拉基米尔·莫诺马赫”号核潜艇上进行,2枚导弹均命中目标?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 6,
+			"end_pos": 19
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 59
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 93,
+			"end_pos": 96
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 115,
+			"end_pos": 120
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 155,
+			"end_pos": 170
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 132,
+			"end_pos": 135
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 140,
+			"end_pos": 141
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 74
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 87
+		}
+	]
+}

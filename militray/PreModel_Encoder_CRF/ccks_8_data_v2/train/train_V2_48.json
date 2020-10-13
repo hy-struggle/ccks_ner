@@ -1,0 +1,35 @@
+{
+	"originalText": "美国海军进行了舰队弹道导弹计划“三叉戟”Ⅱ型(D5)弹道导弹飞行试验?试验导弹上首次使用了名为“连接器后壳”的3D打印部件?该部件是保护导弹电缆连接器的装置,为铝合金材质,采用全数字化工艺流程设计制造,宽度约2.5厘米?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 8,
+			"end_pos": 34
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 103
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 61
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 69,
+			"end_pos": 75
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 81,
+			"end_pos": 85
+		}
+	]
+}

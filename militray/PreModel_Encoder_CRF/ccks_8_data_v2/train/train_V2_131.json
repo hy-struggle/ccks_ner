@@ -1,0 +1,35 @@
+{
+	"originalText": "美国空军8月1日宣布,F-35A“闪电”Ⅱ型战斗机于近日在穆古角海上试验靶场完成首次空空武器试验,使用1枚AIM-9X“响尾蛇”导弹摧毁了1架无人机靶标,验证了其作战能力的进一步增强?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 12,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 43,
+			"end_pos": 48
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 66
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 72,
+			"end_pos": 76
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 82,
+			"end_pos": 85
+		}
+	]
+}

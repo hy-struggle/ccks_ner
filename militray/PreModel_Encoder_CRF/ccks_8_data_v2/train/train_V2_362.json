@@ -1,0 +1,41 @@
+{
+	"originalText": "俄罗斯开始为包括苏-57在内的第五代歼击机研制新型反舰导弹,该导弹将配备乌拉尔零件设计局研制的新型导引头;并进行Kh-35U空射反舰导弹的舰射改进,导弹射程将达到260千米?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 21
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 26,
+			"end_pos": 29
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 57,
+			"end_pos": 68
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 77,
+			"end_pos": 78
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 48,
+			"end_pos": 52
+		}
+	]
+}

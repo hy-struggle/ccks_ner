@@ -1,0 +1,41 @@
+{
+	"originalText": "美国陆军“远征勇士实验”首次在实战演习中试验了“瞄准锁定”稳定武器平台,这种看上去颇为笨重的步枪可通过减少人为失误,提升普通步兵的平均作战效能?\r\n\r\n\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 5,
+			"end_pos": 12
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 24,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 48
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 54,
+			"end_pos": 57
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 66,
+			"end_pos": 71
+		}
+	]
+}

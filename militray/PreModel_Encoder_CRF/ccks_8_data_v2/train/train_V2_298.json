@@ -1,0 +1,53 @@
+{
+	"originalText": "8 月20 号, 洛克达因公司新型RS -25 发动机在NASA 斯坦尼斯航天345附录中心成功完成了“热点火测试”, 标志着该公司在降低RS - 25 发动机成本上所做的努力具有里程碑式意义?该发动机将为在斯坦尼斯航天中心发射的“太空发射系统” ( SLS) 火箭提供动力?“ 主燃烧室” ( MCC) 是新型RS - 25 发动机的核心, 采用了一种创新的制造技术——— “ 热等静压”(HIP) 焊接技术, 与传统技术相比, 该技术可节省大量时间和成本?初始试验数据表明, 主燃烧室在319 秒的试验时间内完美无瑕地运行, 这代表了预期的SLS 火箭飞行剖面?这次RS -25 发动机“热点火测试” 使用了新型飞行控制器, 证明了该控制器与RS -25 发动机可以进行整合, 目前新型飞行控制器已进入生产阶段?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 27
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 52,
+			"end_pos": 58
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 252,
+			"end_pos": 255
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 307,
+			"end_pos": 313
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 153
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 189,
+			"end_pos": 205
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 133
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 273,
+			"end_pos": 282
+		}
+	]
+}

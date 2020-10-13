@@ -1,0 +1,41 @@
+{
+	"originalText": "据俄罗斯中央空气动力研究所官方报道,该研究所利用低速风洞对太阳能无人机进行了测试?研究所科学家完成了大型模型演示验证飞行器的第一阶段试验,模型按照1:6比例进行?该研究所称,研究过程中获得了高空气动力学质量值,所选飞行器方案的有效性和使用机翼附翼的观念得到了证实?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 25,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 35
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 70,
+			"end_pos": 71
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 96,
+			"end_pos": 104
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 112
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 120,
+			"end_pos": 123
+		}
+	]
+}

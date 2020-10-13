@@ -1,0 +1,47 @@
+{
+	"originalText": "3月23日,1架F-35“闪电”Ⅱ型联合攻击战斗机在大西洋试验靶场上空发射了首枚AGM-154联合防区外武器,由此拉开了美国海军2016年一系列联合防区外武器分离试验的序幕?试验中,海军试飞员驾驶编号为CF-05的F-35试验机从内部武器舱干净利落地释放了这枚重达454千克的空地制导滑翔炸弹?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 9,
+			"end_pos": 25
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 54
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 83
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 108,
+			"end_pos": 114
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 146
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 131,
+			"end_pos": 131
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 116,
+			"end_pos": 120
+		}
+	]
+}

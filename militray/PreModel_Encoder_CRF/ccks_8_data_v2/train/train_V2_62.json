@@ -1,0 +1,59 @@
+{
+	"originalText": "印度陆军战略部队司令部从印度东部奥里萨邦惠勒岛的综合试验靶场发射了1枚国产“烈火”-Ⅰ弹道导弹?该导弹从机动系统发射,按预设弹道飞行,飞行时间为9分36秒,飞行距离为700千米?试验中,雷测站?遥测站?光电仪器和2艘部署在落区附近的军舰对该导弹进行了跟踪?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 38,
+			"end_pos": 47
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 56
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 61,
+			"end_pos": 64
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 94,
+			"end_pos": 96
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 98,
+			"end_pos": 100
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 102,
+			"end_pos": 105
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 117,
+			"end_pos": 118
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 71
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 79,
+			"end_pos": 82
+		}
+	]
+}

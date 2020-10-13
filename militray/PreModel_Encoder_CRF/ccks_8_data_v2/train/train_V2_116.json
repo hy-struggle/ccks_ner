@@ -1,0 +1,29 @@
+{
+	"originalText": "6月10日,“杰克逊”号近海战斗舰完成了其规划的3次全舰震动试验中的首次试验,检验了该舰承受附近水域水下爆炸?保持所需性能的能力?试验结束后,该舰返回梅波特海军航空站,进行为期两周的检查?数据收集和再次试验准备?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 7,
+			"end_pos": 17
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 27,
+			"end_pos": 32
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 54
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 58,
+			"end_pos": 61
+		}
+	]
+}

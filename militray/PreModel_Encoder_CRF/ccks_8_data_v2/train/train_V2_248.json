@@ -1,0 +1,41 @@
+{
+	"originalText": "随着印度西部边境地区的紧张关系加剧,印度陆军在安达曼—尼科巴群岛成功地试射了一枚增程型“布拉莫斯”对陆攻击巡航导弹?陆军官员表示,该“布拉莫斯”Block-Ⅲ超声速巡航导弹从一台机动自主发射架上发射,在最高攻击配置下精确地击中了目标?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 41,
+			"end_pos": 49
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 50,
+			"end_pos": 57
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 67,
+			"end_pos": 86
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 90,
+			"end_pos": 96
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 104,
+			"end_pos": 107
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 109,
+			"end_pos": 110
+		}
+	]
+}

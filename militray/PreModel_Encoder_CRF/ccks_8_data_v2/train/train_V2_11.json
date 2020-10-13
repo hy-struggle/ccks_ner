@@ -1,0 +1,41 @@
+{
+	"originalText": "美国太空探索(SpaceX)公司“猎鹰”9-1.1型火箭从美国范登堡空军基地发射升空,在发送“杰森”-3海洋监视卫星的同时,再次尝试海上回收火箭一级?最终,火箭成功将卫星送至预定轨道,但一级却在着陆后翻倒并爆炸?SpaceX公司负责人随后表示,火箭一级在下降过程中已具备合适的着陆速度?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 17,
+			"end_pos": 28
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 47,
+			"end_pos": 58
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 91
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 140
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 141,
+			"end_pos": 142
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 71,
+			"end_pos": 74
+		}
+	]
+}

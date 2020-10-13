@@ -1,0 +1,29 @@
+{
+	"originalText": "通用原子公司电磁系统部宣布,其锂离子容错电池已在特种作战司令部1艘潜航器上完成舰载试验?该锂离子容错电池由海军水面战中心克伦分部集成,通过了德国劳埃德船级社认证,并实现了60小时无故障运行?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 16,
+			"end_pos": 22
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 34,
+			"end_pos": 36
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 40,
+			"end_pos": 43
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 91,
+			"end_pos": 94
+		}
+	]
+}

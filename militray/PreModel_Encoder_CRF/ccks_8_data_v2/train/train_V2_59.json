@@ -1,0 +1,35 @@
+{
+	"originalText": "美国海军于1月18日在太平洋导弹靶场对BlockⅠ型“标准”-6(SM-6)导弹进行了首次反舰试验,验证了该型导弹能够针对水面目标进行超视距作战,检验了其应对逐渐增长的反介入\/区域拒止威胁的能力?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 20,
+			"end_pos": 40
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 46,
+			"end_pos": 49
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 62,
+			"end_pos": 65
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 68,
+			"end_pos": 70
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 85,
+			"end_pos": 94
+		}
+	]
+}

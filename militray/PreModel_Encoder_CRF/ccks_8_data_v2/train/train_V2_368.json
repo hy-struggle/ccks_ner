@@ -1,0 +1,47 @@
+{
+	"originalText": "此外,英国国防部3月推动一项竞争性采办计划,用于发展一型过渡用重型舰载反舰导弹,以替代当前英国海军装备的“捕鲸叉”Block 1C反舰导弹,弥补“未来巡航\/反舰武器”服役前的反舰作战能力差距?英国要求新导弹于2023年12月交付,目前潜在竞标型号包括美国“远程反舰导弹”?挪威“海军打击导弹”和瑞典RBS 15 Mk4反舰导弹等?\r\n",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 32,
+			"end_pos": 39
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 128,
+			"end_pos": 135
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 139,
+			"end_pos": 146
+		},
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 150,
+			"end_pos": 163
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 88,
+			"end_pos": 93
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 53,
+			"end_pos": 69
+		},
+		{
+			"label_type": "任务场景",
+			"overlap": 0,
+			"start_pos": 73,
+			"end_pos": 83
+		}
+	]
+}

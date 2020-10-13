@@ -1,0 +1,65 @@
+{
+	"originalText": "俄罗斯和中国研制和出口多种类型弹头的近程弹道导弹?弹头包括两用改进型常规弹药(DPICM)弹头?热压和高爆(HE)弹头?制导的DPICM?热压和高爆弹头导弹对静止或移动的装甲?机械化火炮目标的杀伤效率比无制导火箭弹?火炮更高?精度更高的近程导弹圆概率误差(CEP)小于无制导火箭弹?火炮,弹头爆炸破片杀伤效率更高?",
+	"entities": [
+		{
+			"label_type": "试验要素",
+			"overlap": 0,
+			"start_pos": 19,
+			"end_pos": 24
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 80,
+			"end_pos": 81
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 83,
+			"end_pos": 84
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 86,
+			"end_pos": 95
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 97,
+			"end_pos": 100
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 114,
+			"end_pos": 115
+		},
+		{
+			"label_type": "性能指标",
+			"overlap": 0,
+			"start_pos": 123,
+			"end_pos": 132
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 30,
+			"end_pos": 47
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 49,
+			"end_pos": 59
+		},
+		{
+			"label_type": "系统组成",
+			"overlap": 0,
+			"start_pos": 145,
+			"end_pos": 150
+		}
+	]
+}
